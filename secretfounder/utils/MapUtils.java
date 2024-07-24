@@ -18,13 +18,11 @@ import net.minecraft.world.storage.MapData;
 import silence.simsool.mods.others.secretfounder.dungeon.DungeonManager;
 
 public class MapUtils {
-	
-	static Minecraft mc = Minecraft.getMinecraft();
-
-	public static boolean mapExists() {
+    static Minecraft mc = Minecraft.getMinecraft();
+    public static boolean mapExists() {
         if (mc.thePlayer == null || mc.thePlayer.inventory == null || mc.thePlayer.inventory.getStackInSlot(8) == null) return false;
-        ItemStack mapSlot = mc.thePlayer.inventory.getStackInSlot(8); //check last slot where map should be
-        if (mapSlot == null || mapSlot.getItem() != Items.filled_map || !mapSlot.hasDisplayName()) return false; //make sure it is a map, not SB Menu or Spirit Bow, etc
+        ItemStack mapSlot = mc.thePlayer.inventory.getStackInSlot(8);
+        if (mapSlot == null || mapSlot.getItem() != Items.filled_map || !mapSlot.hasDisplayName()) return false;
         return mapSlot.getDisplayName().contains("Magical Map");
     }
 
@@ -44,13 +42,13 @@ public class MapUtils {
         if(mapData == null) return null;
         Integer[][] map = new Integer[128][128];
         for (int i = 0; i < 16384; ++i) {
-            int x = i % 128; //get x coordinate of pixel being read
-            int y = i / 128; //get y coordinate of pixel being read
+            int x = i % 128;
+            int y = i / 128;
             int j = mapData.colors[i] & 255;
             int rgba;
             if (j / 4 == 0) rgba = (i + i / 128 & 1) * 8 + 16 << 24;
             else rgba = MapColor.mapColorArray[j / 4].getMapColor(j & 3);
-            map[x][y] = rgba & 0x00FFFFFF; //get rgb value from rgba
+            map[x][y] = rgba & 0x00FFFFFF;
         }
         return map;
     }
@@ -60,9 +58,9 @@ public class MapUtils {
         Point[] corners = new Point[2];
         for (int x = 0; x < 128; x++) {
             for (int y = 0; y < 128; y++) {
-                if (map[x][y] != null && map[x][y] == 31744 && map[x][y-1] != null && map[x][y-1] == 0) { //check for Green entrance room pixels and make sure row above is blank
-                    if (map[x - 1][y] != null && map[x - 1][y] == 0) corners[0] = new Point(x, y); //Left corner
-                    else if (map[x + 1][y] != null && map[x + 1][y] == 0) corners[1] = new Point(x, y); //Right Corner
+                if (map[x][y] != null && map[x][y] == 31744 && map[x][y-1] != null && map[x][y-1] == 0) {
+                    if (map[x - 1][y] != null && map[x - 1][y] == 0) corners[0] = new Point(x, y);
+                    else if (map[x + 1][y] != null && map[x + 1][y] == 0) corners[1] = new Point(x, y);
                 }
             }
             if (corners[0] != null && corners[1] != null) break;
@@ -71,13 +69,13 @@ public class MapUtils {
     }
 
     public static Point getClosestNWMapCorner(Point mapPos, Point leftCorner, Point rightCorner) {
-        int roomWidthAndGap = rightCorner.x - leftCorner.x + 1 + 4; //+1 to count left corner block, +4 to account for gap between rooms
+        int roomWidthAndGap = rightCorner.x - leftCorner.x + 1 + 4;
         Point origin = new Point(leftCorner.x % roomWidthAndGap, leftCorner.y % roomWidthAndGap);
-        mapPos.x = mapPos.x + 2; //shift by 2 so room borders are evenly split
+        mapPos.x = mapPos.x + 2;
         mapPos.y = mapPos.y + 2;
-        int x = mapPos.x - (mapPos.x % roomWidthAndGap) + origin.x; //round down to room size grid
+        int x = mapPos.x - (mapPos.x % roomWidthAndGap) + origin.x;
         int y = mapPos.y - (mapPos.y % roomWidthAndGap) + origin.y;
-        if (x > mapPos.x) x -= roomWidthAndGap; //make sure coordinates are being rounded down (in case origin value being too large)
+        if (x > mapPos.x) x -= roomWidthAndGap;
         if (y > mapPos.y) y -= roomWidthAndGap;
         return new Point(x, y);
     }
@@ -104,10 +102,10 @@ public class MapUtils {
     }
 
     public static Point mapToPhysicalCorner(Point mapCorner, Point physicalLeftCorner, Point leftCorner, Point rightCorner) {
-        int roomWidthAndGap = rightCorner.x - leftCorner.x + 1 + 4; //+1 to count left corner block, +4 to account for gap between rooms
-        int xShift = (mapCorner.x - leftCorner.x) / roomWidthAndGap; //how many 1x1 grids away the closest corner is from entrance
+        int roomWidthAndGap = rightCorner.x - leftCorner.x + 1 + 4;
+        int xShift = (mapCorner.x - leftCorner.x) / roomWidthAndGap;
         int yShift = (mapCorner.y - leftCorner.y) / roomWidthAndGap;
-        int x = physicalLeftCorner.x + (32 * xShift); //translate grid distance to the physical
+        int x = physicalLeftCorner.x + (32 * xShift);
         int y = physicalLeftCorner.y + (32 * yShift);
         return new Point(x, y);
     }
@@ -132,7 +130,7 @@ public class MapUtils {
                     return "orange";
                 case 16711680:
                     return "red";
-                default: //includes default blank background color = 0 and any other possible map colors
+                default:
                     return "undefined";
             }
         }
@@ -141,24 +139,24 @@ public class MapUtils {
 
     public static List<Point> neighboringSegments(Point originCorner, Integer[][] map, Point leftCorner, Point rightCorner, List<Point> list) {
         if (!list.contains(originCorner)) list.add(originCorner);
-        if (!getMapColor(originCorner, map).equals("brown")) return list; //only continue if square is brown
-        int roomWidth = rightCorner.x - leftCorner.x + 1; //+1 to count left corner block
+        if (!getMapColor(originCorner, map).equals("brown")) return list;
+        int roomWidth = rightCorner.x - leftCorner.x + 1;
         List<Point> pointsToCheck = new ArrayList<>();
-        pointsToCheck.add(new Point(originCorner.x, originCorner.y - 1)); //up
-        pointsToCheck.add(new Point(originCorner.x, originCorner.y + roomWidth)); //down
-        pointsToCheck.add(new Point(originCorner.x - 1, originCorner.y)); //left
-        pointsToCheck.add(new Point(originCorner.x + roomWidth, originCorner.y)); //right
-        List<Point> pointsToTransform = new ArrayList<>(); //pointsToCheck +/- 4 to jump gap and calc correct closest NW corner
-        pointsToTransform.add(new Point(originCorner.x, originCorner.y - 1 - 4)); //up
-        pointsToTransform.add(new Point(originCorner.x, originCorner.y + roomWidth + 4)); //down
-        pointsToTransform.add(new Point(originCorner.x -1 - 4, originCorner.y)); //left
-        pointsToTransform.add(new Point(originCorner.x + roomWidth + 4, originCorner.y)); //right
+        pointsToCheck.add(new Point(originCorner.x, originCorner.y - 1));
+        pointsToCheck.add(new Point(originCorner.x, originCorner.y + roomWidth));
+        pointsToCheck.add(new Point(originCorner.x - 1, originCorner.y));
+        pointsToCheck.add(new Point(originCorner.x + roomWidth, originCorner.y));
+        List<Point> pointsToTransform = new ArrayList<>();
+        pointsToTransform.add(new Point(originCorner.x, originCorner.y - 1 - 4));
+        pointsToTransform.add(new Point(originCorner.x, originCorner.y + roomWidth + 4));
+        pointsToTransform.add(new Point(originCorner.x -1 - 4, originCorner.y));
+        pointsToTransform.add(new Point(originCorner.x + roomWidth + 4, originCorner.y));
         for (int i = 0; i < 4; i++) {
             if (getMapColor(pointsToCheck.get(i), map).equals("brown")) {
                 Point newCorner = getClosestNWMapCorner(pointsToTransform.get(i), leftCorner, rightCorner);
                 if (!list.contains(newCorner)) {
                     list.add(newCorner);
-                    list = neighboringSegments(newCorner, map, leftCorner, rightCorner, list); //check for neighboring segments from the new point
+                    list = neighboringSegments(newCorner, map, leftCorner, rightCorner, list);
                 }
             }
         }
@@ -229,7 +227,6 @@ public class MapUtils {
             xSet.add(segment.x);
             ySet.add(segment.y);
         }
-
         switch (direction) {
             case "NW":
                 return new Point(xSet.first(), ySet.first());
@@ -260,12 +257,10 @@ public class MapUtils {
             if (roomSize.equals("L-shape")) {
                 List<Integer> x = new ArrayList<>(xSet);
                 List<Integer> y = new ArrayList<>(ySet);
-
                 if (!currentRoomSegments.contains(new Point(x.get(0), y.get(0)))) directions.add("SW");
                 else if (!currentRoomSegments.contains(new Point(x.get(0), y.get(1)))) directions.add("SE");
                 else if (!currentRoomSegments.contains(new Point(x.get(1), y.get(0)))) directions.add("NW");
                 else if (!currentRoomSegments.contains(new Point(x.get(1), y.get(1)))) directions.add("NE");
-
             } else if (roomSize.startsWith("1x")) {
                 if (xSet.size() >= 2  && ySet.size() == 1) {
                     directions.add("NW");
