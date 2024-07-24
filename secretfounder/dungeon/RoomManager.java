@@ -1,7 +1,6 @@
 package silence.simsool.mods.others.secretfounder.dungeon;
 
 import static silence.simsool.mods.others.secretfounder.dungeon.DungeonManager.*;
-
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,9 +14,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
-
 import com.google.gson.JsonObject;
-
 import gg.essential.universal.UChat;
 import net.minecraft.block.Block;
 import net.minecraft.block.state.IBlockState;
@@ -201,7 +198,6 @@ public class RoomManager {
     public static Integer extractMapId() {
         if (!MapUtils.mapExists()) return null;
         ItemStack mapSlot = Minecraft.getMinecraft().thePlayer.inventory.getStackInSlot(8);
-        // MapUtils.updatedMap(mapSlot); // - Skip check
         return mapId = mapSlot.getMetadata();
     }
 
@@ -285,9 +281,6 @@ public class RoomManager {
                     doubleCheckedBlocks++;
                 }
             }
-//            if (blocksChecked.size() == blocksToCheck.size()) { //only print for this condition bc other conditions break to here
-//            	
-//            }
             blocksUsed.addAll(blocksChecked);
             totalBlocksAvailableToCheck += blocksToCheck.size();
             blocksToCheck = new HashMap<>();
