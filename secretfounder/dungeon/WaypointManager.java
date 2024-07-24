@@ -6,12 +6,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
 import org.lwjgl.input.Keyboard;
-
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
@@ -45,7 +42,6 @@ public class WaypointManager {
     public static List<Boolean> secretsList = new ArrayList<>(Arrays.asList(new Boolean[10]));
     static long lastSneakTime = 0;
 
-//    Frustum frustum = new Frustum();
     Minecraft mc = Minecraft.getMinecraft();
 
     @SubscribeEvent
@@ -74,9 +70,6 @@ public class WaypointManager {
                 BlockPos relative = new BlockPos(secretsObject.get("x").getAsInt(), secretsObject.get("y").getAsInt(), secretsObject.get("z").getAsInt());
                 BlockPos pos = MapUtils.relativeToActual(relative, RoomManager.roomDirection, RoomManager.roomCorner);
                 Entity viewer = mc.getRenderViewEntity();
-//                frustum.setPosition(viewer.posX, viewer.posY, viewer.posZ);
-//                if (!frustum.isBoxInFrustum(pos.getX(), pos.getY(), pos.getZ(), pos.getX() + 1, 255, pos.getZ() + 1)) continue;
-
                 boolean Bounding = false;
                 String mode = secretsObject.get("category").getAsString(); Color color;
                 switch (secretsObject.get("category").getAsString()) {
@@ -124,18 +117,18 @@ public class WaypointManager {
                 GlStateManager.disableCull();
                 
                 if (Bounding) {
-                	if (mode.equals("fairysoul")) RenderUtils.drawFilledBoundingBox(new AxisAlignedBB(x + 0.2, y, z + 0.2, x + 0.8, y + 0.55, z + 0.8), color);
+                    if (mode.equals("fairysoul")) RenderUtils.drawFilledBoundingBox(new AxisAlignedBB(x + 0.2, y, z + 0.2, x + 0.8, y + 0.55, z + 0.8), color);
                 }
                 else if (!Bounding) {
-                	if (mode.equals("bat")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.3, y + 0.3, z + 0.3, x + 1 - 0.3, y + 1 - 0.3, z + 1 - 0.3), color, 3.0F);
-                	else if (mode.equals("item")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.25, y, z + 0.25, x + 0.75, y + 0.3, z + 0.75), color, 1.5F);
-                	else if (mode.equals("chest")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.05, y, z + 0.05, x + 0.95, y + 0.9, z + 0.95), color, 3.05F);
-                	else if (mode.equals("lever")) RenderUtils.drawCurrentSeletectBox(pos, color, 3.25F, 0.0F, 0.0F, 0.0F, true, event.partialTicks);
-                	else if (mode.equals("redstone") || mode.equals("wither")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.2, y, z + 0.2, x + 0.8, y + 0.55, z + 0.8), color, 1.5F);
-                	else if (mode.equals("aotv")) {
-                		RenderUtils.drawCurrentSeletectBox(pos, new Color(115, 195, 220, 165), 1.25F, 0.0F, 0.0F, 0.0F, true, event.partialTicks);
-                		RenderUtils.drawCurrentSeletectBox(pos, color, 0.0F, 0.0F, 0.0F, 0.0F, false, event.partialTicks);
-                	}
+                    if (mode.equals("bat")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.3, y + 0.3, z + 0.3, x + 1 - 0.3, y + 1 - 0.3, z + 1 - 0.3), color, 3.0F);
+                        else if (mode.equals("item")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.25, y, z + 0.25, x + 0.75, y + 0.3, z + 0.75), color, 1.5F);
+                        else if (mode.equals("chest")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.05, y, z + 0.05, x + 0.95, y + 0.9, z + 0.95), color, 3.05F);
+                        else if (mode.equals("lever")) RenderUtils.drawCurrentSeletectBox(pos, color, 3.25F, 0.0F, 0.0F, 0.0F, true, event.partialTicks);
+                        else if (mode.equals("redstone") || mode.equals("wither")) RenderUtils.drawLineBoundingBox(new AxisAlignedBB(x + 0.2, y, z + 0.2, x + 0.8, y + 0.55, z + 0.8), color, 1.5F);
+                        else if (mode.equals("aotv")) {
+                            RenderUtils.drawCurrentSeletectBox(pos, new Color(115, 195, 220, 165), 1.25F, 0.0F, 0.0F, 0.0F, true, event.partialTicks);
+                            RenderUtils.drawCurrentSeletectBox(pos, color, 0.0F, 0.0F, 0.0F, 0.0F, false, event.partialTicks);
+                        }
                 }
                 GlStateManager.disableTexture2D();
                 GlStateManager.disableLighting();
@@ -235,7 +228,6 @@ public class WaypointManager {
             }
         }
     }
-
 
     @SubscribeEvent
     public void onSneak(InputEvent.KeyInputEvent event) {
