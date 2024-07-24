@@ -56,7 +56,7 @@ public class RoomManager {
     static long redoScan = 0;
     static int entranceMapNullCount = 0;
     static int tickAmount = 1;
-    
+
     Minecraft mc = Minecraft.getMinecraft();
 
     @SubscribeEvent
