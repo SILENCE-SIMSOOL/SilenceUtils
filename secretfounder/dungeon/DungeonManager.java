@@ -1,7 +1,6 @@
 package silence.simsool.mods.others.secretfounder.dungeon;
 
 import java.awt.Point;
-
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.Vec3;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
@@ -14,14 +13,14 @@ import silence.simsool.mods.others.secretfounder.utils.MapUtils;
 import silence.simsool.mods.others.secretfounder.utils.SFUtils;
 
 public class DungeonManager {
-    public static int gameStage = 0; //0: Not in Dungeon, 1: Entrance/Not Started, 2: Room Clear, 3: Boss, 4: Done
+    public static int gameStage = 0;
     public static Integer[][] map;
     public static Point[] entranceMapCorners;
     public static Point entrancePhysicalNWCorner;
     public static Integer mapId;
     long bloodTime = Long.MAX_VALUE;
     static int tickAmount = 0;
-    boolean oddRun = true; //if current run number is even or odd
+    boolean oddRun = true;
     
     Minecraft mc = Minecraft.getMinecraft();
 
@@ -37,7 +36,6 @@ public class DungeonManager {
                 RoomManager.resetCurrentRoom();
                 RoomManager.roomName = "Boss Room";
                 RoomManager.roomCategory = "General";
-                //RoomDetection.newRoom() //uncomment to display Boss Room in gui
             }
         } 
         else if (message.contains("§r§c☠ §r§eDefeated §r")) {
@@ -56,13 +54,9 @@ public class DungeonManager {
     		tickAmount = 0;
 	        if (gameStage == 0 || gameStage == 1) {
 	            if (gameStage == 0) gameStage = 1;
-	            if (MapUtils.mapExists()) {
-	                gameStage = 2; return;
-	            }
+	            if (MapUtils.mapExists()) gameStage = 2; return;
 	            if (gameStage == 1 && entrancePhysicalNWCorner == null && mc.thePlayer.getPositionVector() != null) {
-	                if (!mc.thePlayer.getPositionVector().equals(new Vec3(0.0D,0.0D,0.0D))) {
-	                    entrancePhysicalNWCorner = MapUtils.getClosestNWPhysicalCorner(mc.thePlayer.getPositionVector());
-	                }
+	                if (!mc.thePlayer.getPositionVector().equals(new Vec3(0.0D,0.0D,0.0D))) entrancePhysicalNWCorner = MapUtils.getClosestNWPhysicalCorner(mc.thePlayer.getPositionVector());
 	            }
 	        }
         }
