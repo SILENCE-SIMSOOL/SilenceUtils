@@ -10,12 +10,9 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
-
 import org.lwjgl.input.Keyboard;
-
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-
 import gg.essential.universal.UChat;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.settings.KeyBinding;
@@ -36,8 +33,7 @@ import silence.simsool.mods.others.secretfounder.utils.SFUtils;
 
 public class SecretFounder {
 	
-	public static String PREFIX = "§8[§5Secret§dFounder§8]§f";
-	
+    public static String PREFIX = "§8[§5Secret§dFounder§8]§f";
     public static JsonObject roomsJson;
     public static JsonObject waypointsJson;
     public static HashMap<String,HashMap<String,long[]>> ROOM_DATA = new HashMap<>();
@@ -74,7 +70,7 @@ public class SecretFounder {
     
     public static void loadData() {
     	try {
-        	List<Path> paths = SFUtils.getAllPaths("catacombs");
+            List<Path> paths = SFUtils.getAllPaths("catacombs");
             final ExecutorService ex = Executors.newFixedThreadPool(4);
             Future<HashMap<String, long[]>> f1x1 = ex.submit(() -> SFUtils.pathsToRoomData("1x1", paths));
             Future<HashMap<String, long[]>> f1x2 = ex.submit(() -> SFUtils.pathsToRoomData("1x2", paths));
