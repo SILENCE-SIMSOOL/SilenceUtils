@@ -11,7 +11,7 @@ import java.util.List;
 public class RoomUtils {
     public static final double DEG_TO_RAD = Math.PI / 180.0;
     public static final double RAD_TO_DEG = 180.0 / Math.PI;
-    
+
     static Minecraft mc = Minecraft.getMinecraft();
     static EntityPlayerSP player = mc.thePlayer;
 
