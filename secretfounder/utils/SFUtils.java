@@ -18,7 +18,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.stream.Stream;
 import java.util.zip.InflaterInputStream;
-
 import silence.simsool.Main;
 import silence.simsool.handlers.ScoreboardHandler;
 
@@ -37,31 +36,6 @@ public class SFUtils {
             }
         }
     }
-
-//    public static List<Path> getAllPaths (String folderName) {
-//        List<Path> paths = new ArrayList<>();
-//        try {
-//            URI uri = Main.class.getResource(resourcePath + folderName).toURI();
-//            Path Path;
-//            FileSystem fileSystem = null;
-//            if (uri.getScheme().equals("jar")) {
-//                fileSystem = FileSystems.newFileSystem(uri, Collections.emptyMap());
-//                Path = fileSystem.getPath(resourcePath + folderName);
-//            } else {
-//                Path = Paths.get(uri);
-//            }
-//            Stream<Path> walk = Files.walk(Path, 3);
-//            for (Iterator<Path> it = walk.iterator(); it.hasNext();) {
-//                Path path = it.next();
-//                String name = path.getFileName().toString();
-//                if (name.endsWith(".skeleton")) paths.add(path);
-//            }
-//            if (fileSystem != null) fileSystem.close();
-//        } catch (URISyntaxException | IOException e) {
-//            e.printStackTrace();
-//        }
-//        return paths;
-//    }
     
     public static List<Path> getAllPaths(String folderName) {
     	List<Path> paths = new ArrayList<>();
@@ -92,14 +66,14 @@ public class SFUtils {
                 if (!path.getParent().getFileName().toString().equals(parentFolder)) continue;
                 String name = path.getFileName().toString();
                 if (DEV) {
-	                InputStream input = new FileInputStream(path.toFile());
-	                try (ObjectInputStream data = new ObjectInputStream(new InflaterInputStream(input))) {
-						long[] roomData = (long[]) data.readObject();
-						allRoomData.put(name.substring(0, name.length() - 9), roomData);
-					}
+	            InputStream input = new FileInputStream(path.toFile());
+	            try (ObjectInputStream data = new ObjectInputStream(new InflaterInputStream(input))) {
+		        long[] roomData = (long[]) data.readObject();
+			allRoomData.put(name.substring(0, name.length() - 9), roomData);
+			}
                 }
                 else {
-                	InputStream input = Main.class.getResourceAsStream(path.toString());
+                    InputStream input = Main.class.getResourceAsStream(path.toString());
                     ObjectInputStream data = new ObjectInputStream(new InflaterInputStream(input));
                     long[] roomData = (long[]) data.readObject();
                     allRoomData.put(name.substring(0, name.length() - 9), roomData);
