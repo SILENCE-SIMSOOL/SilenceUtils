@@ -32,7 +32,7 @@ import silence.simsool.mods.others.secretfounder.dungeon.WaypointManager;
 import silence.simsool.mods.others.secretfounder.utils.SFUtils;
 
 public class SecretFounder {
-	
+
     public static String PREFIX = "§8[§5Secret§dFounder§8]§f";
     public static JsonObject roomsJson;
     public static JsonObject waypointsJson;
