@@ -46,19 +46,19 @@ public class DungeonManager {
 
     @SubscribeEvent
     public void onTick(TickEvent.ClientTickEvent event) {
-    	if (!SFUtils.inCatacombs || event.phase != TickEvent.Phase.START || mc.thePlayer == null) return;
-    	tickAmount++;
-    	int t = (Config.RoomDetectPerformance == 0) ? 10 : 8;
+        if (!SFUtils.inCatacombs || event.phase != TickEvent.Phase.START || mc.thePlayer == null) return;
+        tickAmount++;
+        int t = (Config.RoomDetectPerformance == 0) ? 10 : 8;
         if (Config.RoomDetectPerformance == 2) t = 6;
-    	if (tickAmount > t) {
-    		tickAmount = 0;
-	        if (gameStage == 0 || gameStage == 1) {
-	            if (gameStage == 0) gameStage = 1;
-	            if (MapUtils.mapExists()) gameStage = 2; return;
-	            if (gameStage == 1 && entrancePhysicalNWCorner == null && mc.thePlayer.getPositionVector() != null) {
-	                if (!mc.thePlayer.getPositionVector().equals(new Vec3(0.0D,0.0D,0.0D))) entrancePhysicalNWCorner = MapUtils.getClosestNWPhysicalCorner(mc.thePlayer.getPositionVector());
-	            }
-	        }
+        if (tickAmount > t) {
+            tickAmount = 0;
+            if (gameStage == 0 || gameStage == 1) {
+                if (gameStage == 0) gameStage = 1;
+                if (MapUtils.mapExists()) gameStage = 2; return;
+                if (gameStage == 1 && entrancePhysicalNWCorner == null && mc.thePlayer.getPositionVector() != null) {
+                    if (!mc.thePlayer.getPositionVector().equals(new Vec3(0.0D,0.0D,0.0D))) entrancePhysicalNWCorner = MapUtils.getClosestNWPhysicalCorner(mc.thePlayer.getPositionVector());
+                }
+            }
         }
     }
 
