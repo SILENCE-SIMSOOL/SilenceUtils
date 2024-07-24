@@ -5,7 +5,6 @@ import net.minecraft.client.entity.EntityPlayerSP;
 import net.minecraft.util.BlockPos;
 import net.minecraft.util.MathHelper;
 import net.minecraft.util.Vec3;
-
 import java.util.*;
 import java.util.List;
 
@@ -30,7 +29,6 @@ public class RoomUtils {
         float aspectRatio = (float) mc.displayWidth / (float) mc.displayHeight;
         double fovV = mc.gameSettings.fovSetting * mc.thePlayer.getFovModifier();
         double fovH = Math.atan(aspectRatio * Math.tan(fovV * DEG_TO_RAD / 2)) * 2 * RAD_TO_DEG;
-
         float verticalSpacing = (float) (fovV * 0.8 / vectorQuantity);
         float horizontalSpacing = (float) (fovH * 0.9 / vectorQuantity);
         float playerYaw = player.rotationYaw;
@@ -53,30 +51,7 @@ public class RoomUtils {
         return vectorList;
     }
 
-    public static HashSet<Integer> whitelistedBlocks = new HashSet<>(Arrays.asList(
-            //These are the blocks which are stored in the ".skeleton" files
-            100, //Stone
-            103, //Diorite
-            104, //Polished Diorite
-            105, //Andesite
-            106, //Polished Andesite
-            200, //Grass
-            300, //Dirt
-            301, //Coarse Dirt
-            400, //Cobblestone
-            700, //Bedrock
-            1800, //Oak Leaves
-            3507, //Gray Wool
-            4300, //Double Stone Slab
-            4800, //Mossy Cobblestone
-            8200, //Clay
-            9800, //Stone Bricks
-            9801, //Mossy Stone Bricks
-            9803, //Chiseled Stone Bricks
-            15907, //Gray Stained Clay
-            15909, //Cyan Stained Clay
-            15915 //Black Stained Clay
-    ));
+    public static HashSet<Integer> whitelistedBlocks = new HashSet<>(Arrays.asList(100, 103, 104, 105, 106, 200, 300, 301, 400, 700, 1800, 3507, 4300, 4800, 8200, 9800, 9801, 9803, 15907, 15909, 15915));
 
     public static boolean blockPartOfDoorway(BlockPos blockToCheck) {
         if (blockToCheck.getY() < 66 || blockToCheck.getY() > 73) return false;
