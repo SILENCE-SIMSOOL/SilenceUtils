@@ -25,7 +25,7 @@ public class SFUtils {
     private final static String resourcePath = "/assets/silenceutils/secretfounder/"; 
     public static boolean inCatacombs = false;
     private static final boolean DEV = false;
-    
+
     public static void checkForCatacombs() {
         List<String> scoreboard = ScoreboardHandler.getSidebarLines();
         for (String s : scoreboard) {
