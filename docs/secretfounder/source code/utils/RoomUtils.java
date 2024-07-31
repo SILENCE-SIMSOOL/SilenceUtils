@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
-
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.entity.EntityPlayerSP;
 import net.minecraft.util.BlockPos;
@@ -53,7 +52,7 @@ public class RoomUtils {
 		return vectorList;
 	}
 
-    public static HashSet<Integer> whitelistedBlocks = new HashSet<>(Arrays.asList(100, 103, 104, 105, 106, 200, 300, 301, 400, 700, 1800, 3507, 4300, 4800, 8200, 9800, 9801, 9803, 15907, 15909, 15915));
+	public static HashSet<Integer> whitelistedBlocks = new HashSet<>(Arrays.asList(100, 103, 104, 105, 106, 200, 300, 301, 400, 700, 1800, 3507, 4300, 4800, 8200, 9800, 9801, 9803, 15907, 15909, 15915));
 
 	public static boolean blockPartOfDoorway(BlockPos blockToCheck) {
 		if (blockToCheck.getY() < 66 || blockToCheck.getY() > 73) return false;
