@@ -15,9 +15,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
-
 import com.google.gson.JsonObject;
-
 import gg.essential.universal.UChat;
 import net.minecraft.block.Block;
 import net.minecraft.block.state.IBlockState;
@@ -214,7 +212,7 @@ public class RoomManager {
 
 	void raytraceBlocks() {
 		long timeStart = System.currentTimeMillis();
-		List<Vec3> vecList = RoomUtils.vectorsToRaytrace(24); // actually creates 24^2 = 576 raytrace vectors
+		List<Vec3> vecList = RoomUtils.vectorsToRaytrace(24);
 		Vec3 eyes = new Vec3(mc.thePlayer.posX, mc.thePlayer.posY + (double) mc.thePlayer.getEyeHeight(), mc.thePlayer.posZ);
 		for (Vec3 vec : vecList) {
 			MovingObjectPosition raytraceResult = mc.thePlayer.getEntityWorld().rayTraceBlocks(eyes, vec, false, false, true);
