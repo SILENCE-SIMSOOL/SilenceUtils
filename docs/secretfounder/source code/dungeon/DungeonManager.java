@@ -1,7 +1,6 @@
 package silence.simsool.mods.others.secretfounder.dungeon;
 
 import java.awt.Point;
-
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.Vec3;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
