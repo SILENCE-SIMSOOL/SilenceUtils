@@ -6,12 +6,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
 import org.lwjgl.input.Keyboard;
-
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
