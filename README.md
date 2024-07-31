@@ -1,4 +1,4 @@
-# 사용자 가이드
+# 사일런스 유틸 문서
 [[한국어]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation)  |  [[English]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-User-Guide/tree/English)
 
 ## ❓ SILENCE UTILS 란
