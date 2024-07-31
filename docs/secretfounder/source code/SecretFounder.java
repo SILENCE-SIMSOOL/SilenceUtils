@@ -10,12 +10,9 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
-
 import org.lwjgl.input.Keyboard;
-
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-
 import gg.essential.universal.UChat;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.settings.KeyBinding;
@@ -40,8 +37,7 @@ public class SecretFounder {
 	public static JsonObject waypointsJson;
 	public static HashMap<String, HashMap<String, long[]>> ROOM_DATA = new HashMap<>();
 	static int tickAmount = 1;
-	public static final KeyBinding Keybind_Toggle = new KeyBinding("Toggle SecretFounder", Keyboard.KEY_H,
-			"Silence Utils");
+	public static final KeyBinding Keybind_Toggle = new KeyBinding("Toggle SecretFounder", Keyboard.KEY_H, "Silence Utils");
 	private static Minecraft mc = Minecraft.getMinecraft();
 
 	public static void unload() {
@@ -59,11 +55,8 @@ public class SecretFounder {
 		e.register(new DungeonManager());
 		e.register(new RoomManager());
 		e.register(new WaypointManager());
-		try (BufferedReader roomsReader = new BufferedReader(new InputStreamReader(mc.getResourceManager()
-				.getResource(new ResourceLocation(Main.MODID, "secretfounder/dungeonrooms.json")).getInputStream()));
-				BufferedReader waypointsReader = new BufferedReader(new InputStreamReader(mc.getResourceManager()
-						.getResource(new ResourceLocation(Main.MODID, "secretfounder/secretlocations.json"))
-						.getInputStream()))) {
+		try (BufferedReader roomsReader = new BufferedReader(new InputStreamReader(mc.getResourceManager().getResource(new ResourceLocation(Main.MODID, "secretfounder/dungeonrooms.json")).getInputStream()));
+				BufferedReader waypointsReader = new BufferedReader(new InputStreamReader(mc.getResourceManager().getResource(new ResourceLocation(Main.MODID, "secretfounder/secretlocations.json")).getInputStream()))) {
 			Gson gson = new Gson();
 			roomsJson = gson.fromJson(roomsReader, JsonObject.class);
 			waypointsJson = gson.fromJson(waypointsReader, JsonObject.class);
