@@ -8,3 +8,4 @@
 시크릿 파운더는 던전룸스를 기반으로 만들어진 모드로 **일부 코드를 공개**하고 있습니다.    
 시크릿 파운더의 코드와 시크릿 데이터를 확인하고 사용하는 것을 **허용**합니다.  
 실제 모드와 다소 다를 수 있습니다.  
+[[소스코드 보러가기]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/tree/main/docs/secretfounder/source%20code)
