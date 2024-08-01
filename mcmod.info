@@ -1,0 +1,16 @@
+[
+{
+  "modid": "silenceutils",
+  "name": "Silence Utils",
+  "description": "This mod made for Hypixel Skyblock",
+  "version": "*.*.*",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SimSool"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
