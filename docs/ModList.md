@@ -1,4 +1,5 @@
 | Features                                                             | Description |
 |----------------------------------------------------------------------|------------------------------------------|
-| [Inventory Button](https://www.java.com/#LOL)                        | 인벤토리에 여러 간편 메뉴로 통하는 버튼을 생성합니다. 상자 버튼을 우클릭하면 상자와 엔더상자로 타입을 변경할 수 있으며 오른쪽 화살표로 몇 번째 상자를 열 지 정할 수 있습니다 |
-| [Always Sprint State](https://github.com/ItzSomebody/radon)          | EEPPEFE | FPFEEPEF | E           | 269KB  |
+| [Inventory Button](https://www.java.com/#LOL)                        | 인벤토리에 여러 간편 메뉴로 통하는 버튼을 생성합니다. 상자 버튼을 우클릭하면 상자와 엔더상자로 타입을 변경할 수 있으며 오른쪽 화살표로 몇 번째 상자를 열 지 정할 수 있습니다. 핑이 높다면 스카이블럭 메뉴창을 여는 시간을 단축할 수도 있습니다. |
+
+| [Always Sprint State](https://github.com/ItzSomebody/radon)          |  |
