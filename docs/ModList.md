@@ -1,4 +1,4 @@
-| Obfuscator                                                                        | Test#1  | Test#2   | Performance | Size   |
-|-----------------------------------------------------------------------------------|---------|----------|-------------|--------|
-| [None](https://www.java.com/#LOL)                                                 | PPPPPPP | PPPPPPPP | 27ms        | 29KB   | Some of my personal views :P (You find it!)
-| [Radon3](https://github.com/ItzSomebody/radon)                                    | EEPPEFE | FPFEEPEF | E           | 269KB  | Crappy indeed.
+| Features                                                             | Description |
+|----------------------------------------------------------------------|---------------------------------------------------------------|
+| [Inventory Button](https://www.java.com/#LOL)                        | 인벤토리에 버튼을 띄워줍니다인벤토리에 버튼을 띄워줍니다인벤토리에 버튼을 띄워줍니다인벤토리에 버튼을 띄워줍니다인벤토리에 버튼을 띄워줍니다 |
+| [Always Sprint State](https://github.com/ItzSomebody/radon)          | EEPPEFE | FPFEEPEF | E           | 269KB  |
