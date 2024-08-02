@@ -23,7 +23,7 @@
 Skytils 모드 이야기를 한 이유는 **사일런스 유틸의 탄생의 이유**와 **그로 인해 가지게 되는 성격**을 설명하기 위함이었습니다.  
 사일런스 유틸은 **Skytils를 스카이블럭의 메인 모드**로 삼으며 **Skytils에 없거나 새로운 모드**, **Skytils의 부족한 기능들을 위주로 제작**됩니다.  
 그리하여 **Skytils 모드를 꼭 사용하실 것을 권장** 드리며, 해당 모드와는 별개로 스카이블럭 게임 중 없어서는 안 될 모드입니다.  
-필자는 스카이블럭 게임에서 SilenceUtils, [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), [Patcher](https://github.com/Sk1erLLC/Patcher) 로 총 4개의 모드만을 사용합니다.  
+필자는 스카이블럭 게임에서 [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), [Patcher](https://github.com/Sk1erLLC/Patcher) 로 총 4개의 모드만을 사용합니다.  
 
 ## 🛫 모드가 추구하는 방향성
 위의 설명을 통해 알 수 있듯이 사일런스 유틸모드는 가능한 많은 **잡다한 기능들을 만들려고 노력하지 않습니다**.  
