@@ -4,7 +4,7 @@
 <p align="center">
   <br />
   <br />
-  <a href="https://www.guardsquare.com/proguard">
+  <a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
     <img
       src="t.png"
       alt="ProGuard" width="1200">
