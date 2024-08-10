@@ -27,6 +27,22 @@
 | Pre-4 Status HUD (i4)  | 사일런스 유틸을 사용하고 있는 유저들끼리 서로 공유하여 화면 상단에 현재 프리포 성공여부를 띄워줍니다. |
 | Party Finder Join Message | 던전 큐에서 사람이 들어왔을 때 그 사람의 스텟을 알려줍니다. 아이콘에 초록불이 들어오면 스피릿펫을 가지고 있다는 것이며 이름을 누르면 스텟 사이트로 이동합니다. |
 | Party Finder GUI Icon | 파티 파인더 메뉴에서 파티원 정보를 보다 보기 편하게 변경하며 들어가지 못하는 파티를 아이콘을 통해 알려줍니다. |
+| Spirit / Bonzo Mask Cooltime Alert | 스피릿 / 본조 마스크 사용 후 쿨타임이 돌아왔을 때 알려줍니다. |
+| Tyfr Command Timeout   | `/tyfr` `/ty` 명령어를 사용하였을 때 파티를 얼마나 늦게 나갈 지 설정합니다. |
+| Arrow Shop Icon        | 화살 상점 메뉴의 아이콘을 보다 보기 편하게 변경해줍니다. |
+| No Wait Dungeon Start  | 파티가 5명이 되지 않았을 때 던전 시작 대기를 기다리지 않고 바로 시작합니다. |
+| Spirit Leap Icon       | 스피릿 립 메뉴를 열었을 때 클래스에 맞게 아이콘을 변경하고 디자인을 변경합니다. |
+| Spirit Leap Control    | 설정된 스피릿 립 키바인드를 이용하여 키보드로 립을 탈 수 있습니다. |
+| Spirit Leap Send       | 스피릿 립을 사용했을 때 누구한테 탔는지 파티 채팅을 보냅니다. |
+| Terminal Practice Click Cooltime | `/su terminal` 명령어에서 클릭 사이의 딜레이를 설정합니다. |
+| Get EnderPearl         | `/ep` `/enderpearl` 명령어 혹은 곡괭이나 엔더펄을 손에 들고 마우스 휠 클릭 시 (16 - 현재 가지고 있는 엔더펄 개수) 만큼 엔더펄을 지급합니다. |
+| Dragon Statue Box      | 드래곤 동상의 히트박스를 그려줍니다. |
+| Dragon Title Message   | 소환될 드래곤을 타이틀 메세지로 알려줍니다. 이때 클래스별로 가야할 드래곤을 계산해서 알려줍니다. |
+| Dragon Timer           | 드래곤이 몇초 후 소환될 지 타이머를 띄워 알려줍니다. |
+| Dragon Timer Type      | 드래곤 타이머의 디자인 유형을 선택합니다. |
+| Line for Current Dragon | 드래곤 소환전 가야할 곳을 반응하기 쉽게 선으로 그려 길을 알려줍니다.
+| Split Mode for Dragon  | 첫 번째 드래곤 소환 때 스플릿 여부를 선택합니다. 파티채팅으로 `s` `ns` 를 입력하여 변경할 수 있습니다.
+| Last Breath Waypoint for Dragon | 클래스에 맞게 라스트 브래스 위치 혹은 스태킹 위치를 웨이포인트로 알려줍니다. | 
 
 
 | Farming                                                              | Description |
