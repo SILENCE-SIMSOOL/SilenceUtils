@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/16.6/Optimizer-16.6.exe">
+	<a href="link">
+		<img src="resource/en.png" alt="ProGuard" width="100">
+	</a>
+	<a href="link">
 		<img src="resource/en.png" alt="ProGuard" width="100">
 	</a>
 </p>
