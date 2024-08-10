@@ -6,9 +6,15 @@
   <br />
   <a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
     <img
-      src="t.png"
+      src="resource/title.png"
       alt="ProGuard" width="1200">
   </a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/hellzerg/optimizer/releases/download/16.6/Optimizer-16.6.exe">
+		<img src="resource/en.png">
+	</a>
 </p>
 
 ## ❓ SILENCE UTILS 란
