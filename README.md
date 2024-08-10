@@ -11,9 +11,9 @@
 	<a href="link">
 		<img src="resource/kr.png" alt="Korean" width="50">
 	</a>
-	<a href="link">
+	<b href="link">
 		<img src="resource/en.png" alt="English" width="64">
-	</a>
+	</b>
 </p>
 
 ## ❓ SILENCE UTILS 란
