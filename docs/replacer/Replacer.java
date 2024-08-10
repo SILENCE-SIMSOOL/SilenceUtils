@@ -1,11 +1,5 @@
 package silence.simsool.mods.others.replacer;
 
-import net.minecraft.item.ItemStack;
-import net.minecraft.network.play.server.S2FPacketSetSlot;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import silence.simsool.config.Config;
-import silence.simsool.events.PacketEvent;
-
 public class Replacer {
 	@SubscribeEvent
 	public void onPacketReceive(PacketEvent.ReceiveEvent event) {
