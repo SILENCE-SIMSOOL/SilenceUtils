@@ -9,7 +9,7 @@
 
 <p align="center">
 	<a href="link">
-		<img src="resource/kr.png" alt="Korean" width="44">
+		<img src="resource/kr.png" alt="Korean" width="48">
 	</a>
 	<a href="link">
 		<img src="resource/en.png" alt="English" width="64">
