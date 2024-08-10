@@ -86,7 +86,7 @@ Skytils 모드 이야기를 한 이유는 **사일런스 유틸의 탄생의 이
 
 ## 📖 더 자세하게 알아보기
 사일런스 유틸의 모드 기능들은 [여기에서](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md) 확인하실 수 있습니다.  
-시크릿 파운더는 [여기에서]() 확인하실 수 있습니다.  
+시크릿 파운더는 [여기에서](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md) 확인하실 수 있습니다.  
 
 ## 💸 무료 / 유료
 사일런스 유틸은 2024년 7월 9일을 기점으로 유료 모드로 전향하였습니다.  
