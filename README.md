@@ -3,16 +3,16 @@
 [[한국어]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation)  |  [[English]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-User-Guide/tree/English)  
 <p align="center">
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
-		<img src="resource/title.png" alt="ProGuard" width="1200">
+		<img src="resource/title.png" alt="SilenceUtils Documentation" width="1200">
 	</a>
 </p>
 
 <p align="center">
 	<a href="link">
-		<img src="resource/en.png" alt="ProGuard" width="100">
+		<img src="resource/kr.png" alt="Korean" width="64">
 	</a>
 	<a href="link">
-		<img src="resource/en.png" alt="ProGuard" width="100">
+		<img src="resource/en.png" alt="English" width="64">
 	</a>
 </p>
 
