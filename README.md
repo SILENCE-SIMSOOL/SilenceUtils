@@ -2,18 +2,16 @@
 # 사일런스 유틸 문서
 [[한국어]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation)  |  [[English]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-User-Guide/tree/English)  
 <p align="center">
-  <br />
-  <br />
-  <a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
-    <img
-      src="resource/title.png"
-      alt="ProGuard" width="1200">
-  </a>
+	<br />
+	<br />
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
+	<img src="resource/title.png" alt="ProGuard" width="1200">
+	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/hellzerg/optimizer/releases/download/16.6/Optimizer-16.6.exe">
-		<img src="resource/en.png">
+		<img src="resource/title.png" alt="ProGuard" width="100">
 	</a>
 </p>
 
