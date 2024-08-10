@@ -7,7 +7,7 @@
   <a href="https://www.guardsquare.com/proguard">
     <img
       src="t.png"
-      alt="ProGuard" width="269">
+      alt="ProGuard" width="600">
   </a>
 </p>
 
