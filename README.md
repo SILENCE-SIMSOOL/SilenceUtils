@@ -6,7 +6,7 @@
   <br />
   <a href="https://www.guardsquare.com/proguard">
     <img
-      src="제목 없음.png"
+      src="t.png"
       alt="ProGuard" width="400">
   </a>
 </p>
