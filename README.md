@@ -1,6 +1,3 @@
-
-# 사일런스 유틸 문서
-[[한국어]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation)  |  [[English]](https://github.com/SILENCE-SIMSOOL/SilenceUtils-User-Guide/tree/English)  
 <p align="center">
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
 		<img src="resource/title.png" alt="SilenceUtils Documentation" width="1200">
@@ -8,12 +5,12 @@
 </p>
 
 <p align="center">
-	<a href="link">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
 		<img src="resource/kr.png" alt="Korean" width="50">
 	</a>
-	<b href="link">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-User-Guide/tree/English">
 		<img src="resource/en.png" alt="English" width="64">
-	</b>
+	</a>
 </p>
 
 ## ❓ SILENCE UTILS 란
