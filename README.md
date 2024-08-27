@@ -81,7 +81,7 @@ Continuing this as a mere hobby was turning into a free service that consumed my
 
 However, I have no intention of profiting from these mods, so I am offering them at a very low price, especially for Korean users. Additionally, I continue to support the free version, so there’s no need to purchase the paid version unless you wish to. Your support for the paid mod would be greatly appreciated, as it will help fund the development of better features in the future.
 
-[[무료버전 다운로드]]()
+[[Download the free version]]()
 
 ## 🚀 Purchasing the mod
 1. Please join the [discord server](https://discord.gg/B8tPf67gdG).
@@ -96,4 +96,14 @@ However, I have no intention of profiting from these mods, so I am offering them
 5-1. Prompt approval is possible if the game is launched within 5 to 10 minutes after purchase.
 5-2. The authentication process can take anywhere from a minimum of 1 minute to a maximum of 24 hours.
 
-## ❗
+## ❗ Before purchase
+① Silence Utils does not develop or include any features against Hypixel rules.
+② If you are banned from a server, it cannot be confirmed whether the ban was due to using this mod, and the responsibility for using the mod lies with the user. In other words, use at your own risk.
+③ Once purchased, the mod can be used permanently and is not limited to a specific Minecraft account.
+④ Refund requests cannot be made after the purchase is completed.
+⑤ If you are spotted sharing the mod with a third party or in a public space, your access will be revoked, and you will be placed on a blacklist.
+
+## 📖 Terms and conditions
+① The user assumes all responsibility for using the mod.
+② The mod must not be shared with third parties.
+③ Some personal information is collected from users. (Collected data includes: hardware ID, and reports for error resolution and improving your game experience.)
