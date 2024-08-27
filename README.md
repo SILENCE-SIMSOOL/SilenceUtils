@@ -85,16 +85,16 @@ However, I have no intention of profiting from these mods, so I am offering them
 
 ## 🚀 Purchasing the mod
 1. Please join the [discord server](https://discord.gg/B8tPf67gdG).
-2. In the "Purchase" channel, enter your payment method and options, then open a purchase ticket.
-2-1. Purchases are prepaid, and refunds are not provided after payment is completed.
-2-2. By default, the purchaser is the recipient. If you wish to gift it to someone else, please mention it in the ticket.
-2-3. Wait for the administrator to approve the payment.
+2. In the "Purchase" channel, enter your payment method and options, then open a purchase ticket.  
+2-1. Purchases are prepaid, and refunds are not provided after payment is completed.  
+2-2. By default, the purchaser is the recipient. If you wish to gift it to someone else, please mention it in the ticket.  
+2-3. Wait for the administrator to approve the payment.  
 3. Once the purchase is processed, you will receive a role in the server, and the mod will be sent to you via direct message along with instructions.
-3-1. Please allow direct messages from server members or add the SILENCE bot app to allow messages.
+3-1. Please allow direct messages from server members or add the SILENCE bot app to allow messages.  
 4. Download the mod, place it in your mod folder, and launch the game.
 5. On the first launch, you must wait for the administrator’s authentication approval.
-5-1. Prompt approval is possible if the game is launched within 5 to 10 minutes after purchase.
-5-2. The authentication process can take anywhere from a minimum of 1 minute to a maximum of 24 hours.
+5-1. Prompt approval is possible if the game is launched within 5 to 10 minutes after purchase.  
+5-2. The authentication process can take anywhere from a minimum of 1 minute to a maximum of 24 hours.  
 
 ## ❗ Before purchase
 ① Silence Utils does not develop or include any features against Hypixel rules.
