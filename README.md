@@ -71,7 +71,7 @@ May 4, 2024 - Fix Breaking
 July 23, 2024 - Dungeon key notification mod
 
 ## 📖 More in detail
-You can find the features of the Silence Utils mod [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).
+You can find the features of the Silence Utils mod [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
 The Secret Founder mod can be found [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md). 
 
 ## 💸 
