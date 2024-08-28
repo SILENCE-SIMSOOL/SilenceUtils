@@ -14,7 +14,7 @@
 </p>
 
 ## ❓ About Silence Utils
- The Silence Utility Mod is a Forge mod that supports Minecraft version 1.8.9. This mod is specifically designed for Hypixel Skyblock, focusing primarily on dungeons and aiding key gameplay aspects of Skyblock. Aside from Skyblock, it also includes lightweight quality of life features, such as performance optimization, convenient commands, and an auto-sprint feature, all of which improve the quality of the game experience.
+ The Silence Utility Mod is a Forge mod that supports Minecraft version 1.8.9. This mod is specifically designed for Hypixel Skyblock, focusing primarily on dungeons and aiding key gameplay aspects of Skyblock. Aside from Skyblock, it also includes lightweight quality of life features, such as performance optimization, simple commands, and an auto-sprint feature, all of which improve the quality of the game experience.
 aiding - 더 쉬운 단어로 교체
 
 Everything in the mod was solely developed by the author, with assistance from several acquaintances in feedback and bug fixes. The author is primarily a player rather than a developer, so development isn't the main focus. However, I believe that this perspective as a fellow player offers certain advantages.
@@ -70,7 +70,7 @@ May 4, 2024 - Fix Breaking
 
 July 23, 2024 - Dungeon key notification mod
 
-## 📖 More in detail
+## 📖 Details
 You can find the features of the Silence Utils mod [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
 The Secret Founder mod can be found [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md). 
 
