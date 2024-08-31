@@ -22,7 +22,7 @@ Originally, Silence Utils was a private mod shared only between selected acquain
 
 Silence Utils was first developed in December 2022, initially created for the author's personal use. Although Skyblock mods have become quite diverse recently, many mods are filled with heavy and unnecessary features that go beyond what is actually needed. Therefore, this mod was originally created to add the necessary features that were either missing or insufficient in the Skytils mod.
 
-Speaking of the Skytils mod, it is one of the best Skyblock mods, packed with numerous features. Although it is one of the "heaviest" mods among Skyblock mods, it is extremely clean and well-optimized, so it doesn’t drain computer performance.
+Speaking of the Skytils mod, it is one of the best Skyblock mods, packed with numerous features. Although it is one of the "heaviest" mods among Skyblock mods, it is extremely clean and well optimized, so it doesn’t drain computer performance.
 
 The reason for mentioning the Skytils mod was to explain the origins of Silence Utils and the characteristics of Silence Utils. Silence Utils is designed to add features that were either missing or insufficient in Skytils.
 Therefore, I highly recommend using Skytils mod, since it is an indispensable mod for skyblock gameplay.
