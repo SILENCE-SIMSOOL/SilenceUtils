@@ -14,8 +14,7 @@
 </p>
 
 ## ❓ About Silence Utils
- The Silence Utility Mod is a Forge mod that supports Minecraft version 1.8.9. This mod is specifically designed for Hypixel Skyblock, focusing primarily on dungeons and aiding key gameplay aspects of Skyblock. Aside from Skyblock, it also includes lightweight quality of life features, such as performance optimization, simple commands, and an auto-sprint feature, all of which improve the quality of the game experience.
-aiding - 더 쉬운 단어로 교체
+ The Silence Utility Mod is a Forge mod that supports Minecraft version 1.8.9. This mod is specifically designed for Hypixel Skyblock, focusing primarily on dungeons and enhancing key gameplay aspects of Skyblock. Aside from Skyblock, it also includes lightweight quality of life features, such as performance optimization, simple commands, and an auto-sprint feature, all of which improve the quality of the game experience.
 
 Everything in the mod was solely developed by the author, with assistance from several acquaintances in feedback and bug fixes. The author is primarily a player rather than a developer, so development isn't the main focus. However, I believe that this perspective as a fellow player offers certain advantages.
 
@@ -30,7 +29,7 @@ Therefore, I highly recommend using Skytils mod, since it is an indispensable mo
 
 In addition, here are the mods that I use: [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), [Patcher](https://github.com/Sk1erLLC/Patcher)
 
-## 🛫
+## 🛫 The main aim of the mod 
 As mentioned above, the Silence Utils mod does not aim to include as many miscellaneous features as possible. When developing the mod, priority is given to performance and the quality of gameplay, with particular attention to whether a feature already exists in Skytils, whether it is truly useful, and whether a feature significantly degrades performance relative to its usefulness. This is why, despite numerous feature requests, some features cannot be developed.
 
 The creator of Silence Utils is Korean. Currently, there are very few players in Korea who play Skyblock. As a result, the creator of Silence Utils provides support and assistance specifically for Korean users. Silence Utils also offers much more active support for Koreans. While support for non-Korean users is available, there may be limitations in the assistance provided in English.
@@ -74,7 +73,7 @@ July 23, 2024 - Dungeon key notification mod
 You can find the features of the Silence Utils mod [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
 The Secret Founder mod can be found [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md). 
 
-## 💸 
+## 💸 Price
 As of July 9, 2024, the Silence Utils has transitioned to a premium model. This decision was made due to the guidelines of solo development, the increasing scale of the mod becoming difficult to manage, and the growing number of inquiries and requests. The time and investment required for development have increased significantly, and since development is not my profession, it hasn’t benefited me at all.
 
 Continuing this as a mere hobby was turning into a free service that consumed my time, leading to this significant decision. To determine the pricing, I researched various paid mods, most of which are related to macros. The average price for these paid mods are around $37.50 USD, with some reaching up to $75 USD.
