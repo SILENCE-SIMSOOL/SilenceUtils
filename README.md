@@ -73,7 +73,7 @@ July 23, 2024 - Dungeon key notification mod
 You can find the features of the Silence Utils mod [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
 The Secret Founder mod can be found [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md). 
 
-## 💸 Price
+## 💸 Pricing
 As of July 9, 2024, the Silence Utils has transitioned to a premium model. This decision was made due to the guidelines of solo development, the increasing scale of the mod becoming difficult to manage, and the growing number of inquiries and requests. The time and investment required for development have increased significantly, and since development is not my profession, it hasn’t benefited me at all.
 
 Continuing this as a mere hobby was turning into a free service that consumed my time, leading to this significant decision. To determine the pricing, I researched various paid mods, most of which are related to macros. The average price for these paid mods are around $37.50 USD, with some reaching up to $75 USD.
