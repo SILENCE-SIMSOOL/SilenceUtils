@@ -74,11 +74,11 @@ You can find the features of the Silence Utils mod [here](https://github.com/SIL
 The Secret Founder mod can be found [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md). 
 
 ## 💸 Pricing
-As of July 9, 2024, the Silence Utils has transitioned to a premium model. This decision was made due to the guidelines of solo development, the increasing scale of the mod becoming difficult to manage, and the growing number of inquiries and requests. The time and investment required for development have increased significantly, and since development is not my profession, it hasn’t benefited me at all.
+As of July 9, 2024, the Silence Utils has transitioned to a premium model. This decision was made due to the guidelines of solo development, the increasing scale of the mod becoming difficult to manage, and the growing number of inquiries and requests. The time and investment required for development have increased significantly, and since development is not my profession, it hasn’t benefited me at all.  
 
-Continuing this as a mere hobby was turning into a free service that consumed my time, leading to this significant decision. To determine the pricing, I researched various paid mods, most of which are related to macros. The average price for these paid mods are around $37.50 USD, with some reaching up to $75 USD.
+Continuing this as a mere hobby was turning into a free service that consumed my time, leading to this significant decision. To determine the pricing, I researched various paid mods, most of which are related to macros. The average price for these paid mods are around $37.50 USD, with some reaching up to $75 USD.  
 
-However, I have no intention of profiting from these mods, so I am offering them at a very low price, especially for Korean users. Additionally, I continue to support the free version, so there’s no need to purchase the paid version unless you wish to. Your support for the paid mod would be greatly appreciated, as it will help fund the development of better features in the future.
+However, I have no intention of profiting from these mods, so I am offering them at a very low price, especially for Korean users. Additionally, I continue to support the free version, so there’s no need to purchase the paid version unless you wish to. Your support for the paid mod would be greatly appreciated, as it will help fund the development of better features in the future.  
 
 [[Download the free version]]()
 
@@ -88,10 +88,10 @@ However, I have no intention of profiting from these mods, so I am offering them
 2-1. Purchases are prepaid, and refunds are not provided after payment is completed.  
 2-2. By default, the purchaser is the recipient. If you wish to gift it to someone else, please mention it in the ticket.  
 2-3. Wait for the administrator to approve the payment.  
-3. Once the purchase is processed, you will receive a role in the server, and the mod will be sent to you via direct message along with instructions.
+3. Once the purchase is processed, you will receive a role in the server, and the mod will be sent to you via direct message along with instructions.  
 3-1. Please allow direct messages from server members or add the SILENCE bot app to allow messages.  
-4. Download the mod, place it in your mod folder, and launch the game.
-5. On the first launch, you must wait for the administrator’s authentication approval.
+4. Download the mod, place it in your mod folder, and launch the game.  
+5. On the first launch, you must wait for the administrator’s authentication approval.  
 5-1. Prompt approval is possible if the game is launched within 5 to 10 minutes after purchase.  
 5-2. The authentication process can take anywhere from a minimum of 1 minute to a maximum of 24 hours.  
 
