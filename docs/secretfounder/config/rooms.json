@@ -1,0 +1,1397 @@
+[
+  {
+    "name": "Admin",
+    "type": "NORMAL",
+    "secret": 0,
+    "id": [
+      -1989372370
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Altar",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      1823952110,
+      1004879775,
+      -1690727070
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Andesite",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -673246822
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Archway",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      -1447684689,
+      1440798119
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Arrow Trap",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      332584803
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Atlas",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      -685489527,
+      745093020,
+      308515062,
+      -38388847
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Balcony",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      1989395652,
+      559495102
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Banners",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -667603340
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Basement",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -204678789
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Beams",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -2082251638
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Big Red Flag",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1265317780
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Black Flag",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      153580070
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Blood",
+    "type": "BLOOD",
+    "secret": 0,
+    "id": [
+      -2130054003
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Blue Skulls",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -999204041
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Bomb Defuse",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      86014075
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Boulder",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      -671152674,
+      307825200,
+      -598953709,
+      -591423781
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Bridges",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      -1604951086,
+      -1989950542
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Buttons",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      -1359302282,
+      160943502,
+      823430452,
+      2123177620
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Cage",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      272954274
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Cages",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -316384390
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Carpets",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      988444684,
+      1890757664,
+      1186348038,
+      -1160833644
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Cathedral",
+    "type": "NORMAL",
+    "secret": 8,
+    "id": [
+      -2043617055,
+      789869846,
+      -1212586959,
+      1956475445
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Catwalk",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      1600132124,
+      -1010346133,
+      -1694830065
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Cell",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      1751890846
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Chains",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      113272043
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Chambers",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      1756685113,
+      368708000,
+      252800591
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Cobble Wall Pillar",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      259238824
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Creeper Beams",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      -755321869,
+      -1709550764
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Criss-Cross",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      650161016,
+      1002362494
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Crypt",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      -845911506,
+      331494915
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Deathmite",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      -233562612,
+      -1901273450,
+      -1408070175
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Default",
+    "type": "CHAMPION",
+    "secret": 0,
+    "id": [
+      652570347,
+      1956609103
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Diagonal",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      2147431657,
+      1144217017,
+      -464769223
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Dino Site",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -1113939414,
+      -1425445617,
+      -609789679
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Dip",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1691958814
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Dome",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      462413746
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Doors",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      164990589,
+      1033794268
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Double Diamond",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1308341800
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Dragon",
+    "type": "CHAMPION",
+    "secret": 0,
+    "id": [
+      84632407
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Drop",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -615308028
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Dueces",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1046920372
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Duncan",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      544418695
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "End",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1897192562
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Entrance",
+    "type": "ENTRANCE",
+    "secret": 0,
+    "id": [
+      274652966,
+      -1092072828,
+      1913969999
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Fairy",
+    "type": "FAIRY",
+    "secret": 0,
+    "id": [
+      1484567748
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Flags",
+    "type": "NORMAL",
+    "secret": 7,
+    "id": [
+      -1267948931,
+      284566079,
+      1157102457,
+      67929126
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Gold",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1035453872,
+      1451614295
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Golden Oasis",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1666473430
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Grand Library",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      749593273,
+      1348435369
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Granite",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -456244067
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Grass Ruin",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      568565222,
+      -786211724,
+      897663506
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Gravel",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      841898152,
+      1127962661,
+      4304131
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Hall",
+    "type": "NORMAL",
+    "secret": 0,
+    "id": [
+      -2131538192
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Hallway",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      -402028497,
+      351544339,
+      -1723662179,
+      -1644671806
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Higher Blaze",
+    "type": "PUZZLE",
+    "secret": 1,
+    "id": [
+      1103121487,
+      23134049
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Ice Fill",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      1328525306,
+      327081838,
+      161828987,
+      -1480765683
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Ice Path",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      1073658098
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Jumping Skulls",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1496765468
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "King Midas",
+    "type": "CHAMPION",
+    "secret": 0,
+    "id": [
+      -1678546839
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Knight",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      -1746428299
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Lava Pit",
+    "type": "RARE",
+    "secret": 3,
+    "id": [
+      -1519947323
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Lava Ravine",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      -2040489612,
+      -294054018,
+      -2053308786
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Layers",
+    "type": "NORMAL",
+    "secret": 8,
+    "id": [
+      1516049261,
+      820948152,
+      456930870,
+      -1910037748
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Leaves",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1967474423
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Locked Away",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      754378401
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Logs",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -1803705489
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Long Hall",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      -872480083
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Lots Of Floors",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1449723216
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Lower Blaze",
+    "type": "PUZZLE",
+    "secret": 1,
+    "id": [
+      -1092103153,
+      -2027662369
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mage",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -338946136,
+      1089356068
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Market",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      270637140,
+      -402574914,
+      -880417926
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Melon",
+    "type": "NORMAL",
+    "secret": 7,
+    "id": [
+      -325025964,
+      1964904676,
+      158528145
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mines",
+    "type": "NORMAL",
+    "secret": 10,
+    "id": [
+      -361911912,
+      -39488099,
+      1363618678,
+      1227315161
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mini Rails",
+    "type": "RARE",
+    "secret": 4,
+    "id": [
+      256380076
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mirror",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1823353629
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mossy",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -1169615458,
+      1432034198,
+      1896208123
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Multicolored",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -671539463
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mural",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1027066030
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Museum",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      -1957538226,
+      -2121384577,
+      -1797804860,
+      1514395908
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Mushroom",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      1073109158
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "New Trap",
+    "type": "TRAP",
+    "secret": 3,
+    "id": [
+      -1358669872,
+      1628378960,
+      -1989128497,
+      997920335
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Old Trap",
+    "type": "TRAP",
+    "secret": 4,
+    "id": [
+      1128554492
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Overgrown",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1858897577
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Overgrown Chains",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      1077887433
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Painting",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      474745227
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Pedestal",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      -1346033867,
+      281551136
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Perch",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      27598620
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Pipes",
+    "type": "NORMAL",
+    "secret": 7,
+    "id": [
+      952529534,
+      -901820944,
+      -664950032,
+      -1205767926
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Pirate",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      -1175423677,
+      1942933815,
+      2002468229
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Pit",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      -1862968316,
+      -258250108,
+      265221970,
+      430079089
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Pressure Plates",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      1172966775,
+      681797038
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Prison Cell",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      1172045122
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Purple Flags",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      887024382,
+      701310376
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Quad Lava",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      52900193
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Quartz Knight",
+    "type": "NORMAL",
+    "secret": 7,
+    "id": [
+      -1639566599,
+      153753389,
+      -129760550,
+      -742870398
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Quiz",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      1928619293
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Raccoon",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      497881745
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Rail Track",
+    "type": "RARE",
+    "secret": 3,
+    "id": [
+      -701175845
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Rails",
+    "type": "NORMAL",
+    "secret": 9,
+    "id": [
+      526587049,
+      -214948895,
+      -1778261714,
+      1937419120
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Rare Overgrown",
+    "type": "RARE",
+    "secret": 3,
+    "id": [
+      -1643528240
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Rare Pillars",
+    "type": "RARE",
+    "secret": 1,
+    "id": [
+      1216268340
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Red Blue",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      1011477602,
+      1607395895,
+      -1794981292
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Red Green",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      -1085327384
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Redstone Crypt",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      -1054702517,
+      127199896,
+      1039011083
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Redstone Key",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      348655632
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Redstone Warrior",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1313090868,
+      1819727964
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Ritual",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      758637731
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Sand Dragon",
+    "type": "RARE",
+    "secret": 1,
+    "id": [
+      -1497998508
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Sarcophagus",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1986002687,
+      1907859753
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Scaffolding",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      2091387826
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Shadow Assassin",
+    "type": "CHAMPION",
+    "secret": 0,
+    "id": [
+      -430117371
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Silver Sword",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -224496952
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Skull",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -46929855,
+      1667732153
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Slabs",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1811244478
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Slime",
+    "type": "NORMAL",
+    "secret": 5,
+    "id": [
+      1203689085,
+      611794931,
+      -1050545277
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Sloth",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      -1390729196
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Small Stairs",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1250912300
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Small Waterfall",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1682285647
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Spider",
+    "type": "NORMAL",
+    "secret": 9,
+    "id": [
+      365045229,
+      -1361285742,
+      1778566373
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Spikes",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      881396995
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Staircase",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1386509425
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Stairs",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -330702540,
+      -283979980,
+      -697693183,
+      606731747
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Steps",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      1350621298
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Stone Window",
+    "type": "RARE",
+    "secret": 2,
+    "id": [
+      477318192
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Supertall",
+    "type": "NORMAL",
+    "secret": 6,
+    "id": [
+      1522346451,
+      -1376632689,
+      291711773,
+      -46683467
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Teleport Maze",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      487124604,
+      2089453469
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Temple",
+    "type": "NORMAL",
+    "secret": 3,
+    "id": [
+      1663174337,
+      1480555517
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Three Floors",
+    "type": "RARE",
+    "secret": 1,
+    "id": [
+      633179672
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Three Weirdos",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      -476788643
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Tic Tac Toe",
+    "type": "PUZZLE",
+    "secret": 1,
+    "id": [
+      1958698161
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Tombstone",
+    "type": "RARE",
+    "secret": 2,
+    "id": [
+      1965783806
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Tomioka",
+    "type": "NORMAL",
+    "secret": 0,
+    "id": [
+      -195263543
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Vinny 8 Ball",
+    "type": "RARE",
+    "secret": 1,
+    "id": [
+      -1169880205
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Water",
+    "type": "NORMAL",
+    "secret": 2,
+    "id": [
+      -1849552977
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Water Board",
+    "type": "PUZZLE",
+    "secret": 0,
+    "id": [
+      -109725212,
+      -353291158,
+      1998063202,
+      660384222,
+      -1012522341,
+      660396563,
+      1980639456,
+      43497702,
+      2014437159,
+      1513261276,
+      862140000,
+      -364886424,
+      -714138899,
+      -1489069695,
+      -685683836
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Waterfall",
+    "type": "NORMAL",
+    "secret": 8,
+    "id": [
+      740310812,
+      82232284,
+      1379043687,
+      -1971268623
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Well",
+    "type": "NORMAL",
+    "secret": 7,
+    "id": [
+      196766004,
+      718434953,
+      1955671195
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Withermancer",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -499989468,
+      -406356904,
+      -1645219026
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Wizard",
+    "type": "NORMAL",
+    "secret": 4,
+    "id": [
+      -23510667,
+      1958624830,
+      735485465,
+      -1994781831
+    ],
+    "waypoints": []
+  },
+  {
+    "name": "Zodd",
+    "type": "NORMAL",
+    "secret": 1,
+    "id": [
+      105458531
+    ],
+    "waypoints": []
+  }
+]
