@@ -29,4 +29,4 @@ for room in roomdata:
 with open(output_file, 'w') as f:
     json.dump(rooms, f, indent=2)
 
-print(f"Saved: {output_file}")
+print(f"Transformed JSON saved to {output_file}")
