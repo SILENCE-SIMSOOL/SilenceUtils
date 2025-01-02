@@ -1,5 +1,3 @@
-package silence.simsool.mods.others.replacer;
-
 public class Replacer {
 	@SubscribeEvent
 	public void onPacketReceive(PacketEvent.ReceiveEvent event) {
