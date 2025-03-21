@@ -33,7 +33,7 @@ You use a teleport item while looking straight ahead, then turn your head to the
 However, 0.2 seconds later, when the teleport happens, your view snaps back to the original forward direction.
 This happens because, as explained earlier, any action during the 0.2-second delay is discarded.
 
-## Precautions
+## ⚠ Precautions
 The teleportation logic is not always perfect.
 To put it simply, you might intend to teleport 6 blocks forward, but only move 5 blocks.
 Since this differs from what the server expects, the server will correct your position to 6 blocks forward.
