@@ -28,7 +28,7 @@ After 0.2 seconds, you are suddenly moved to coordinate 5.
 So you teleported 5 blocks and walked 1 block, but in the end, you only moved 5 blocks.
 In other words, any movement during your 0.2-second ping delay has no effect.
 
-### 3. Screen Rewind
+### 3. Screen Rotation
 You use a teleport item while looking straight ahead, then turn your head to the right.
 However, 0.2 seconds later, when the teleport happens, your view snaps back to the original forward direction.
 This happens because, as explained earlier, any action during the 0.2-second delay is discarded.
