@@ -1,7 +1,7 @@
 # Fix Teleport
 
 ```
-The **Fix Teleport** mod is designed to resolve unfair issues that occur more frequently with higher ping.
+The Fix Teleport mod is designed to resolve unfair issues that occur more frequently with higher ping.
 Development began in April 2024, and the first release was on April 23, 2024.
 With precise and complex algorithms, it provides users with a smooth and clean teleportation logic.
 ```
@@ -32,3 +32,28 @@ In other words, any movement during your 0.2-second ping delay has no effect.
 You use a teleport item while looking straight ahead, then turn your head to the right.
 However, 0.2 seconds later, when the teleport happens, your view snaps back to the original forward direction.
 This happens because, as explained earlier, any action during the 0.2-second delay is discarded.
+
+## Precautions
+The teleportation logic is not always perfect.
+To put it simply, you might intend to teleport 6 blocks forward, but only move 5 blocks.
+Since this differs from what the server expects, the server will correct your position to 6 blocks forward.
+This is commonly known as a "lagback".
+
+Lagbacks in Fix Teleport occur when the predicted position is incorrect or when you're trying to teleport in an area where teleporting isn't allowed.
+It can also happen for reasons unrelated to the mod.
+
+This alone is not a problem, because lagbacks are common even without Fix Teleport.
+They can happen due to server lag, network issues, or random bugs.
+However, if Fix Teleport causes excessive or severe lagbacks, the anti-cheat may treat it as cheating.
+That’s because it appears as if the player keeps insisting they’re at point B when the server believes they should be at point A.
+As long as you don’t intentionally abuse it or spam it heavily, there’s no risk of a false ban.
+
+Fix Teleport includes various checks to prevent this, but users still need to be careful.
+
+One area that especially requires caution is Kuudra.
+If you're caught by a tentacle and unable to teleport, repeatedly using the teleport item in that state could increase the risk of a ban.
+
+Also, if the server freezes or lags temporarily, stop using the teleport item until it recovers.
+The server will eventually correct your position with a lagback, and you can use the item again after that.
+
+Please use Fix Teleport wisely.
