@@ -6,10 +6,10 @@
 		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils-Documentation?color=4166f5&style=flat-square" />
 	</a>
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
-		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=4166f5&style=flat-square" />
+		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=8b4db6&style=flat-square" />
 	</a>
 	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
-		<img alt="discord" src="https://img.shields.io/discord/1312525891225784421?color=8b4db6&label=discord&style=flat-square" />
+		<img alt="discord" src="https://img.shields.io/discord/1312525891225784421?color=5865F2&label=discord&style=flat-square" />
 	</a>
 </p>
 
