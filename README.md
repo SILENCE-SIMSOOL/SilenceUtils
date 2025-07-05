@@ -22,7 +22,7 @@
 	</a>
 </p>
 
-**This was translated by AI, so the translation may contain errors.**
+**This was translated by AI, so the translation may contain Errors!**
 
 ## ❓ WHAT IS SILENCE UTILS
 **Silence Utils** is a **Forge mod** that supports **Minecraft 1.8.9**.  
