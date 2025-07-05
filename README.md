@@ -49,9 +49,9 @@ Personally, I only use [SilenceUtils](https://github.com/SILENCE-SIMSOOL/Silence
 ## 🛫 DIRECTION
 As explained above, Silence Utils **avoids adding too many unnecessary features**.  
 When developing, I focus mainly on **performance and gameplay quality** and always check:  
-**Is this already in Skytils?**  
-**Is this feature truly useful?**  
-**Is it too heavy for what it does?**  
+ - **Is this already in Skytils?**  
+ - **Is this feature truly useful?**  
+ - **Is it too heavy for what it does?**  
 This is why many feature requests could not be added.  
 Also, being **dungeon-focused**, I avoid heavy non-dungeon features.
 
@@ -129,4 +129,4 @@ Premium users get access to **beta versions**, **feature requests**, and **exclu
 ## 📖 TERMS OF USE
 ① User bears all responsibility for using the mod.  
 ② Do not share the mod with others.  
-③ Some personal data is collected (hardware ID, crash/error reports for debugging).
+③ Some personal data is collected (hardware ID, crash/error reports for debugging).  
