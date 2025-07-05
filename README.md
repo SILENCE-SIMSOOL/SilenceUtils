@@ -44,7 +44,7 @@ It has **practical, essential features** without junk.
 I mention Skytils to explain **why Silence Utils exists** and **what character it has**.  
 Silence Utils is designed to **complement Skytils as the main mod**, adding **missing or new features**.  
 I **strongly recommend using Skytils**, and Silence Utils is a must-have alongside it.  
-Personally, I only use [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), and [Patcher](https://github.com/Sk1erLLC/Patcher).  
+Personally, I only use [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), [Patcher](https://github.com/Sk1erLLC/Patcher).  
 
 ## 🛫 DIRECTION
 As explained above, Silence Utils **avoids adding too many unnecessary features**.  
