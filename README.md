@@ -4,7 +4,10 @@
 	</a>
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
    		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=4166f5&style=flat-square" />
- 	 </a>
+ 	</a>
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
+		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=4166f5&style=flat-square" />
+	</a>
 </p>
 
 <p align="center">
