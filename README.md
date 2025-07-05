@@ -2,6 +2,15 @@
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
 		<img src="resource/title.png" alt="SilenceUtils Documentation" width="1200">
 	</a>
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
+		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils-Documentation?color=4166f5&style=flat-square" />
+	</a>
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
+		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=4166f5&style=flat-square" />
+	</a>
+	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
+		<img alt="discord" src="https://img.shields.io/discord/1312525891225784421?color=4166f5&label=discord&style=flat-square" />
+	</a>
 </p>
 
 <p align="center">
@@ -13,96 +22,111 @@
 	</a>
 </p>
 
-## ❓ About Silence Utils
- The Silence Utility Mod is a Forge mod that supports Minecraft version 1.8.9. This mod is specifically designed for Hypixel Skyblock, focusing primarily on dungeons and enhancing key gameplay aspects of Skyblock. Aside from Skyblock, it also includes lightweight quality of life features, such as performance optimization, simple commands, and an auto-sprint feature, all of which improve the quality of the game experience.
+## ❓ WHAT IS SILENCE UTILS
+**Silence Utils** is a **Forge mod** that supports **Minecraft 1.8.9**.  
+It is made for **Hypixel Skyblock** gameplay, especially focused on dungeons and major Skyblock content.  
+Outside Skyblock, it also includes lightweight features to improve **performance**, **easy commands**, **auto sprint**, and other quality-of-life functions.  
 
-Everything in the mod was solely developed by the author, with assistance from several acquaintances in feedback and bug fixes. The author is primarily a player rather than a developer, so development isn't the main focus. However, I believe that this perspective as a fellow player offers certain advantages.
+Everything about the mod is **solely developed by the author**, with feedback and bugfix help from friends.  
+As the author is primarily a **player**, not a developer, there may be limitations, but this also brings advantages from a player’s perspective.  
 
-Originally, Silence Utils was a private mod shared only between selected acquaintances. Currently, there are many features in other available mods that were originally introduced in Silence Utils mod.
+Originally, Silence Utils was a **private mod shared only with selected friends**.  
+Because of this, there are many features in other mods that **originally came from my mod**.  
 
-Silence Utils was first developed in December 2022, initially created for the author's personal use. Although Skyblock mods have become quite diverse recently, many mods are filled with heavy and unnecessary features that go beyond what is actually needed. Therefore, this mod was originally created to add the necessary features that were either missing or insufficient in the Skytils mod.
+Silence Utils was **first created in December 2022**, initially **for personal use**.  
+Nowadays there are many Skyblock mods, but many include **bloated, unnecessary features**.  
+The purpose was to make **features I needed that Skytils lacked or did poorly**.  
 
-Speaking of the Skytils mod, it is one of the best Skyblock mods, packed with numerous features. Although it is one of the "heaviest" mods among Skyblock mods, it is extremely clean and well optimized, so it doesn’t drain computer performance.
+[Skytils](https://github.com/Skytils/SkytilsMod) is truly **the best Skyblock mod** with tons of features.  
+Though heavy, it's **very clean and well-optimized**, not eating away your PC performance.  
+It has **practical, essential features** without junk.  
 
-The reason for mentioning the Skytils mod was to explain the origins of Silence Utils and the characteristics of Silence Utils. Silence Utils is designed to add features that were either missing or insufficient in Skytils.
-Therefore, I highly recommend using Skytils mod, since it is an indispensable mod for skyblock gameplay.
+I mention Skytils to explain **why Silence Utils exists** and **what character it has**.  
+Silence Utils is designed to **complement Skytils as the main mod**, adding **missing or new features**.  
+I **strongly recommend using Skytils**, and Silence Utils is a must-have alongside it.  
+Personally, I only use [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), and [Patcher](https://github.com/Sk1erLLC/Patcher).  
 
-In addition, here are the mods that I use: [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), [Patcher](https://github.com/Sk1erLLC/Patcher)
+## 🛫 DIRECTION
+As explained above, Silence Utils **avoids adding too many unnecessary features**.  
+When developing, I focus mainly on **performance and gameplay quality** and always check:  
+**Is this already in Skytils?**  
+**Is this feature truly useful?**  
+**Is it too heavy for what it does?**  
+This is why many feature requests could not be added.  
+Also, being **dungeon-focused**, I avoid heavy non-dungeon features.
 
-## 🛫 The main aim of the mod 
-As mentioned above, the Silence Utils mod does not aim to include as many miscellaneous features as possible. When developing the mod, priority is given to performance and the quality of gameplay, with particular attention to whether a feature already exists in Skytils, whether it is truly useful, and whether a feature significantly degrades performance relative to its usefulness. This is why, despite numerous feature requests, some features cannot be developed.
+The creator is **Korean**.  
+Very few Koreans play Skyblock.  
+So I **actively support Korean users** much more.  
+That doesn’t mean there’s no support for foreigners, but English help may be limited.  
 
-The creator of Silence Utils is Korean. Currently, there are very few players in Korea who play Skyblock. As a result, the creator of Silence Utils provides support and assistance specifically for Korean users. Silence Utils also offers much more active support for Koreans. While support for non-Korean users is available, there may be limitations in the assistance provided in English.
+## ✨ FEATURES FIRST CREATED IN SILENCE UTILS
+These are mods **first developed in Silence Utils**.  
+While I expected similar mods to appear over time, some have **stolen code and claimed it as their own**, so this is to clarify.  
 
-## ✨ The mods first created by Silence Utils
-These mods are the first mods created by Silence Utils. While it was expected that similar mods might appear during the time they were shared as private mods, there have been instances where others have falsely claimed these mods as their own by using the source code without permission. This notice is to address such situations.
+2024-02-15 - Dungeon Queue Ready  
 
-February 15, 2024 - Dungeon queue Ready mod
+2024-02-18 - Terminal Waypoint  
 
-February 18, 2024 - Terminal waypoints mod
+2024-02-18 - Farming Supporter  
 
-February 18, 2024 - Farming supporter mod
+2024-03-02 - Arrow Shop Icon  
 
-March 2, 2024 - Arrow Shop Icon mod
+2024-03-02 - PartyFinder Info  
 
-March 2, 2024 - PartyFinder Info mod
+2024-03-02 - PartyFinder Icon  
 
-March 2, 2024 - PartyFinder Icon mod
+2024-03-02 - Croesus Icon  
 
-March 2, 2024 - Croesus Icon mod
+2024-03-08 - Dungeon Class Alerts  
 
-March 8, 2024 - Dungeon Class notification mod
+2024-03-08 - Crystal Alerts  
 
-March 8, 2024 - Crystal notification mod
+2024-03-19 - i4(Pre4) Alerts and Status Check  
 
-March 19, 2024 - i4(Pre4) Alert and Status HUD mod
+2024-04-23 - Fix Teleport  
 
-April 23, 2024 - Fix Teleport mod
+2024-04-25 - Multiple Keybind  
 
-April 25, 2024 - Multiple Keybind
+2024-05-04 - Fix Gui  
 
-May 4, 2024 - Fix Gui
+2024-05-04 - i4(Pre4) Location Alerts  
 
-May 4, 2024 - i4(Pre4) location notification mod
+2024-05-04 - Fix Breaking  
 
-May 4, 2024 - Fix Breaking
+2024-07-23 - Dungeon Key Alerts  
 
-July 23, 2024 - Dungeon key notification mod
+2024-11-17 - Device Status  
 
-## 📖 Details
-You can find the features of the Silence Utils mod [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
-The Secret Founder mod can be found [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md). 
+## 📖 LEARN MORE
+You can see all mod features [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
+Secret founder info is [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md).  
 
-## 💸 Pricing
-As of July 9, 2024, the Silence Utils has transitioned to a premium model. This decision was made due to the guidelines of solo development, the increasing scale of the mod becoming difficult to manage, and the growing number of inquiries and requests. The time and investment required for development have increased significantly, and since development is not my profession, it hasn’t benefited me at all.  
+## 💸 PREMIUM
+Premium is offered only to limited users through payment.  
+Premium users get access to **beta versions**, **feature requests**, and **exclusive cosmetics** visible only to mod users.  
 
-Continuing this as a mere hobby was turning into a free service that consumed my time, leading to this significant decision. To determine the pricing, I researched various paid mods, most of which are related to macros. The average price for these paid mods are around $37.50 USD, with some reaching up to $75 USD.  
+## 🚀 BUYING THE MOD
+1. Join the [Discord server](https://discord.gg/2Zt8HDksJs).  
+2. In the purchase channel, enter **payment method** and **options**, then open a purchase ticket.  
+2-1. Payment is upfront and **non-refundable** once completed.  
+2-2. The buyer is the default recipient; if you want to gift it, mention it in the ticket.  
+2-3. Wait for admin approval.  
+3. Once approved, you'll get **roles** in the server and **the mod via DM**.  
+3-1. Make sure you allow DMs from server members or accept the SILENCE bot.  
+4. Download the mod, put it in your **mods folder**, and **launch the game**.  
+5. Wait for **admin authentication approval** on first launch.  
+5-1. Fastest approval is within 5–10 minutes after purchase.  
+5-2. Approval may take 1 minute to 24 hours.  
 
-However, I have no intention of profiting from these mods, so I am offering them at a very low price, especially for Korean users. Additionally, I continue to support the free version, so there’s no need to purchase the paid version unless you wish to. Your support for the paid mod would be greatly appreciated, as it will help fund the development of better features in the future.  
+## ❗ BEFORE USING OR BUYING
+① Silence Utils does not contain any hacking features.  
+② If you get banned, there is no way to verify if it was due to this mod; responsibility is on the user.  
+③ Purchase grants **permanent use** with no MC account limit.  
+④ No refund after purchase.  
+⑤ Sharing the mod publicly or with third parties will result in blacklist and revoked access.  
 
-[[Download the free version]]()
-
-## 🚀 Purchasing the mod
-1. Please join the [discord server](https://discord.gg/B8tPf67gdG).
-2. In the "Purchase" channel, enter your payment method and options, then open a purchase ticket.  
-2-1. Purchases are prepaid, and refunds are not provided after payment is completed.  
-2-2. By default, the purchaser is the recipient. If you wish to gift it to someone else, please mention it in the ticket.  
-2-3. Wait for the administrator to approve the payment.  
-3. Once the purchase is processed, you will receive a role in the server, and the mod will be sent to you via direct message along with instructions.  
-3-1. Please allow direct messages from server members or add the SILENCE bot app to allow messages.  
-4. Download the mod, place it in your mod folder, and launch the game.  
-5. On the first launch, you must wait for the administrator’s authentication approval.  
-5-1. Prompt approval is possible if the game is launched within 5 to 10 minutes after purchase.  
-5-2. The authentication process can take anywhere from a minimum of 1 minute to a maximum of 24 hours.  
-
-## ❗ Before purchase
-① Silence Utils does not develop or include any features against Hypixel rules.  
-② If you are banned from a server, it cannot be confirmed whether the ban was due to using this mod, and the responsibility for using the mod lies with the user. In other words, use at your own risk.  
-③ Once purchased, the mod can be used permanently and is not limited to a specific Minecraft account.  
-④ Refund requests cannot be made after the purchase is completed.  
-⑤ If you are spotted sharing the mod with a third party or in a public space, your access will be revoked, and you will be placed on a blacklist.  
-
-## 📖 Terms and conditions
-① The user assumes all responsibility for using the mod.  
-② The mod must not be shared with third parties.  
-③ Some personal information is collected from users. (Collected data includes: hardware ID, and reports for error resolution and improving your game experience.)  
+## 📖 TERMS OF USE
+① User bears all responsibility for using the mod.  
+② Do not share the mod with others.  
+③ Some personal data is collected (hardware ID, crash/error reports for debugging).
