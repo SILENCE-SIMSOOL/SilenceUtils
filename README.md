@@ -22,6 +22,8 @@
 	</a>
 </p>
 
+**This was translated by AI, so the translation may contain errors.**
+
 ## ❓ WHAT IS SILENCE UTILS
 **Silence Utils** is a **Forge mod** that supports **Minecraft 1.8.9**.  
 It is made for **Hypixel Skyblock** gameplay, especially focused on dungeons and major Skyblock content.  
