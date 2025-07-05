@@ -8,10 +8,9 @@
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
 		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=4166f5&style=flat-square" />
 	</a>
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/LICENSE" target="_blank">
-		<img alt="license" src="https://img.shields.io/github/license/SILENCE-SIMSOOL/SilenceUtils-Documentation?color=4166f5&style=flat-square" />
+	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
+		<img alt="discord" src="https://img.shields.io/discord/000000000000000000?color=4166f5&label=discord&style=flat-square" />
 	</a>
-
 </p>
 
 <p align="center">
