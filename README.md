@@ -31,23 +31,22 @@ This mod was created for **Hypixel Skyblock**, especially focusing on dungeons, 
 Besides Skyblock, it also includes lightweight features such as **performance optimizations**, **convenient commands**, and **auto sprint**, improving the overall gameplay experience.
 
 Originally, Silence Utils was a **private mod shared only with selected acquaintances** of the author.
-However, due to high demand, it has now been made public.
+However, in response to many requests, we have decided to make it public.
 
 Silence Utils was **first created in December 2022**, initially made for the **author's personal use**.
-Although many Skyblock mods exist today, a lot of them include **bloated and unnecessary features**.
-In contrast, Silence Utils is **practical**, **functional**, and **offers advanced capabilities**.
-Moreover, it provides the convenience of **replacing all other mods with just one**.
-Because Silence Utils is highly efficient, it greatly helps with **FPS improvement**.
+Although many Skyblock mods exist today, many of them are packed with **heavy and unnecessary features** that go beyond what’s actually needed.
+In contrast, Silence Utils is **practical**, **highly functional**, and offers **advanced** features. It also offers the convenience of **replacing multiple mods with a single mod**.
+Thanks to its high efficiency, Silence Utils significantly improves performance and can lead to noticeable **FPS improvement**.
 
-## 🛫 Philosophy of the Mod
+## 🛫 Vision of the mod
 
-As mentioned above, Silence Utils **does not aim to create numerous miscellaneous features**.
-Performance and gameplay quality are the highest priorities during development, with focus on whether the feature is truly useful and whether it significantly impacts performance.
+As mentioned above, Silence Utils **does not aim to add as many miscellaneous features as possible**.
+In developing the mod, we focus first and foremost on performance and gameplay experience. Every feature is added only after considering how useful it really is and whether it affects performance more than it helps.
 That's why many requested features could not be implemented.
 Also, since this is a **dungeon-focused mod**, heavy features unrelated to dungeons are not added.
 
 Although Minecraft is a low-spec game, Skyblock players often use many heavy mods and play with low FPS.
-Some people are forced to use heavy mods just for a few useful features.
+Many users end up having to use heavy mods loaded with unnecessary features just to get a few features that are only available in those specific mods. 
 To prevent this terrible performance drop, the goal is to create a mod that combines **performance**, **functionality**, and **convenience**.
 
 The developer of Silence Utils is **Korean**.
@@ -91,14 +90,14 @@ The following mods were **originally created by Silence Utils**.
 
 ## 📖 Learn More
 
-You can find more detailed feature descriptions on [Discord](https://discord.gg/2Zt8HDksJs).
-Check out the mod features [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).
+You can find more detailed feature descriptions on [Discord](https://discord.gg/2Zt8HDksJs).  
+Check out the mod features [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
 Secret founder information is available [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md).
 
 ## 💸 Premium
 
-Premium is offered only to selected users through payment.
-Premium users can access beta versions, request feature additions, and use cosmetics visible only to mod users.
+Premium is offered only to selected users through payment.  
+Premium users can access beta versions, request feature additions, and use cosmetics visible only to mod users.  
 
 ## 📖 Terms of Use
 
@@ -106,16 +105,8 @@ Premium users can access beta versions, request feature additions, and use cosme
 2. Do not share the mod with third parties.
 3. Some personal information is collected. (Collected info: hardware ID, reports for bug fixes and environment improvement)
 
-## 🎮 Mod Related Videos
-④ No refund after purchase.  
-⑤ Sharing the mod publicly or with third parties will result in blacklist and revoked access.  
-
-## 📖 TERMS OF USE
-① User bears all responsibility for using the mod.  
-② Do not share the mod with others.  
-③ Some personal data is collected (hardware ID, crash/error reports for debugging).  
-
 ## 🙏 Contributors Who Helped with Development
+
 > Translation
 - 함월(_limu)
 
