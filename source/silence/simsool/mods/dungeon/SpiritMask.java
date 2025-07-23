@@ -8,22 +8,22 @@ public class SpiritMask {
 	@SubscribeEvent
 	public void onChat(ChatEvent event) {
 		if (Config.SpiritMaskAlert) {
-	        if (event.chat.equals("Second Wind Activated! Your Spirit Mask saved your life!")) {
-	        	ClientHandler.playSound("random.orb", 1, 2f);
-	        	GuiManager.createTitle("§dSpirit Mask §fBroken", 17);
-	        	ItemStack helmet = mc.thePlayer.getCurrentArmor(3);
-	        	if (helmet != null) {
-	        		for (String lore : helmet.getTooltip(mc.thePlayer, false)) {
-	            		if (lore.startsWith("§5§o§8Cooldown: §a")) {
-	            			lore = lore.replace("§5§o§8Cooldown: §a", "");
-	            			lore = lore.replace("s", "");
-	            			time = System.currentTimeMillis() + Integer.parseInt(lore) * 1000;
-	            			return;
-	            		}
-	            	}
-	        	}
-	        	time = System.currentTimeMillis() + 30000;
-	        }
+			if (event.chat.equals("Second Wind Activated! Your Spirit Mask saved your life!")) {
+				ClientHandler.playSound("random.orb", 1, 2f);
+				GuiManager.createTitle("§dSpirit Mask §fBroken", 17);
+				ItemStack helmet = mc.thePlayer.getCurrentArmor(3);
+				if (helmet != null) {
+					for (String lore : helmet.getTooltip(mc.thePlayer, false)) {
+						if (lore.startsWith("§5§o§8Cooldown: §a")) {
+							lore = lore.replace("§5§o§8Cooldown: §a", "");
+							lore = lore.replace("s", "");
+							time = System.currentTimeMillis() + Integer.parseInt(lore) * 1000;
+							return;
+						}
+					}
+				}
+				time = System.currentTimeMillis() + 30000;
+			}
 		}
 	}
 
