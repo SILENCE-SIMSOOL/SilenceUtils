@@ -28,12 +28,12 @@ public class SpiritMask {
 	}
 
 	@SubscribeEvent
-    public void onWorldUnload(WorldEvent.Unload event) {
+	    public void onWorldUnload(WorldEvent.Unload event) {
 		time = -1L;
 	}
 
 	@SubscribeEvent
-    public void onRenderGameOverlay(RenderGameOverlayEvent.Text event) {
+	    public void onRenderGameOverlay(RenderGameOverlayEvent.Text event) {
 		if (Config.SpiritMaskAlert) {
 			int x = Main.hudManager.getXHUDItem("Spirit Mask");
 			int y = Main.hudManager.getYHUDItem("Spirit Mask");
