@@ -24,107 +24,89 @@
 
 **This was translated by AI, so the translation may contain Errors!**
 
-## ❓ WHAT IS SILENCE UTILS
-**Silence Utils** is a **Forge mod** that supports **Minecraft 1.8.9**.  
-It is made for **Hypixel Skyblock** gameplay, especially focused on dungeons and major Skyblock content.  
-Outside Skyblock, it also includes lightweight features to improve **performance**, **easy commands**, **auto sprint**, and other quality-of-life functions.  
+## ❓ What is SILENCE UTILS
 
-Everything about the mod is **solely developed by the author**, with feedback and bugfix help from friends.  
-As the author is primarily a **player**, not a developer, there may be limitations, but this also brings advantages from a player’s perspective.  
+**Silence Utils** is a **Forge mod** that supports **Minecraft 1.8.9**.
+This mod was created for **Hypixel Skyblock**, especially focusing on dungeons, and provides helpful features for major gameplay in Skyblock.
+Besides Skyblock, it also includes lightweight features such as **performance optimizations**, **convenient commands**, and **auto sprint**, improving the overall gameplay experience.
 
-Originally, Silence Utils was a **private mod shared only with selected friends**.  
-Because of this, there are many features in other mods that **originally came from my mod**.  
+Originally, Silence Utils was a **private mod shared only with selected acquaintances** of the author.
+However, due to high demand, it has now been made public.
 
-Silence Utils was **first created in December 2022**, initially **for personal use**.  
-Nowadays there are many Skyblock mods, but many include **bloated, unnecessary features**.  
-The purpose was to make **features I needed that Skytils lacked or did poorly**.  
+Silence Utils was **first created in December 2022**, initially made for the **author's personal use**.
+Although many Skyblock mods exist today, a lot of them include **bloated and unnecessary features**.
+In contrast, Silence Utils is **practical**, **functional**, and **offers advanced capabilities**.
+Moreover, it provides the convenience of **replacing all other mods with just one**.
+Because Silence Utils is highly efficient, it greatly helps with **FPS improvement**.
 
-[Skytils](https://github.com/Skytils/SkytilsMod) is truly **the best Skyblock mod** with tons of features.  
-Though heavy, it's **very clean and well-optimized**, not eating away your PC performance.  
-It has **practical, essential features** without junk.  
+## 🛫 Philosophy of the Mod
 
-I mention Skytils to explain **why Silence Utils exists** and **what character it has**.  
-Silence Utils is designed to **complement Skytils as the main mod**, adding **missing or new features**.  
-I **strongly recommend using Skytils**, and Silence Utils is a must-have alongside it.  
-Personally, I only use [SilenceUtils](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation), [Skytils](https://github.com/Skytils/SkytilsMod), [OneflowWaterSolver](https://github.com/Desco1/WaterSolver), [Patcher](https://github.com/Sk1erLLC/Patcher).  
+As mentioned above, Silence Utils **does not aim to create numerous miscellaneous features**.
+Performance and gameplay quality are the highest priorities during development, with focus on whether the feature is truly useful and whether it significantly impacts performance.
+That's why many requested features could not be implemented.
+Also, since this is a **dungeon-focused mod**, heavy features unrelated to dungeons are not added.
 
-## 🛫 DIRECTION
-As explained above, Silence Utils **avoids adding too many unnecessary features**.  
-When developing, I focus mainly on **performance and gameplay quality** and always check:  
- - **Is this already in Skytils?**  
- - **Is this feature truly useful?**  
- - **Is it too heavy for what it does?**  
-This is why many feature requests could not be added.  
-Also, being **dungeon-focused**, I avoid heavy non-dungeon features.
+Although Minecraft is a low-spec game, Skyblock players often use many heavy mods and play with low FPS.
+Some people are forced to use heavy mods just for a few useful features.
+To prevent this terrible performance drop, the goal is to create a mod that combines **performance**, **functionality**, and **convenience**.
 
-The creator is **Korean**.  
-Very few Koreans play Skyblock.  
-So I **actively support Korean users** much more.  
-That doesn’t mean there’s no support for foreigners, but English help may be limited.  
+The developer of Silence Utils is **Korean**.
+There may be limitations in English support, including translations.
 
-## ✨ FEATURES FIRST CREATED IN SILENCE UTILS
-These are mods **first developed in Silence Utils**.  
-While I expected similar mods to appear over time, some have **stolen code and claimed it as their own**, so this is to clarify.  
+## 📘 Recommended Mod Combinations
 
-2024-02-15 - Dungeon Queue Ready  
+| Situation         | Client                                                                                     | Mods                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General           | [Feather Client](https://feathermc.com/)                                                   | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map)                                                                                                                                                                                                                                                                                          |
+| General           | [Forge Client](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll), [Chatting](https://modrinth.com/mod/chatting), [VanillaHUD](https://modrinth.com/mod/vanillahud)                                                                                                                   |
+| Diana, Rift       | [Feather Client](https://feathermc.com/)                                                   | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [NEU](https://github.com/NotEnoughUpdates/NotEnoughUpdates), [Skyhanni](https://github.com/hannibal002/SkyHanni)                                                                                                                                                                        |
+| Diana, Rift       | [Forge Client](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [NEU](https://github.com/NotEnoughUpdates/NotEnoughUpdates), [Skyhanni](https://github.com/hannibal002/SkyHanni), [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll), [Chatting](https://modrinth.com/mod/chatting), [VanillaHUD](https://modrinth.com/mod/vanillahud) |
+| Other Useful Mods | [Feather Client](https://feathermc.com/)                                                   | [Motion Blur](https://modrinth.com/mod/polyblur), [CrashPatch](https://modrinth.com/mod/crashpatch)                                                                                                                                                                                                                                                                                                                        |
+| Other Useful Mods | [Forge Client](https://feathermc.com/)                                                     | [Motion Blur](https://modrinth.com/mod/polyblur), [Old Animation](https://modrinth.com/mod/animations), [CrashPatch](https://modrinth.com/mod/crashpatch)                                                                                                                                                                                                                                                                  |
 
-2024-02-18 - Terminal Waypoint  
+## ✨ Mods Originally Created by Silence Utils
 
-2024-02-18 - Farming Supporter  
+The following mods were **originally created by Silence Utils**.
 
-2024-03-02 - Arrow Shop Icon  
+| Date         | Mod Name                              |
+| ------------ | ------------------------------------- |
+| Feb 15, 2024 | Dungeon Queue Ready Mod               |
+| Feb 18, 2024 | Terminal Waypoint Mod                 |
+| Feb 18, 2024 | Farming Supporter Mod                 |
+| Mar 2, 2024  | Arrow Shop Icon Mod                   |
+| Mar 2, 2024  | PartyFinder Info Mod                  |
+| Mar 2, 2024  | PartyFinder Icon Mod                  |
+| Mar 2, 2024  | Croesus Icon Mod                      |
+| Mar 8, 2024  | Dungeon Class Notification Mod        |
+| Mar 8, 2024  | Crystal Notification Mod              |
+| Mar 19, 2024 | i4 (Pre4) Notification and Status Mod |
+| Apr 23, 2024 | Fix Teleport Mod                      |
+| Apr 25, 2024 | Multiple Keybind Mod                  |
+| May 4, 2024  | Fix GUI Mod                           |
+| May 4, 2024  | i4 (Pre4) Location Notification Mod   |
+| May 4, 2024  | Fix Breaking                          |
+| Jul 23, 2024 | Dungeon Key Notification Mod          |
+| Nov 17, 2024 | Device Status                         |
+| Mar 22, 2025 | Optimal Path Boulder Solver Mod       |
 
-2024-03-02 - PartyFinder Info  
+## 📖 Learn More
 
-2024-03-02 - PartyFinder Icon  
+You can find more detailed feature descriptions on [Discord](https://discord.gg/2Zt8HDksJs).
+Check out the mod features [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).
+Secret founder information is available [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md).
 
-2024-03-02 - Croesus Icon  
+## 💸 Premium
 
-2024-03-08 - Dungeon Class Alerts  
+Premium is offered only to selected users through payment.
+Premium users can access beta versions, request feature additions, and use cosmetics visible only to mod users.
 
-2024-03-08 - Crystal Alerts  
+## 📖 Terms of Use
 
-2024-03-19 - i4(Pre4) Alerts and Status Check  
+1. All responsibility for mod usage lies with the user.
+2. Do not share the mod with third parties.
+3. Some personal information is collected. (Collected info: hardware ID, reports for bug fixes and environment improvement)
 
-2024-04-23 - Fix Teleport  
-
-2024-04-25 - Multiple Keybind  
-
-2024-05-04 - Fix Gui  
-
-2024-05-04 - i4(Pre4) Location Alerts  
-
-2024-05-04 - Fix Breaking  
-
-2024-07-23 - Dungeon Key Alerts  
-
-2024-11-17 - Device Status  
-
-## 📖 LEARN MORE
-You can see all mod features [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md).  
-Secret founder info is [here](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md).  
-
-## 💸 PREMIUM
-Premium is offered only to limited users through payment.  
-Premium users get access to **beta versions**, **feature requests**, and **exclusive cosmetics** visible only to mod users.  
-
-## 🚀 BUYING THE MOD
-1. Join the [Discord server](https://discord.gg/2Zt8HDksJs).  
-2. In the purchase channel, enter **payment method** and **options**, then open a purchase ticket.  
-2-1. Payment is upfront and **non-refundable** once completed.  
-2-2. The buyer is the default recipient; if you want to gift it, mention it in the ticket.  
-2-3. Wait for admin approval.  
-3. Once approved, you'll get **roles** in the server and **the mod via DM**.  
-3-1. Make sure you allow DMs from server members or accept the SILENCE bot.  
-4. Download the mod, put it in your **mods folder**, and **launch the game**.  
-5. Wait for **admin authentication approval** on first launch.  
-5-1. Fastest approval is within 5–10 minutes after purchase.  
-5-2. Approval may take 1 minute to 24 hours.  
-
-## ❗ BEFORE USING OR BUYING
-① Silence Utils does not contain any hacking features.  
-② If you get banned, there is no way to verify if it was due to this mod; responsibility is on the user.  
-③ Purchase grants **permanent use** with no MC account limit.  
+## 🎮 Mod Related Videos
 ④ No refund after purchase.  
 ⑤ Sharing the mod publicly or with third parties will result in blacklist and revoked access.  
 
