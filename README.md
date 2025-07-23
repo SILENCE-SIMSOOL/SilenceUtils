@@ -115,7 +115,7 @@ Premium users can access beta versions, request feature additions, and use cosme
 ② Do not share the mod with others.  
 ③ Some personal data is collected (hardware ID, crash/error reports for debugging).  
 
-## 🙏 제작에 도움을 주신 분들
+## 🙏 Contributors Who Helped with Development
 > Translation
 - 함월(_limu)
 
