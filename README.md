@@ -56,6 +56,8 @@
 | 일반               | [포지 클라이언트](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll), [Chatting](https://modrinth.com/mod/chatting), [VanillaHUD](https://modrinth.com/mod/vanillahud)                |
 | 다이에나, 리프트   | [페더 클라이언트](https://feathermc.com/)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [NEU](https://github.com/NotEnoughUpdates/NotEnoughUpdates), [Skyhanni](https://github.com/hannibal002/SkyHanni)                                            |
 | 다이에나, 리프트   | [포지 클라이언트](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [NEU](https://github.com/NotEnoughUpdates/NotEnoughUpdates), [Skyhanni](https://github.com/hannibal002/SkyHanni), [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll), [Chatting](https://modrinth.com/mod/chatting), [VanillaHUD](https://modrinth.com/mod/vanillahud) |
+| 그 밖에 유용한 모드들 | [페더 클라이언트](https://feathermc.com/) | [Motion Blur](https://modrinth.com/mod/polyblur), [CrashPatch](https://modrinth.com/mod/crashpatch)  |
+| 그 밖에 유용한 모드들 | [포지 클라이언트](https://feathermc.com/) | [Motion Blur](https://modrinth.com/mod/polyblur), [Old Animation](https://modrinth.com/mod/animations), [CrashPatch](https://modrinth.com/mod/crashpatch)  |
 
 ## ✨ 사일런스 유틸이 최초로 제작한 모드들
 해당 모드들은 **사일런스 유틸이 최초로 제작**한 모드들입니다.
