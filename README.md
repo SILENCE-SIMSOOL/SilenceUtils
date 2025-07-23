@@ -123,7 +123,7 @@ Premium users can access beta versions, request feature additions, and use cosme
 - 하힐(s._.un.)
 - 쥬자(wbwi)
 - [유아(yua)](https://www.youtube.com/@whiteups)
-- [휘람](https://github.com/HexPaw)
+- [휘람(Florline)](https://github.com/HexPaw)
 - [플러그(PLG4)](https://www.youtube.com/@SEXYPLUG)
 - 산소(thinking)
 
