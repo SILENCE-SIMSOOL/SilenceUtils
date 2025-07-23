@@ -114,3 +114,23 @@ Premium users can access beta versions, request feature additions, and use cosme
 ① User bears all responsibility for using the mod.  
 ② Do not share the mod with others.  
 ③ Some personal data is collected (hardware ID, crash/error reports for debugging).  
+
+## 🙏 제작에 도움을 주신 분들
+> Translation
+- 함월(_limu)
+
+> Testing
+- 하힐(s._.un.)
+- 쥬자(wbwi)
+- [유아(yua)](https://www.youtube.com/@whiteups)
+- [휘람](https://github.com/HexPaw)
+- [플러그(PLG4)](https://www.youtube.com/@SEXYPLUG)
+- 산소(thinking)
+
+> Development Support / Idea Contribution
+- 하힐(s._.un.)
+- [유아(yua)](https://www.youtube.com/@whiteups)
+- [플러그(PLG4)](https://www.youtube.com/@SEXYPLUG)
+
+> Direct Development
+- 라이트(_Light): Initial version of the inventory button design
