@@ -49,15 +49,20 @@
 사일런스 유틸의 제작자는 **한국인**입니다.  
 글의 번역을 포함한 영어 지원에는 한계가 있을 수 있습니다.    
 
-## 📘 추천 모드 조합
-| 상황               | 클라이언트       | 모드                                                                             |
-|--------------------|------------------|-----------------------------------------------------------------------------------|
-| 일반               | [페더 클라이언트](https://feathermc.com/)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map)                                                           |
-| 일반               | [포지 클라이언트](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll), [Chatting](https://modrinth.com/mod/chatting), [VanillaHUD](https://modrinth.com/mod/vanillahud)                |
-| 다이에나, 리프트   | [페더 클라이언트](https://feathermc.com/)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [NEU](https://github.com/NotEnoughUpdates/NotEnoughUpdates), [Skyhanni](https://github.com/hannibal002/SkyHanni)                                            |
-| 다이에나, 리프트   | [포지 클라이언트](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)              | [Silence Utils](https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases), [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map), [NEU](https://github.com/NotEnoughUpdates/NotEnoughUpdates), [Skyhanni](https://github.com/hannibal002/SkyHanni), [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll), [Chatting](https://modrinth.com/mod/chatting), [VanillaHUD](https://modrinth.com/mod/vanillahud) |
-| 그 밖에 유용한 모드들 | [페더 클라이언트](https://feathermc.com/) | [Motion Blur](https://modrinth.com/mod/polyblur), [CrashPatch](https://modrinth.com/mod/crashpatch)  |
-| 그 밖에 유용한 모드들 | [포지 클라이언트](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) | [Motion Blur](https://modrinth.com/mod/polyblur), [Old Animation](https://modrinth.com/mod/animations), [CrashPatch](https://modrinth.com/mod/crashpatch)  |
+## 📘 가치가 있는 다른 모드들
+| 모드 이름                                                                                        | 기능 설명                                       | 성능 문제                                         |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
+| [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map)                                            | 던전 맵 모드. 가벼우며 깔끔한 디자인             | |
+| [FixDungeonBreaker](https://github.com/SILENCE-SIMSOOL/FixDungeonBreaker)                         | 핑에 의한 느리게 캐지는 던전 브레이커를 고침.    | |
+| [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)                               | 아이템 툴팁을 스크롤링 할 수 있음.               | |
+| [Chatting](https://modrinth.com/mod/chatting)                                                     | 채팅 관련 유용한 기능들.                         | |
+| [VanillaHUD](https://modrinth.com/mod/vanillahud)                                                 | HUD 요소들을 관리.                               | HUDCaching 과 호환의 문제가 있을 수 있으며 프레임을 조금 떨어트림. |
+| [Motion Blur](https://modrinth.com/mod/polyblur)                                                  | 모션 블러 처리.                                  | 프레임을 매우 떨어트림. |
+| [Old Animation](https://modrinth.com/mod/animations)                                              | 블럭힛 모션을 포함한 아이템 애니메이션 관리.      | |
+
+| 모드 이름                                                                                         | 유용한 기능                                            | 성능 문제                                   |
+| [Skyhanni](https://github.com/hannibal002/SkyHanni)                                               | 다이에나 이벤트와 리프트에서 매우 유용한 기능들이 있음. | 성능을 매우 많이 떨어트림.
+
 
 ## ✨ 사일런스 유틸이 최초로 제작한 모드들
 해당 모드들은 **사일런스 유틸이 최초로 제작**한 모드들입니다.
