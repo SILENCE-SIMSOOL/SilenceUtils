@@ -68,7 +68,7 @@ There may be limitations in English support, including translations.
 | --------------------------------------------------- | ----------------------------------------------- | -------------------------------- |
 | [Skyhanni](https://github.com/hannibal002/SkyHanni) | Helpful features for Diana events and The Rift. | Causes severe performance drops. |
 
-## ✨ Mods Originally Created by Silence Util
+## ✨ Mods Originally Created by SilenceUtil
 
 These are the **first mods developed by Silence Util**.
 
