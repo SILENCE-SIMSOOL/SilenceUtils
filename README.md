@@ -68,30 +68,29 @@ There may be limitations in English support, including translations.
 | --------------------------------------------------- | ----------------------------------------------- | -------------------------------- |
 | [Skyhanni](https://github.com/hannibal002/SkyHanni) | Helpful features for Diana events and The Rift. | Causes severe performance drops. |
 
-## ✨ Mods Originally Created by Silence Utils
+## ✨ Mods Originally Created by Silence Util
 
-The following mods were **originally created by Silence Utils**.
+These are the **first mods developed by Silence Util**.
 
-| Date         | Mod Name                              |
-| ------------ | ------------------------------------- |
-| Feb 15, 2024 | Dungeon Queue Ready Mod               |
-| Feb 18, 2024 | Terminal Waypoint Mod                 |
-| Feb 18, 2024 | Farming Supporter Mod                 |
-| Mar 2, 2024  | Arrow Shop Icon Mod                   |
-| Mar 2, 2024  | PartyFinder Info Mod                  |
-| Mar 2, 2024  | PartyFinder Icon Mod                  |
-| Mar 2, 2024  | Croesus Icon Mod                      |
-| Mar 8, 2024  | Dungeon Class Notification Mod        |
-| Mar 8, 2024  | Crystal Notification Mod              |
-| Mar 19, 2024 | i4 (Pre4) Notification and Status Mod |
-| Apr 23, 2024 | Fix Teleport Mod                      |
-| Apr 25, 2024 | Multiple Keybind Mod                  |
-| May 4, 2024  | Fix GUI Mod                           |
-| May 4, 2024  | i4 (Pre4) Location Notification Mod   |
-| May 4, 2024  | Fix Breaking                          |
-| Jul 23, 2024 | Dungeon Key Notification Mod          |
-| Nov 17, 2024 | Device Status                         |
-| Mar 22, 2025 | Optimal Path Boulder Solver Mod       |
+| Date         | Mod Name                        |
+| ------------ | ------------------------------- |
+| Feb 15, 2024 | Dungeon Queue Ready             |
+| Feb 18, 2024 | Terminal Class Waypoint         |
+| Feb 18, 2024 | Farming Supporter               |
+| Mar 2, 2024  | Arrow Shop Icon                 |
+| Mar 2, 2024  | PartyFinder Manager             |
+| Mar 2, 2024  | Croesus Icon                    |
+| Mar 8, 2024  | Dungeon Class Alert             |
+| Mar 8, 2024  | Crystal Alert                   |
+| Mar 19, 2024 | i4(Pre4) Alert & Status Checker |
+| Apr 23, 2024 | Fix Teleport                    |
+| Apr 25, 2024 | Multiple Keybind                |
+| May 4, 2024  | Fix GUI Mod                     |
+| May 4, 2024  | i4(Pre4) Location Alert         |
+| May 4, 2024  | Fix Breaking                    |
+| Nov 17, 2024 | Device Status                   |
+| Mar 22, 2025 | Optimal Path Boulder Solver     |
+| Nov 3, 2025  | Fix DungeonBreaker              |
 
 ## 📖 Learn More
 
