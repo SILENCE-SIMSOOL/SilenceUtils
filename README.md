@@ -1,11 +1,11 @@
 <p align="center">
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils">
 		<img src="resource/title.png" alt="SilenceUtils Documentation" width="1200">
 	</a>
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
 		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils-Documentation?color=E0E0E0&style=flat-square" />
 	</a>
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/releases" target="_blank">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
 		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=8b4db6&style=flat-square" />
 	</a>
 	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
