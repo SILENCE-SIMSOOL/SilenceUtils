@@ -1,0 +1,6299 @@
+[
+	{
+		"name": "Water",
+		"secret": 2,
+		"id": [
+			-333637832
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 17,
+				"y": 67,
+				"z": 4,
+				"category": "bat"
+			},
+			{
+				"x": 2,
+				"y": 69,
+				"z": 5,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 70,
+				"z": 7,
+				"category": "lever"
+			}
+		]
+	},
+	{
+		"name": "Shadow Assassin",
+		"secret": 0,
+		"id": [
+			397211721
+		],
+		"type": "GOLD",
+		"waypoints": []
+	},
+	{
+		"name": "Water Board",
+		"secret": 0,
+		"id": [
+			379499781,
+			-1229365170,
+			-589525429
+		],
+		"type": "PUZZLE",
+		"waypoints": []
+	},
+	{
+		"name": "Prison Cell",
+		"secret": 1,
+		"id": [
+			845343581
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 10,
+				"y": 76,
+				"z": 23,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Tomioka",
+		"secret": 0,
+		"id": [
+			-1191537425
+		],
+		"type": "MOBS",
+		"waypoints": []
+	},
+	{
+		"name": "Purple Flags",
+		"secret": 5,
+		"id": [
+			1500789482,
+			664490773
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 32,
+				"y": 67,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 39,
+				"y": 49,
+				"z": 29,
+				"category": "chest"
+			},
+			{
+				"x": 59,
+				"y": 49,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 6,
+				"y": 57,
+				"z": 28,
+				"category": "wither"
+			},
+			{
+				"x": 27,
+				"y": 49,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 32,
+				"y": 67,
+				"z": 10,
+				"category": "aotv"
+			},
+			{
+				"x": 35,
+				"y": 55,
+				"z": 29,
+				"category": "lever"
+			},
+			{
+				"x": 13,
+				"y": 52,
+				"z": 22,
+				"category": "aotv"
+			},
+			{
+				"x": 15,
+				"y": 63,
+				"z": 19,
+				"category": "aotv"
+			},
+			{
+				"x": 15,
+				"y": 65,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 15,
+				"y": 64,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 6,
+				"y": 60,
+				"z": 27,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Redstone Key",
+		"secret": 3,
+		"id": [
+			684588480,
+			-1986945620
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 69,
+				"z": 5,
+				"category": "item"
+			},
+			{
+				"x": 19,
+				"y": 66,
+				"z": 7,
+				"category": "redstone"
+			},
+			{
+				"x": 10,
+				"y": 70,
+				"z": 26,
+				"category": "redstone"
+			},
+			{
+				"x": 28,
+				"y": 62,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 70,
+				"z": 27,
+				"category": "lever"
+			},
+			{
+				"x": 8,
+				"y": 70,
+				"z": 25,
+				"category": "break"
+			},
+			{
+				"x": 25,
+				"y": 68,
+				"z": 23,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Sarcophagus",
+		"secret": 3,
+		"id": [
+			-1167774036,
+			-771559429
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 69,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 21,
+				"y": 70,
+				"z": 26,
+				"category": "bat"
+			},
+			{
+				"x": 18,
+				"y": 68,
+				"z": 27,
+				"category": "wither"
+			},
+			{
+				"x": 19,
+				"y": 70,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 19,
+				"y": 69,
+				"z": 21,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Mines",
+		"secret": 10,
+		"id": [
+			-42175953,
+			1905421134,
+			-1565557409,
+			-892257050
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 9,
+				"y": 82,
+				"z": 21,
+				"category": "chest"
+			},
+			{
+				"x": 41,
+				"y": 80,
+				"z": 12,
+				"category": "chest"
+			},
+			{
+				"x": 9,
+				"y": 108,
+				"z": 17,
+				"category": "chest"
+			},
+			{
+				"x": 9,
+				"y": 109,
+				"z": 30,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 99,
+				"z": 58,
+				"category": "chest"
+			},
+			{
+				"x": 56,
+				"y": 78,
+				"z": 58,
+				"category": "chest"
+			},
+			{
+				"x": 60,
+				"y": 43,
+				"z": 50,
+				"category": "chest"
+			},
+			{
+				"x": 1,
+				"y": 89,
+				"z": 57,
+				"category": "item"
+			},
+			{
+				"x": 53,
+				"y": 48,
+				"z": 8,
+				"category": "item"
+			},
+			{
+				"x": 4,
+				"y": 54,
+				"z": 56,
+				"category": "item"
+			},
+			{
+				"x": 12,
+				"y": 78,
+				"z": 25,
+				"category": "aotv"
+			},
+			{
+				"x": 39,
+				"y": 75,
+				"z": 12,
+				"category": "aotv"
+			},
+			{
+				"x": 52,
+				"y": 78,
+				"z": 9,
+				"category": "aotv"
+			},
+			{
+				"x": 52,
+				"y": 79,
+				"z": 9,
+				"category": "lever"
+			},
+			{
+				"x": 31,
+				"y": 100,
+				"z": 8,
+				"category": "aotv"
+			},
+			{
+				"x": 34,
+				"y": 79,
+				"z": 59,
+				"category": "lever"
+			},
+			{
+				"x": 53,
+				"y": 46,
+				"z": 15,
+				"category": "aotv"
+			},
+			{
+				"x": 16,
+				"y": 61,
+				"z": 37,
+				"category": "aotv"
+			},
+			{
+				"x": 14,
+				"y": 80,
+				"z": 3,
+				"category": "lever"
+			},
+			{
+				"x": 11,
+				"y": 109,
+				"z": 29,
+				"category": "break"
+			},
+			{
+				"x": 11,
+				"y": 99,
+				"z": 29,
+				"category": "break"
+			},
+			{
+				"x": 9,
+				"y": 88,
+				"z": 58,
+				"category": "break"
+			},
+			{
+				"x": 9,
+				"y": 80,
+				"z": 19,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Blood",
+		"secret": 0,
+		"id": [
+			1898104308,
+			698844034
+		],
+		"type": "BLOOD",
+		"waypoints": []
+	},
+	{
+		"name": "Arrow Trap",
+		"secret": 1,
+		"id": [
+			313879976
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 69,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 70,
+				"z": 23,
+				"category": "lever"
+			}
+		]
+	},
+	{
+		"name": "Tombstone",
+		"secret": 2,
+		"id": [
+			535698739
+		],
+		"type": "RARE",
+		"waypoints": []
+	},
+	{
+		"name": "Bomb Defuse",
+		"secret": 0,
+		"id": [
+			86014075
+		],
+		"type": "PUZZLE",
+		"waypoints": []
+	},
+	{
+		"name": "Archway",
+		"secret": 3,
+		"id": [
+			259768244,
+			1440685825
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 1,
+				"y": 70,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 10,
+				"y": 85,
+				"z": 27,
+				"category": "item"
+			},
+			{
+				"x": 54,
+				"y": 89,
+				"z": 12,
+				"category": "item"
+			},
+			{
+				"x": 37,
+				"y": 87,
+				"z": 17,
+				"category": "aotv"
+			},
+			{
+				"x": 54,
+				"y": 82,
+				"z": 14,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Three Weirdos",
+		"secret": 0,
+		"id": [
+			-2056613688
+		],
+		"type": "PUZZLE",
+		"waypoints": []
+	},
+	{
+		"name": "Red Green",
+		"secret": 3,
+		"id": [
+			-1800029469
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 13,
+				"y": 77,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 1,
+				"y": 61,
+				"z": 15,
+				"category": "item"
+			},
+			{
+				"x": 29,
+				"y": 75,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 29,
+				"y": 61,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 5,
+				"y": 68,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 60,
+				"z": 15,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Catwalk",
+		"secret": 6,
+		"id": [
+			-1556782371,
+			-2024953154,
+			1179970013
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 24,
+				"y": 63,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 24,
+				"y": 50,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 89,
+				"y": 49,
+				"z": 18,
+				"category": "chest"
+			},
+			{
+				"x": 84,
+				"y": 63,
+				"z": 14,
+				"category": "chest"
+			},
+			{
+				"x": 80,
+				"y": 50,
+				"z": 6,
+				"category": "item"
+			},
+			{
+				"x": 80,
+				"y": 50,
+				"z": 8,
+				"category": "wither"
+			},
+			{
+				"x": 24,
+				"y": 62,
+				"z": 24,
+				"category": "aotv"
+			},
+			{
+				"x": 84,
+				"y": 63,
+				"z": 23,
+				"category": "aotv"
+			},
+			{
+				"x": 84,
+				"y": 63,
+				"z": 18,
+				"category": "break"
+			},
+			{
+				"x": 88,
+				"y": 54,
+				"z": 18,
+				"category": "break"
+			},
+			{
+				"x": 88,
+				"y": 50,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 81,
+				"y": 55,
+				"z": 7,
+				"category": "break"
+			},
+			{
+				"x": 88,
+				"y": 51,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 81,
+				"y": 56,
+				"z": 7,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Supertall",
+		"secret": 6,
+		"id": [
+			-296996262,
+			1395242314,
+			-1760780706,
+			-1867603567
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 72,
+				"z": 2,
+				"category": "bat"
+			},
+			{
+				"x": 53,
+				"y": 112,
+				"z": 8,
+				"category": "bat"
+			},
+			{
+				"x": 36,
+				"y": 142,
+				"z": 51,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 142,
+				"z": 56,
+				"category": "chest"
+			},
+			{
+				"x": 26,
+				"y": 142,
+				"z": 51,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 102,
+				"z": 53,
+				"category": "item"
+			},
+			{
+				"x": 53,
+				"y": 142,
+				"z": 51,
+				"category": "lever"
+			},
+			{
+				"x": 50,
+				"y": 77,
+				"z": 46,
+				"category": "lever"
+			},
+			{
+				"x": 12,
+				"y": 131,
+				"z": 7,
+				"category": "lever"
+			},
+			{
+				"x": 15,
+				"y": 86,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 15,
+				"y": 87,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 24,
+				"y": 98,
+				"z": 50,
+				"category": "break"
+			},
+			{
+				"x": 24,
+				"y": 99,
+				"z": 50,
+				"category": "aotv"
+			},
+			{
+				"x": 22,
+				"y": 131,
+				"z": 9,
+				"category": "aotv"
+			},
+			{
+				"x": 15,
+				"y": 83,
+				"z": 17,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Redstone Crypt",
+		"secret": 3,
+		"id": [
+			1446016334,
+			-889320918
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 9,
+				"y": 69,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 29,
+				"y": 70,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 4,
+				"y": 71,
+				"z": 4,
+				"category": "redstone"
+			},
+			{
+				"x": 15,
+				"y": 68,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 26,
+				"y": 72,
+				"z": 6,
+				"category": "redstoneblock"
+			}
+		]
+	},
+	{
+		"name": "Mural",
+		"secret": 1,
+		"id": [
+			-743021993
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 83,
+				"z": 7,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Big Red Flag",
+		"secret": 2,
+		"id": [
+			-807913351
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 75,
+				"z": 25,
+				"category": "item"
+			},
+			{
+				"x": 20,
+				"y": 75,
+				"z": 23,
+				"category": "item"
+			},
+			{
+				"x": 22,
+				"y": 77,
+				"z": 19,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 78,
+				"z": 19,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 76,
+				"z": 18,
+				"category": "aotv"
+			},
+			{
+				"x": 16,
+				"y": 70,
+				"z": 19,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 69,
+				"z": 19,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 70,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 69,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 69,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 70,
+				"z": 21,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Cathedral",
+		"secret": 8,
+		"id": [
+			-1530782553,
+			-1999467696,
+			950592972,
+			-508170344
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 19,
+				"y": 60,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 28,
+				"y": 82,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 38,
+				"y": 59,
+				"z": 36,
+				"category": "chest"
+			},
+			{
+				"x": 59,
+				"y": 86,
+				"z": 3,
+				"category": "bat"
+			},
+			{
+				"x": 37,
+				"y": 74,
+				"z": 15,
+				"category": "bat"
+			},
+			{
+				"x": 49,
+				"y": 59,
+				"z": 23,
+				"category": "item"
+			},
+			{
+				"x": 33,
+				"y": 93,
+				"z": 47,
+				"category": "item"
+			},
+			{
+				"x": 20,
+				"y": 90,
+				"z": 44,
+				"category": "item"
+			},
+			{
+				"x": 20,
+				"y": 85,
+				"z": 47,
+				"category": "aotv"
+			},
+			{
+				"x": 38,
+				"y": 65,
+				"z": 36,
+				"category": "break"
+			},
+			{
+				"x": 31,
+				"y": 80,
+				"z": 44,
+				"category": "aotv"
+			},
+			{
+				"x": 31,
+				"y": 82,
+				"z": 46,
+				"category": "break"
+			},
+			{
+				"x": 31,
+				"y": 83,
+				"z": 46,
+				"category": "break"
+			},
+			{
+				"x": 32,
+				"y": 91,
+				"z": 48,
+				"category": "break"
+			},
+			{
+				"x": 21,
+				"y": 89,
+				"z": 46,
+				"category": "break"
+			},
+			{
+				"x": 2,
+				"y": 83,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 68,
+				"z": 7,
+				"category": "break"
+			},
+			{
+				"x": 20,
+				"y": 89,
+				"z": 44,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Hanging Vines",
+		"secret": 1,
+		"id": [
+			467751445
+		],
+		"type": "RARE",
+		"waypoints": []
+	},
+	{
+		"name": "Drop",
+		"secret": 2,
+		"id": [
+			-1779237820
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 5,
+				"y": 59,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 25,
+				"y": 77,
+				"z": 2,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Bridges",
+		"secret": 6,
+		"id": [
+			1024359556,
+			454887921
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 53,
+				"y": 53,
+				"z": 13,
+				"category": "wither"
+			},
+			{
+				"x": 53,
+				"y": 52,
+				"z": 17,
+				"category": "wither"
+			},
+			{
+				"x": 41,
+				"y": 52,
+				"z": 21,
+				"category": "chest"
+			},
+			{
+				"x": 3,
+				"y": 82,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 48,
+				"y": 97,
+				"z": 2,
+				"category": "bat"
+			},
+			{
+				"x": 55,
+				"y": 81,
+				"z": 17,
+				"category": "item"
+			},
+			{
+				"x": 54,
+				"y": 59,
+				"z": 28,
+				"category": "lever"
+			},
+			{
+				"x": 51,
+				"y": 57,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 51,
+				"y": 57,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 51,
+				"y": 56,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 51,
+				"y": 56,
+				"z": 20,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Rare Overgrown",
+		"secret": 3,
+		"id": [
+			-1907291752
+		],
+		"type": "RARE",
+		"waypoints": []
+	},
+	{
+		"name": "Cobble Wall Pillar",
+		"secret": 2,
+		"id": [
+			-170648742
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 28,
+				"y": 60,
+				"z": 12,
+				"category": "chest"
+			},
+			{
+				"x": 12,
+				"y": 61,
+				"z": 17,
+				"category": "chest"
+			},
+			{
+				"x": 20,
+				"y": 69,
+				"z": 23,
+				"category": "lever"
+			}
+		]
+	},
+	{
+		"name": "Museum",
+		"secret": 5,
+		"id": [
+			-1505871564,
+			1250712883,
+			898168212,
+			-95130049
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 31,
+				"y": 70,
+				"z": 60,
+				"category": "chest"
+			},
+			{
+				"x": 34,
+				"y": 83,
+				"z": 11,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 70,
+				"z": 9,
+				"category": "chest"
+			},
+			{
+				"x": 48,
+				"y": 62,
+				"z": 6,
+				"category": "chest"
+			},
+			{
+				"x": 26,
+				"y": 84,
+				"z": 9,
+				"category": "lever"
+			},
+			{
+				"x": 42,
+				"y": 93,
+				"z": 53,
+				"category": "wither"
+			},
+			{
+				"x": 42,
+				"y": 92,
+				"z": 53,
+				"category": "aotv"
+			},
+			{
+				"x": 26,
+				"y": 83,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 26,
+				"y": 82,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 85,
+				"z": 10,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 84,
+				"z": 10,
+				"category": "break"
+			},
+			{
+				"x": 35,
+				"y": 82,
+				"z": 11,
+				"category": "break"
+			},
+			{
+				"x": 26,
+				"y": 81,
+				"z": 17,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Pedestal",
+		"secret": 5,
+		"id": [
+			-1792508076,
+			1549240174
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 31,
+				"y": 70,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 7,
+				"y": 94,
+				"z": 21,
+				"category": "chest"
+			},
+			{
+				"x": 32,
+				"y": 60,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 50,
+				"y": 61,
+				"z": 18,
+				"category": "item"
+			},
+			{
+				"x": 53,
+				"y": 61,
+				"z": 22,
+				"category": "wither"
+			},
+			{
+				"x": 53,
+				"y": 68,
+				"z": 19,
+				"category": "break"
+			},
+			{
+				"x": 34,
+				"y": 68,
+				"z": 25,
+				"category": "break"
+			},
+			{
+				"x": 20,
+				"y": 78,
+				"z": 25,
+				"category": "aotv"
+			},
+			{
+				"x": 9,
+				"y": 92,
+				"z": 25,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Lava Ravine",
+		"secret": 6,
+		"id": [
+			1131013667,
+			2036450719,
+			-854539536
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 29,
+				"y": 88,
+				"z": 9,
+				"category": "chest"
+			},
+			{
+				"x": 29,
+				"y": 88,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 58,
+				"y": 86,
+				"z": 47,
+				"category": "chest"
+			},
+			{
+				"x": 23,
+				"y": 67,
+				"z": 57,
+				"category": "chest"
+			},
+			{
+				"x": 12,
+				"y": 64,
+				"z": 33,
+				"category": "bat"
+			},
+			{
+				"x": 16,
+				"y": 51,
+				"z": 32,
+				"category": "item"
+			},
+			{
+				"x": 8,
+				"y": 84,
+				"z": 42,
+				"category": "lever"
+			},
+			{
+				"x": 28,
+				"y": 88,
+				"z": 11,
+				"category": "break"
+			},
+			{
+				"x": 28,
+				"y": 87,
+				"z": 11,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Quad Lava",
+		"secret": 2,
+		"id": [
+			1865354448
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 5,
+				"y": 70,
+				"z": 25,
+				"category": "chest"
+			},
+			{
+				"x": 19,
+				"y": 60,
+				"z": 10,
+				"category": "chest"
+			},
+			{
+				"x": 24,
+				"y": 66,
+				"z": 6,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Waterfall",
+		"secret": 8,
+		"id": [
+			90256084,
+			228212335,
+			-1682661340,
+			520419865
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 8,
+				"y": 44,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 34,
+				"y": 84,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 82,
+				"y": 78,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 42,
+				"y": 82,
+				"z": 21,
+				"category": "chest"
+			},
+			{
+				"x": 53,
+				"y": 44,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 70,
+				"y": 61,
+				"z": 3,
+				"category": "bat"
+			},
+			{
+				"x": 88,
+				"y": 46,
+				"z": 27,
+				"category": "bat"
+			},
+			{
+				"x": 121,
+				"y": 81,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 71,
+				"y": 59,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 52,
+				"y": 44,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 52,
+				"y": 45,
+				"z": 21,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Ice Fill",
+		"secret": 0,
+		"id": [
+			-1871216735,
+			72131612,
+			-1404774853
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 16,
+				"y": 75,
+				"z": 29,
+				"category": "chest"
+			},
+			{
+				"x": 14,
+				"y": 75,
+				"z": 29,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Dragon",
+		"secret": 0,
+		"id": [
+			-1334473473
+		],
+		"type": "CHAMPION",
+		"waypoints": []
+	},
+	{
+		"name": "Quiz",
+		"secret": 0,
+		"id": [
+			-1517679865,
+			127714189
+		],
+		"type": "PUZZLE",
+		"waypoints": []
+	},
+	{
+		"name": "Dueces",
+		"secret": 3,
+		"id": [
+			-697416341
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 78,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 10,
+				"y": 70,
+				"z": 6,
+				"category": "item"
+			},
+			{
+				"x": 8,
+				"y": 74,
+				"z": 7,
+				"category": "bat"
+			},
+			{
+				"x": 1,
+				"y": 73,
+				"z": 15,
+				"category": "aotv"
+			},
+			{
+				"x": 9,
+				"y": 71,
+				"z": 13,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Beams",
+		"secret": 2,
+		"id": [
+			-1764045332
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 7,
+				"y": 81,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 8,
+				"y": 92,
+				"z": 24,
+				"category": "item"
+			},
+			{
+				"x": 4,
+				"y": 80,
+				"z": 12,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Lots Of Floors",
+		"secret": 3,
+		"id": [
+			-1112550874
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 25,
+				"y": 84,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 69,
+				"z": 28,
+				"category": "chest"
+			},
+			{
+				"x": 1,
+				"y": 76,
+				"z": 5,
+				"category": "chest"
+			},
+			{
+				"x": 12,
+				"y": 62,
+				"z": 14,
+				"category": "lever"
+			},
+			{
+				"x": 2,
+				"y": 75,
+				"z": 5,
+				"category": "aotv"
+			},
+			{
+				"x": 27,
+				"y": 78,
+				"z": 7,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Andesite",
+		"secret": 2,
+		"id": [
+			-1701988142
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 1,
+				"y": 69,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 6,
+				"y": 69,
+				"z": 22,
+				"category": "wither"
+			}
+		]
+	},
+	{
+		"name": "Overgrown Chains",
+		"secret": 2,
+		"id": [
+			95969553
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 86,
+				"z": 20,
+				"category": "chest"
+			},
+			{
+				"x": 3,
+				"y": 81,
+				"z": 3,
+				"category": "item"
+			},
+			{
+				"x": 3,
+				"y": 85,
+				"z": 2,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Stairs",
+		"secret": 4,
+		"id": [
+			157642096,
+			1758646790,
+			-265444784,
+			-2033694003
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 44,
+				"y": 88,
+				"z": 28,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 88,
+				"z": 22,
+				"category": "chest"
+			},
+			{
+				"x": 8,
+				"y": 70,
+				"z": 9,
+				"category": "chest"
+			},
+			{
+				"x": 37,
+				"y": 86,
+				"z": 36,
+				"category": "item"
+			},
+			{
+				"x": 36,
+				"y": 85,
+				"z": 36,
+				"category": "aotv"
+			},
+			{
+				"x": 44,
+				"y": 82,
+				"z": 27,
+				"category": "aotv"
+			},
+			{
+				"x": 41,
+				"y": 78,
+				"z": 32,
+				"category": "aotv"
+			},
+			{
+				"x": 17,
+				"y": 78,
+				"z": 30,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Ice Path",
+		"secret": 0,
+		"id": [
+			-145184586
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 67,
+				"z": 28,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Layers",
+		"secret": 8,
+		"id": [
+			965792061,
+			-923498250,
+			161195688
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 25,
+				"y": 70,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 35,
+				"y": 59,
+				"z": 51,
+				"category": "item"
+			},
+			{
+				"x": 47,
+				"y": 79,
+				"z": 34,
+				"category": "item"
+			},
+			{
+				"x": 7,
+				"y": 96,
+				"z": 56,
+				"category": "item"
+			},
+			{
+				"x": 5,
+				"y": 69,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 13,
+				"y": 69,
+				"z": 26,
+				"category": "chest"
+			},
+			{
+				"x": 47,
+				"y": 69,
+				"z": 47,
+				"category": "chest"
+			},
+			{
+				"x": 54,
+				"y": 78,
+				"z": 56,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 75,
+				"z": 2,
+				"category": "aotv"
+			},
+			{
+				"x": 5,
+				"y": 76,
+				"z": 2,
+				"category": "lever"
+			},
+			{
+				"x": 8,
+				"y": 91,
+				"z": 32,
+				"category": "lever"
+			},
+			{
+				"x": 7,
+				"y": 95,
+				"z": 56,
+				"category": "aotv"
+			},
+			{
+				"x": 25,
+				"y": 69,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 25,
+				"y": 70,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 53,
+				"y": 78,
+				"z": 53,
+				"category": "break"
+			},
+			{
+				"x": 53,
+				"y": 79,
+				"z": 53,
+				"category": "break"
+			},
+			{
+				"x": 36,
+				"y": 68,
+				"z": 51,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Overgrown",
+		"secret": 3,
+		"id": [
+			-726297434
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 4,
+				"y": 70,
+				"z": 2,
+				"category": "item"
+			},
+			{
+				"x": 6,
+				"y": 79,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 87,
+				"z": 19,
+				"category": "wither"
+			},
+			{
+				"x": 27,
+				"y": 81,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 9,
+				"y": 85,
+				"z": 18,
+				"category": "aotv"
+			},
+			{
+				"x": 23,
+				"y": 78,
+				"z": 15,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Mossy",
+		"secret": 4,
+		"id": [
+			-751626537,
+			705890228,
+			1402530236,
+			-408036566
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 69,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 63,
+				"y": 95,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 47,
+				"y": 89,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 72,
+				"y": 87,
+				"z": 11,
+				"category": "bat"
+			},
+			{
+				"x": 63,
+				"y": 70,
+				"z": 29,
+				"category": "lever"
+			},
+			{
+				"x": 63,
+				"y": 93,
+				"z": 17,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Creeper Beams",
+		"secret": 0,
+		"id": [
+			1264110624,
+			866773091,
+			-1655263707
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 69,
+				"z": 15,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Small Stairs",
+		"secret": 2,
+		"id": [
+			-998001944
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 24,
+				"y": 63,
+				"z": 3,
+				"category": "item"
+			},
+			{
+				"x": 3,
+				"y": 82,
+				"z": 6,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 80,
+				"z": 9,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"secret": 1,
+		"id": [
+			1461632797
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 16,
+				"y": 80,
+				"z": 17,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Dip",
+		"secret": 2,
+		"id": [
+			-1373895553
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 18,
+				"y": 78,
+				"z": 16,
+				"category": "chest"
+			},
+			{
+				"x": 2,
+				"y": 78,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 19,
+				"y": 79,
+				"z": 26,
+				"category": "lever"
+			},
+			{
+				"x": 7,
+				"y": 70,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 7,
+				"y": 69,
+				"z": 15,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Flags",
+		"secret": 7,
+		"id": [
+			-55302423,
+			-611463932,
+			-2069105515,
+			908422074
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 37,
+				"y": 67,
+				"z": 58,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 97,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 14,
+				"y": 108,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 14,
+				"y": 108,
+				"z": 41,
+				"category": "chest"
+			},
+			{
+				"x": 59,
+				"y": 87,
+				"z": 41,
+				"category": "chest"
+			},
+			{
+				"x": 52,
+				"y": 77,
+				"z": 38,
+				"category": "bat"
+			},
+			{
+				"x": 53,
+				"y": 69,
+				"z": 23,
+				"category": "item"
+			},
+			{
+				"x": 55,
+				"y": 88,
+				"z": 53,
+				"category": "aotv"
+			},
+			{
+				"x": 23,
+				"y": 95,
+				"z": 33,
+				"category": "aotv"
+			},
+			{
+				"x": 20,
+				"y": 107,
+				"z": 34,
+				"category": "aotv"
+			},
+			{
+				"x": 49,
+				"y": 70,
+				"z": 24,
+				"category": "break"
+			},
+			{
+				"x": 49,
+				"y": 69,
+				"z": 24,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Slime",
+		"secret": 5,
+		"id": [
+			419670099,
+			136252599,
+			878407749
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 3,
+				"y": 86,
+				"z": 10,
+				"category": "item"
+			},
+			{
+				"x": 90,
+				"y": 57,
+				"z": 15,
+				"category": "item"
+			},
+			{
+				"x": 20,
+				"y": 86,
+				"z": 15,
+				"category": "wither"
+			},
+			{
+				"x": 14,
+				"y": 52,
+				"z": 14,
+				"category": "bat"
+			},
+			{
+				"x": 29,
+				"y": 87,
+				"z": 14,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 87,
+				"z": 16,
+				"category": "break"
+			},
+			{
+				"x": 5,
+				"y": 86,
+				"z": 16,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Small Waterfall",
+		"secret": 2,
+		"id": [
+			-1188349447
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 3,
+				"y": 82,
+				"z": 22,
+				"category": "bat"
+			},
+			{
+				"x": 6,
+				"y": 77,
+				"z": 26,
+				"category": "wither"
+			},
+			{
+				"x": 1,
+				"y": 76,
+				"z": 17,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Double Diamond",
+		"secret": 3,
+		"id": [
+			1857926981
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 24,
+				"y": 65,
+				"z": 22,
+				"category": "item"
+			},
+			{
+				"x": 6,
+				"y": 69,
+				"z": 6,
+				"category": "wither"
+			},
+			{
+				"x": 11,
+				"y": 82,
+				"z": 19,
+				"category": "chest"
+			},
+			{
+				"x": 24,
+				"y": 88,
+				"z": 26,
+				"category": "lever"
+			},
+			{
+				"x": 24,
+				"y": 68,
+				"z": 22,
+				"category": "aotv"
+			},
+			{
+				"x": 15,
+				"y": 80,
+				"z": 18,
+				"category": "break"
+			},
+			{
+				"x": 11,
+				"y": 66,
+				"z": 7,
+				"category": "aotv"
+			},
+			{
+				"x": 10,
+				"y": 68,
+				"z": 7,
+				"category": "break"
+			},
+			{
+				"x": 24,
+				"y": 79,
+				"z": 24,
+				"category": "break"
+			},
+			{
+				"x": 24,
+				"y": 86,
+				"z": 24,
+				"category": "aotv"
+			},
+			{
+				"x": 21,
+				"y": 87,
+				"z": 25,
+				"category": "break"
+			},
+			{
+				"x": 21,
+				"y": 88,
+				"z": 25,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Temple",
+		"secret": 3,
+		"id": [
+			1575914755
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 20,
+				"y": 78,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 2,
+				"y": 65,
+				"z": 25,
+				"category": "bat"
+			},
+			{
+				"x": 16,
+				"y": 54,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 16,
+				"y": 63,
+				"z": 15,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Scaffolding",
+		"secret": 2,
+		"id": [
+			-2146618657,
+			-2091078305
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 18,
+				"y": 82,
+				"z": 8,
+				"category": "item"
+			},
+			{
+				"x": 5,
+				"y": 82,
+				"z": 28,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Vinny 8 Ball",
+		"secret": 1,
+		"id": [
+			872815555
+		],
+		"type": "RARE",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 69,
+				"z": 17,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Pit",
+		"secret": 5,
+		"id": [
+			-1477466539,
+			-19869269,
+			419868305,
+			968300381,
+			634229450
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 113,
+				"y": 92,
+				"z": 28,
+				"category": "chest"
+			},
+			{
+				"x": 7,
+				"y": 65,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 20,
+				"y": 91,
+				"z": 9,
+				"category": "chest"
+			},
+			{
+				"x": 9,
+				"y": 78,
+				"z": 27,
+				"category": "bat"
+			},
+			{
+				"x": 3,
+				"y": 76,
+				"z": 26,
+				"category": "item"
+			},
+			{
+				"x": 20,
+				"y": 83,
+				"z": 9,
+				"category": "aotv"
+			},
+			{
+				"x": 4,
+				"y": 72,
+				"z": 3,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Hall",
+		"secret": 0,
+		"id": [
+			-442394410
+		],
+		"type": "MOBS",
+		"waypoints": []
+	},
+	{
+		"name": "Duncan",
+		"secret": 1,
+		"id": [
+			-1999038851
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 13,
+				"y": 89,
+				"z": 8,
+				"category": "item"
+			},
+			{
+				"x": 13,
+				"y": 85,
+				"z": 12,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Deathmite",
+		"secret": 6,
+		"id": [
+			706341009,
+			2089865315,
+			-414187054
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 12,
+				"y": 69,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 83,
+				"y": 92,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 67,
+				"y": 82,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 83,
+				"y": 98,
+				"z": 26,
+				"category": "bat"
+			},
+			{
+				"x": 88,
+				"y": 69,
+				"z": 6,
+				"category": "item"
+			},
+			{
+				"x": 71,
+				"y": 80,
+				"z": 15,
+				"category": "aotv"
+			},
+			{
+				"x": 53,
+				"y": 70,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 69,
+				"y": 60,
+				"z": 10,
+				"category": "chest"
+			},
+			{
+				"x": 69,
+				"y": 66,
+				"z": 11,
+				"category": "break"
+			},
+			{
+				"x": 83,
+				"y": 91,
+				"z": 25,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "New Trap",
+		"secret": 3,
+		"id": [
+			-1471076910,
+			1043953833,
+			-686376510,
+			1851993785
+		],
+		"type": "TRAP",
+		"waypoints": [
+			{
+				"x": 21,
+				"y": 92,
+				"z": 21,
+				"category": "bat"
+			},
+			{
+				"x": 26,
+				"y": 90,
+				"z": 14,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 67,
+				"z": 12,
+				"category": "chest"
+			},
+			{
+				"x": 22,
+				"y": 66,
+				"z": 20,
+				"category": "lever"
+			},
+			{
+				"x": 15,
+				"y": 69,
+				"z": 28,
+				"category": "aotv"
+			},
+			{
+				"x": 22,
+				"y": 90,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 91,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 27,
+				"y": 89,
+				"z": 14,
+				"category": "break"
+			},
+			{
+				"x": 5,
+				"y": 70,
+				"z": 8,
+				"category": "break"
+			},
+			{
+				"x": 5,
+				"y": 69,
+				"z": 8,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Pressure Plates",
+		"secret": 6,
+		"id": [
+			763731417,
+			-2105744124,
+			2023286596
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 4,
+				"y": 70,
+				"z": 23,
+				"category": "item"
+			},
+			{
+				"x": 57,
+				"y": 69,
+				"z": 7,
+				"category": "item"
+			},
+			{
+				"x": 20,
+				"y": 70,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 23,
+				"y": 59,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 59,
+				"y": 94,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 60,
+				"y": 94,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 24,
+				"y": 80,
+				"z": 21,
+				"category": "aotv"
+			},
+			{
+				"x": 21,
+				"y": 83,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 5,
+				"y": 71,
+				"z": 25,
+				"category": "lever"
+			},
+			{
+				"x": 23,
+				"y": 68,
+				"z": 7,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Lava Pit",
+		"secret": 3,
+		"id": [
+			-695235565
+		],
+		"type": "RARE",
+		"waypoints": []
+	},
+	{
+		"name": "Trinity",
+		"secret": 4,
+		"id": [
+			302128578
+		],
+		"type": "RARE",
+		"waypoints": [
+			{
+				"x": 7,
+				"y": 74,
+				"z": 27,
+				"category": "item"
+			},
+			{
+				"x": 2,
+				"y": 94,
+				"z": 26,
+				"category": "bat"
+			},
+			{
+				"x": 8,
+				"y": 87,
+				"z": 18,
+				"category": "bat"
+			},
+			{
+				"x": 14,
+				"y": 75,
+				"z": 27,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Banners",
+		"secret": 1,
+		"id": [
+			-1092023380
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 27,
+				"y": 72,
+				"z": 15,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Basement",
+		"secret": 1,
+		"id": [
+			1491050733
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 5,
+				"y": 66,
+				"z": 25,
+				"category": "wither"
+			}
+		]
+	},
+	{
+		"name": "Black Flag",
+		"secret": 3,
+		"id": [
+			-1779299819
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 27,
+				"y": 80,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 28,
+				"y": 80,
+				"z": 25,
+				"category": "chest"
+			},
+			{
+				"x": 22,
+				"y": 59,
+				"z": 27,
+				"category": "item"
+			}
+		]
+	},
+	{
+		"name": "Mini Rail Track",
+		"secret": 3,
+		"id": [
+			-701175845
+		],
+		"type": "RARE",
+		"waypoints": [
+			{
+				"x": 20,
+				"y": 72,
+				"z": 10,
+				"category": "bat"
+			},
+			{
+				"x": 6,
+				"y": 82,
+				"z": 21,
+				"category": "bat"
+			},
+			{
+				"x": 28,
+				"y": 63,
+				"z": 7,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Tic Tac Toe",
+		"secret": 1,
+		"id": [
+			-738945309,
+			29612250
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 9,
+				"y": 69,
+				"z": 25,
+				"category": "chest"
+			},
+			{
+				"x": 2,
+				"y": 70,
+				"z": 16,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Doors",
+		"secret": 5,
+		"id": [
+			-811830702,
+			551939185
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 5,
+				"y": 87,
+				"z": 28,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 51,
+				"z": 17,
+				"category": "chest"
+			},
+			{
+				"x": 8,
+				"y": 58,
+				"z": 17,
+				"category": "chest"
+			},
+			{
+				"x": 8,
+				"y": 58,
+				"z": 13,
+				"category": "chest"
+			},
+			{
+				"x": 46,
+				"y": 65,
+				"z": 15,
+				"category": "bat"
+			},
+			{
+				"x": 45,
+				"y": 59,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 43,
+				"y": 59,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 31,
+				"y": 57,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 8,
+				"y": 65,
+				"z": 15,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Knight",
+		"secret": 3,
+		"id": [
+			-1519890056
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 6,
+				"y": 76,
+				"z": 23,
+				"category": "bat"
+			},
+			{
+				"x": 24,
+				"y": 69,
+				"z": 29,
+				"category": "chest"
+			},
+			{
+				"x": 25,
+				"y": 69,
+				"z": 29,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Slabs",
+		"secret": 2,
+		"id": [
+			568922940
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 22,
+				"y": 85,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 23,
+				"y": 85,
+				"z": 3,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Cell",
+		"secret": 1,
+		"id": [
+			1560740373
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 10,
+				"y": 69,
+				"z": 22,
+				"category": "item"
+			}
+		]
+	},
+	{
+		"name": "Hallway",
+		"secret": 3,
+		"id": [
+			-1326659171,
+			1051405699,
+			-1454277723,
+			1020848351
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 28,
+				"y": 69,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 54,
+				"y": 69,
+				"z": 5,
+				"category": "chest"
+			},
+			{
+				"x": 85,
+				"y": 85,
+				"z": 6,
+				"category": "chest"
+			},
+			{
+				"x": 92,
+				"y": 76,
+				"z": 20,
+				"category": "lever"
+			},
+			{
+				"x": 83,
+				"y": 79,
+				"z": 1,
+				"category": "aotv"
+			},
+			{
+				"x": 91,
+				"y": 75,
+				"z": 19,
+				"category": "aotv"
+			},
+			{
+				"x": 29,
+				"y": 70,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 69,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 91,
+				"y": 76,
+				"z": 20,
+				"category": "break"
+			},
+			{
+				"x": 75,
+				"y": 75,
+				"z": 6,
+				"category": "aotv"
+			},
+			{
+				"x": 55,
+				"y": 70,
+				"z": 10,
+				"category": "break"
+			},
+			{
+				"x": 55,
+				"y": 71,
+				"z": 10,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Chambers",
+		"secret": 5,
+		"id": [
+			-27291325,
+			-2119802509,
+			-546080393
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 53,
+				"y": 57,
+				"z": 47,
+				"category": "chest"
+			},
+			{
+				"x": 4,
+				"y": 69,
+				"z": 57,
+				"category": "chest"
+			},
+			{
+				"x": 7,
+				"y": 69,
+				"z": 40,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 83,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 33,
+				"y": 84,
+				"z": 57,
+				"category": "bat"
+			},
+			{
+				"x": 55,
+				"y": 71,
+				"z": 37,
+				"category": "lever"
+			},
+			{
+				"x": 53,
+				"y": 68,
+				"z": 47,
+				"category": "break"
+			},
+			{
+				"x": 53,
+				"y": 79,
+				"z": 47,
+				"category": "aotv"
+			},
+			{
+				"x": 28,
+				"y": 81,
+				"z": 43,
+				"category": "break"
+			},
+			{
+				"x": 28,
+				"y": 80,
+				"z": 43,
+				"category": "break"
+			},
+			{
+				"x": 15,
+				"y": 82,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 15,
+				"y": 81,
+				"z": 12,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Withermancer",
+		"secret": 4,
+		"id": [
+			902780459,
+			1963543962,
+			1140917779
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 54,
+				"y": 59,
+				"z": 28,
+				"category": "lever"
+			},
+			{
+				"x": 59,
+				"y": 55,
+				"z": 45,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 104,
+				"z": 20,
+				"category": "chest"
+			},
+			{
+				"x": 29,
+				"y": 111,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 1,
+				"y": 111,
+				"z": 15,
+				"category": "wither"
+			},
+			{
+				"x": 24,
+				"y": 61,
+				"z": 3,
+				"category": "lever"
+			},
+			{
+				"x": 58,
+				"y": 68,
+				"z": 45,
+				"category": "break"
+			},
+			{
+				"x": 24,
+				"y": 69,
+				"z": 3,
+				"category": "break"
+			},
+			{
+				"x": 24,
+				"y": 70,
+				"z": 3,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Gold",
+		"secret": 1,
+		"id": [
+			992885012,
+			35550104
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 69,
+				"z": 13,
+				"category": "wither"
+			}
+		],
+		"dungeonbreaker": [
+			{
+				"x": 4,
+				"y": 70,
+				"z": 12
+			},
+			{
+				"x": 4,
+				"y": 69,
+				"z": 12
+			},
+			{
+				"x": 3,
+				"y": 70,
+				"z": 12
+			},
+			{
+				"x": 3,
+				"y": 69,
+				"z": 12
+			},
+			{
+				"x": 2,
+				"y": 70,
+				"z": 12
+			},
+			{
+				"x": 2,
+				"y": 69,
+				"z": 12
+			},
+			{
+				"x": 1,
+				"y": 70,
+				"z": 12
+			},
+			{
+				"x": 1,
+				"y": 69,
+				"z": 12
+			}
+		]
+	},
+	{
+		"name": "Atlas",
+		"secret": 6,
+		"id": [
+			-190201621,
+			1910997131,
+			740650704,
+			-2080722918
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 38,
+				"y": 78,
+				"z": 4,
+				"category": "wither"
+			},
+			{
+				"x": 36,
+				"y": 57,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 78,
+				"z": 52,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 82,
+				"z": 31,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 72,
+				"z": 57,
+				"category": "bat"
+			},
+			{
+				"x": 55,
+				"y": 76,
+				"z": 28,
+				"category": "item"
+			},
+			{
+				"x": 54,
+				"y": 75,
+				"z": 29,
+				"category": "aotv"
+			},
+			{
+				"x": 60,
+				"y": 90,
+				"z": 33,
+				"category": "lever"
+			},
+			{
+				"x": 48,
+				"y": 78,
+				"z": 14,
+				"category": "aotv"
+			},
+			{
+				"x": 17,
+				"y": 81,
+				"z": 53,
+				"category": "aotv"
+			},
+			{
+				"x": 37,
+				"y": 66,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 34,
+				"y": 79,
+				"z": 49,
+				"category": "break"
+			},
+			{
+				"x": 34,
+				"y": 78,
+				"z": 49,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Dome",
+		"secret": 2,
+		"id": [
+			-1468156116,
+			291108944
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 25,
+				"y": 75,
+				"z": 22,
+				"category": "bat"
+			},
+			{
+				"x": 26,
+				"y": 78,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 24,
+				"y": 75,
+				"z": 21,
+				"category": "lever"
+			},
+			{
+				"x": 21,
+				"y": 76,
+				"z": 23,
+				"category": "aotv"
+			},
+			{
+				"x": 22,
+				"y": 78,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 77,
+				"z": 23,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Balcony",
+		"secret": 4,
+		"id": [
+			1765345183,
+			2133731337
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 27,
+				"y": 69,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 20,
+				"y": 42,
+				"z": 28,
+				"category": "chest"
+			},
+			{
+				"x": 4,
+				"y": 60,
+				"z": 25,
+				"category": "bat"
+			},
+			{
+				"x": 14,
+				"y": 51,
+				"z": 7,
+				"category": "item"
+			}
+		]
+	},
+	{
+		"name": "Boulder",
+		"secret": 0,
+		"id": [
+			-1129249963,
+			1047612794,
+			1280589896,
+			-609854937
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 66,
+				"z": 29,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Rare Pillars",
+		"secret": 1,
+		"id": [
+			-609209015
+		],
+		"type": "RARE",
+		"waypoints": []
+	},
+	{
+		"name": "Ritual",
+		"secret": 3,
+		"id": [
+			-610787478
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 80,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 27,
+				"y": 69,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 86,
+				"z": 25,
+				"category": "bat"
+			},
+			{
+				"x": 15,
+				"y": 77,
+				"z": 6,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Carpets",
+		"secret": 1,
+		"id": [
+			238642395,
+			-76292695
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 85,
+				"z": 15,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Crypt",
+		"secret": 5,
+		"id": [
+			1113194131,
+			1376295224
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 13,
+				"y": 60,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 44,
+				"y": 86,
+				"z": 26,
+				"category": "chest"
+			},
+			{
+				"x": 2,
+				"y": 81,
+				"z": 16,
+				"category": "chest"
+			},
+			{
+				"x": 19,
+				"y": 89,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 46,
+				"y": 88,
+				"z": 16,
+				"category": "item"
+			},
+			{
+				"x": 13,
+				"y": 66,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 10,
+				"y": 72,
+				"z": 15,
+				"category": "aotv"
+			},
+			{
+				"x": 9,
+				"y": 74,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 9,
+				"y": 75,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 9,
+				"y": 76,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 7,
+				"y": 80,
+				"z": 15,
+				"category": "aotv"
+			},
+			{
+				"x": 28,
+				"y": 89,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 28,
+				"y": 88,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 46,
+				"y": 89,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 46,
+				"y": 88,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 44,
+				"y": 85,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 38,
+				"y": 88,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 39,
+				"y": 88,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 40,
+				"y": 88,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 41,
+				"y": 88,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 42,
+				"y": 88,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 44,
+				"y": 87,
+				"z": 12,
+				"category": "aotv"
+			},
+			{
+				"x": 46,
+				"y": 87,
+				"z": 20,
+				"category": "aotv"
+			},
+			{
+				"x": 29,
+				"y": 89,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 88,
+				"z": 9,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Market",
+		"secret": 5,
+		"id": [
+			945592478,
+			-1882970229,
+			300771790
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 16,
+				"y": 86,
+				"z": 56,
+				"category": "chest"
+			},
+			{
+				"x": 32,
+				"y": 61,
+				"z": 48,
+				"category": "chest"
+			},
+			{
+				"x": 46,
+				"y": 79,
+				"z": 48,
+				"category": "chest"
+			},
+			{
+				"x": 7,
+				"y": 59,
+				"z": 44,
+				"category": "wither"
+			},
+			{
+				"x": 12,
+				"y": 62,
+				"z": 47,
+				"category": "bat"
+			},
+			{
+				"x": 43,
+				"y": 74,
+				"z": 47,
+				"category": "aotv"
+			},
+			{
+				"x": 32,
+				"y": 68,
+				"z": 48,
+				"category": "break"
+			},
+			{
+				"x": 17,
+				"y": 85,
+				"z": 50,
+				"category": "aotv"
+			},
+			{
+				"x": 11,
+				"y": 68,
+				"z": 47,
+				"category": "break"
+			},
+			{
+				"x": 42,
+				"y": 76,
+				"z": 47,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 85,
+				"z": 49,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Blue Skulls",
+		"secret": 1,
+		"id": [
+			-1410316771
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 27,
+				"y": 77,
+				"z": 29,
+				"category": "item"
+			},
+			{
+				"x": 27,
+				"y": 75,
+				"z": 29,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Grass Ruin",
+		"secret": 3,
+		"id": [
+			-1049958927,
+			438605094,
+			2015882449,
+			-1847986179
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 3,
+				"y": 55,
+				"z": 14,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 107,
+				"z": 10,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 62,
+				"z": 7,
+				"category": "aotv"
+			},
+			{
+				"x": 31,
+				"y": 82,
+				"z": 28,
+				"category": "lever"
+			},
+			{
+				"x": 15,
+				"y": 106,
+				"z": 16,
+				"category": "aotv"
+			},
+			{
+				"x": 31,
+				"y": 53,
+				"z": 24,
+				"category": "lever"
+			},
+			{
+				"x": 48,
+				"y": 81,
+				"z": 24,
+				"category": "wither"
+			},
+			{
+				"x": 29,
+				"y": 62,
+				"z": 16,
+				"category": "break"
+			},
+			{
+				"x": 48,
+				"y": 80,
+				"z": 25,
+				"category": "aotv"
+			},
+			null
+		]
+	},
+	{
+		"name": "Criss Cross",
+		"secret": 1,
+		"id": [
+			650161016,
+			1002362494
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 66,
+				"z": 6,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 75,
+				"z": 29,
+				"category": "lever"
+			}
+		]
+	},
+	{
+		"name": "Spikes",
+		"secret": 3,
+		"id": [
+			1484939648
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 4,
+				"y": 91,
+				"z": 11,
+				"category": "chest"
+			},
+			{
+				"x": 2,
+				"y": 54,
+				"z": 7,
+				"category": "bat"
+			},
+			{
+				"x": 1,
+				"y": 53,
+				"z": 8,
+				"category": "wither"
+			}
+		]
+	},
+	{
+		"name": "Rails",
+		"secret": 9,
+		"id": [
+			-746461328,
+			497837740,
+			-1272603595,
+			-1882412922
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 27,
+				"y": 70,
+				"z": 29,
+				"category": "item"
+			},
+			{
+				"x": 25,
+				"y": 70,
+				"z": 28,
+				"category": "wither"
+			},
+			{
+				"x": 6,
+				"y": 49,
+				"z": 10,
+				"category": "wither"
+			},
+			{
+				"x": 3,
+				"y": 49,
+				"z": 10,
+				"category": "wither"
+			},
+			{
+				"x": 8,
+				"y": 49,
+				"z": 60,
+				"category": "chest"
+			},
+			{
+				"x": 30,
+				"y": 64,
+				"z": 29,
+				"category": "chest"
+			},
+			{
+				"x": 30,
+				"y": 72,
+				"z": 34,
+				"category": "chest"
+			},
+			{
+				"x": 56,
+				"y": 66,
+				"z": 6,
+				"category": "chest"
+			},
+			{
+				"x": 56,
+				"y": 51,
+				"z": 11,
+				"category": "bat"
+			},
+			{
+				"x": 39,
+				"y": 71,
+				"z": 45,
+				"category": "lever"
+			},
+			{
+				"x": 43,
+				"y": 69,
+				"z": 16,
+				"category": "break"
+			},
+			{
+				"x": 43,
+				"y": 70,
+				"z": 16,
+				"category": "break"
+			},
+			{
+				"x": 55,
+				"y": 65,
+				"z": 7,
+				"category": "break"
+			},
+			{
+				"x": 32,
+				"y": 66,
+				"z": 20,
+				"category": "aotv"
+			},
+			{
+				"x": 29,
+				"y": 68,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 67,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 8,
+				"y": 53,
+				"z": 11,
+				"category": "break"
+			},
+			{
+				"x": 28,
+				"y": 67,
+				"z": 28,
+				"category": "break"
+			},
+			{
+				"x": 28,
+				"y": 70,
+				"z": 28,
+				"category": "aotv"
+			},
+			{
+				"x": 29,
+				"y": 71,
+				"z": 35,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 71,
+				"z": 34,
+				"category": "break"
+			},
+			{
+				"x": 30,
+				"y": 71,
+				"z": 34,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 49,
+				"z": 56,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 50,
+				"z": 56,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Sand Dragon",
+		"secret": 1,
+		"id": [
+			1781758146
+		],
+		"type": "RARE",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 86,
+				"z": 26,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "King Midas",
+		"secret": 0,
+		"id": [
+			-1916395486
+		],
+		"type": "GOLD",
+		"waypoints": []
+	},
+	{
+		"name": "Perch",
+		"secret": 2,
+		"id": [
+			-444976906
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 74,
+				"z": 1,
+				"category": "chest"
+			},
+			{
+				"x": 20,
+				"y": 76,
+				"z": 20,
+				"category": "item"
+			}
+		]
+	},
+	{
+		"name": "Red Blue",
+		"secret": 4,
+		"id": [
+			794366741,
+			-443330283,
+			-362002608,
+			-608091458
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 57,
+				"y": 70,
+				"z": 5,
+				"category": "chest"
+			},
+			{
+				"x": 39,
+				"y": 90,
+				"z": 26,
+				"category": "chest"
+			},
+			{
+				"x": 79,
+				"y": 83,
+				"z": 15,
+				"category": "wither"
+			},
+			{
+				"x": 60,
+				"y": 86,
+				"z": 22,
+				"category": "item"
+			},
+			{
+				"x": 54,
+				"y": 69,
+				"z": 5,
+				"category": "lever"
+			},
+			{
+				"x": 77,
+				"y": 82,
+				"z": 16,
+				"category": "aotv"
+			},
+			{
+				"x": 51,
+				"y": 84,
+				"z": 18,
+				"category": "aotv"
+			},
+			{
+				"x": 43,
+				"y": 88,
+				"z": 24,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Mage",
+		"secret": 4,
+		"id": [
+			1475692888,
+			925853313
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 16,
+				"y": 70,
+				"z": 17,
+				"category": "chest"
+			},
+			{
+				"x": 42,
+				"y": 62,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 57,
+				"y": 83,
+				"z": 7,
+				"category": "bat"
+			},
+			{
+				"x": 58,
+				"y": 82,
+				"z": 5,
+				"category": "wither"
+			},
+			{
+				"x": 21,
+				"y": 70,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 21,
+				"y": 71,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 39,
+				"y": 64,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 55,
+				"y": 82,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 55,
+				"y": 83,
+				"z": 9,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Miniboss",
+		"secret": 0,
+		"id": [
+			652570347,
+			1956609103
+		],
+		"type": "GOLD",
+		"waypoints": []
+	},
+	{
+		"name": "End",
+		"secret": 2,
+		"id": [
+			-531914593
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 69,
+				"z": 6,
+				"category": "chest"
+			},
+			{
+				"x": 6,
+				"y": 63,
+				"z": 2,
+				"category": "wither"
+			},
+			{
+				"x": 6,
+				"y": 80,
+				"z": 6,
+				"category": "aotv"
+			},
+			{
+				"x": 7,
+				"y": 84,
+				"z": 5,
+				"category": "lever"
+			},
+			{
+				"x": 6,
+				"y": 69,
+				"z": 10,
+				"category": "break"
+			},
+			{
+				"x": 6,
+				"y": 70,
+				"z": 10,
+				"category": "break"
+			},
+			{
+				"x": 6,
+				"y": 68,
+				"z": 6,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Gravel",
+		"secret": 6,
+		"id": [
+			-1149900195,
+			-558347945,
+			1422441247,
+			244770880
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 35,
+				"y": 69,
+				"z": 11,
+				"category": "chest"
+			},
+			{
+				"x": 37,
+				"y": 91,
+				"z": 14,
+				"category": "bat"
+			},
+			{
+				"x": 87,
+				"y": 69,
+				"z": 8,
+				"category": "item"
+			},
+			{
+				"x": 67,
+				"y": 87,
+				"z": 12,
+				"category": "item"
+			},
+			{
+				"x": 92,
+				"y": 69,
+				"z": 3,
+				"category": "wither"
+			},
+			{
+				"x": 66,
+				"y": 87,
+				"z": 14,
+				"category": "wither"
+			},
+			{
+				"x": 63,
+				"y": 69,
+				"z": 26,
+				"category": "lever"
+			},
+			{
+				"x": 28,
+				"y": 81,
+				"z": 13,
+				"category": "aotv"
+			},
+			{
+				"x": 88,
+				"y": 71,
+				"z": 11,
+				"category": "break"
+			},
+			{
+				"x": 88,
+				"y": 70,
+				"z": 11,
+				"category": "break"
+			},
+			{
+				"x": 68,
+				"y": 82,
+				"z": 10,
+				"category": "break"
+			},
+			{
+				"x": 68,
+				"y": 83,
+				"z": 10,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Altar",
+		"secret": 6,
+		"id": [
+			1591923028,
+			1958840063,
+			-1927723170
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 71,
+				"z": 48,
+				"category": "item"
+			},
+			{
+				"x": 51,
+				"y": 88,
+				"z": 45,
+				"category": "chest"
+			},
+			{
+				"x": 19,
+				"y": 83,
+				"z": 43,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 44,
+				"z": 39,
+				"category": "chest"
+			},
+			{
+				"x": 17,
+				"y": 93,
+				"z": 27,
+				"category": "wither"
+			},
+			{
+				"x": 36,
+				"y": 55,
+				"z": 35,
+				"category": "bat"
+			},
+			{
+				"x": 25,
+				"y": 90,
+				"z": 32,
+				"category": "break"
+			},
+			{
+				"x": 25,
+				"y": 91,
+				"z": 32,
+				"category": "break"
+			},
+			{
+				"x": 18,
+				"y": 92,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 18,
+				"y": 91,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 18,
+				"y": 90,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 29,
+				"y": 55,
+				"z": 35,
+				"category": "break"
+			},
+			{
+				"x": 30,
+				"y": 56,
+				"z": 35,
+				"category": "break"
+			},
+			{
+				"x": 11,
+				"y": 53,
+				"z": 39,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Mirror",
+		"secret": 1,
+		"id": [
+			76347246
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 3,
+				"y": 55,
+				"z": 17,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Fairy",
+		"secret": 0,
+		"id": [
+			-645035252
+		],
+		"type": "FAIRY",
+		"waypoints": []
+	},
+	{
+		"name": "Zodd",
+		"secret": 1,
+		"id": [
+			-1403940419
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 7,
+				"y": 70,
+				"z": 3,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Steps",
+		"secret": 1,
+		"id": [
+			755816704,
+			-340486787
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 75,
+				"z": 7,
+				"category": "bat"
+			}
+		]
+	},
+	{
+		"name": "Cage",
+		"secret": 1,
+		"id": [
+			-407233803
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 12,
+				"y": 72,
+				"z": 20,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Stone Window",
+		"secret": 2,
+		"id": [
+			-1740718028
+		],
+		"type": "RARE",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 72,
+				"z": 16,
+				"category": "bat"
+			},
+			{
+				"x": 24,
+				"y": 80,
+				"z": 8,
+				"category": "bat"
+			}
+		]
+	},
+	{
+		"name": "Well",
+		"secret": 7,
+		"id": [
+			629394370,
+			1261773246,
+			1276013917
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 57,
+				"z": 15,
+				"category": "item"
+			},
+			{
+				"x": 59,
+				"y": 91,
+				"z": 35,
+				"category": "item"
+			},
+			{
+				"x": 2,
+				"y": 95,
+				"z": 59,
+				"category": "wither"
+			},
+			{
+				"x": 7,
+				"y": 95,
+				"z": 56,
+				"category": "wither"
+			},
+			{
+				"x": 11,
+				"y": 88,
+				"z": 50,
+				"category": "chest"
+			},
+			{
+				"x": 18,
+				"y": 91,
+				"z": 25,
+				"category": "chest"
+			},
+			{
+				"x": 60,
+				"y": 89,
+				"z": 47,
+				"category": "chest"
+			},
+			{
+				"x": 33,
+				"y": 91,
+				"z": 34,
+				"category": "aotv"
+			},
+			{
+				"x": 4,
+				"y": 94,
+				"z": 58,
+				"category": "aotv"
+			},
+			{
+				"x": 14,
+				"y": 60,
+				"z": 15,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Chains",
+		"secret": 2,
+		"id": [
+			-448181487
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 27,
+				"y": 69,
+				"z": 10,
+				"category": "chest"
+			},
+			{
+				"x": 17,
+				"y": 86,
+				"z": 14,
+				"category": "chest"
+			},
+			{
+				"x": 16,
+				"y": 79,
+				"z": 13,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Cages",
+		"secret": 2,
+		"id": [
+			-1164795630
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 28,
+				"y": 98,
+				"z": 5,
+				"category": "item"
+			},
+			{
+				"x": 7,
+				"y": 58,
+				"z": 11,
+				"category": "chest"
+			},
+			{
+				"x": 6,
+				"y": 85,
+				"z": 2,
+				"category": "lever"
+			},
+			{
+				"x": 9,
+				"y": 83,
+				"z": 6,
+				"category": "break"
+			},
+			{
+				"x": 8,
+				"y": 64,
+				"z": 11,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Grand Library",
+		"secret": 4,
+		"id": [
+			-1142842273,
+			648931278
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 6,
+				"y": 80,
+				"z": 3,
+				"category": "wither"
+			},
+			{
+				"x": 23,
+				"y": 93,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 58,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 28,
+				"y": 57,
+				"z": 18,
+				"category": "item"
+			},
+			{
+				"x": 47,
+				"y": 88,
+				"z": 28,
+				"category": "lever"
+			},
+			{
+				"x": 47,
+				"y": 77,
+				"z": 2,
+				"category": "lever"
+			},
+			{
+				"x": 59,
+				"y": 94,
+				"z": 3,
+				"category": "lever"
+			},
+			{
+				"x": 23,
+				"y": 91,
+				"z": 5,
+				"category": "aotv"
+			},
+			{
+				"x": 10,
+				"y": 83,
+				"z": 6,
+				"category": "break"
+			},
+			{
+				"x": 10,
+				"y": 82,
+				"z": 6,
+				"category": "break"
+			},
+			{
+				"x": 15,
+				"y": 85,
+				"z": 6,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Sloth",
+		"secret": 1,
+		"id": [
+			-566399217
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 8,
+				"y": 69,
+				"z": 22,
+				"category": "item"
+			}
+		]
+	},
+	{
+		"name": "Granite",
+		"secret": 2,
+		"id": [
+			-41110951
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 60,
+				"z": 24,
+				"category": "item"
+			},
+			{
+				"x": 13,
+				"y": 61,
+				"z": 29,
+				"category": "wither"
+			},
+			{
+				"x": 16,
+				"y": 70,
+				"z": 25,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Staircase",
+		"secret": 3,
+		"id": [
+			-151940807
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 28,
+				"y": 66,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 12,
+				"y": 78,
+				"z": 26,
+				"category": "item"
+			},
+			{
+				"x": 22,
+				"y": 75,
+				"z": 2,
+				"category": "wither"
+			},
+			{
+				"x": 22,
+				"y": 75,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 73,
+				"z": 3,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Leaves",
+		"secret": 1,
+		"id": [
+			643669164
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 14,
+				"y": 81,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 14,
+				"y": 75,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 15,
+				"y": 77,
+				"z": 25,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Entrance",
+		"secret": 0,
+		"id": [
+			-16485885,
+			-47045487,
+			77375583
+		],
+		"type": "SPAWN",
+		"waypoints": []
+	},
+	{
+		"name": "Long Hall",
+		"secret": 3,
+		"id": [
+			587195362
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 18,
+				"y": 62,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 28,
+				"y": 82,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 10,
+				"y": 70,
+				"z": 3,
+				"category": "lever"
+			},
+			{
+				"x": 28,
+				"y": 81,
+				"z": 25,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 69,
+				"z": 9,
+				"category": "break"
+			},
+			{
+				"x": 18,
+				"y": 68,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 27,
+				"y": 82,
+				"z": 18,
+				"category": "break"
+			},
+			{
+				"x": 27,
+				"y": 81,
+				"z": 18,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Raccoon",
+		"secret": 4,
+		"id": [
+			-1723880923
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 6,
+				"y": 77,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 27,
+				"y": 69,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 21,
+				"y": 69,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 26,
+				"y": 84,
+				"z": 8,
+				"category": "chest"
+			},
+			{
+				"x": 17,
+				"y": 82,
+				"z": 16,
+				"category": "aotv"
+			},
+			{
+				"x": 24,
+				"y": 70,
+				"z": 28,
+				"category": "lever"
+			}
+		]
+	},
+	{
+		"name": "Higher Blaze",
+		"secret": 1,
+		"id": [
+			-1752027278,
+			-1477567187
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 118,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 10,
+				"y": 118,
+				"z": 23,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Silvers Sword",
+		"secret": 1,
+		"id": [
+			-224496952
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 18,
+				"y": 69,
+				"z": 13,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Quartz Knight",
+		"secret": 7,
+		"id": [
+			667192030,
+			-22728251,
+			-1420471034,
+			-215394360
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 6,
+				"y": 63,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 21,
+				"y": 89,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 111,
+				"y": 88,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 18,
+				"y": 90,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 29,
+				"y": 61,
+				"z": 17,
+				"category": "bat"
+			},
+			{
+				"x": 66,
+				"y": 84,
+				"z": 5,
+				"category": "item"
+			},
+			{
+				"x": 95,
+				"y": 79,
+				"z": 26,
+				"category": "item"
+			},
+			{
+				"x": 106,
+				"y": 86,
+				"z": 9,
+				"category": "aotv"
+			},
+			{
+				"x": 29,
+				"y": 68,
+				"z": 17,
+				"category": "break"
+			},
+			{
+				"x": 65,
+				"y": 83,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 64,
+				"y": 82,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 64,
+				"y": 82,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 73,
+				"y": 72,
+				"z": 6,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Teleport Maze",
+		"secret": 0,
+		"id": [
+			799715466
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 15,
+				"y": 70,
+				"z": 20,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Locked Away",
+		"secret": 1,
+		"id": [
+			706748439
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 75,
+				"z": 29,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Logs",
+		"secret": 4,
+		"id": [
+			1783642819
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 25,
+				"y": 84,
+				"z": 28,
+				"category": "lever"
+			},
+			{
+				"x": 9,
+				"y": 78,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 9,
+				"y": 78,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 1,
+				"y": 70,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 1,
+				"y": 70,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 78,
+				"z": 24,
+				"category": "break"
+			},
+			{
+				"x": 10,
+				"y": 79,
+				"z": 24,
+				"category": "break"
+			},
+			{
+				"x": 10,
+				"y": 77,
+				"z": 24,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Dino Site",
+		"secret": 4,
+		"id": [
+			-678116754,
+			-970680134,
+			1735273877
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 9,
+				"y": 48,
+				"z": 34,
+				"category": "bat"
+			},
+			{
+				"x": 54,
+				"y": 52,
+				"z": 51,
+				"category": "chest"
+			},
+			{
+				"x": 24,
+				"y": 92,
+				"z": 29,
+				"category": "chest"
+			},
+			{
+				"x": 47,
+				"y": 57,
+				"z": 36,
+				"category": "item"
+			}
+		]
+	},
+	{
+		"name": "Old Trap",
+		"secret": 4,
+		"id": [
+			1590699551,
+			-85564220
+		],
+		"type": "TRAP",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 83,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 23,
+				"y": 90,
+				"z": 17,
+				"category": "chest"
+			},
+			{
+				"x": 4,
+				"y": 71,
+				"z": 9,
+				"category": "chest"
+			},
+			{
+				"x": 22,
+				"y": 90,
+				"z": 9,
+				"category": "bat"
+			},
+			{
+				"x": 28,
+				"y": 83,
+				"z": 3,
+				"category": "lever"
+			},
+			{
+				"x": 18,
+				"y": 89,
+				"z": 7,
+				"category": "break"
+			},
+			{
+				"x": 18,
+				"y": 90,
+				"z": 7,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Admin",
+		"secret": 0,
+		"id": [
+			518379920
+		],
+		"type": "MOBS",
+		"waypoints": []
+	},
+	{
+		"name": "Painting",
+		"secret": 2,
+		"id": [
+			-725718835
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 24,
+				"y": 69,
+				"z": 21,
+				"category": "item"
+			},
+			{
+				"x": 6,
+				"y": 80,
+				"z": 21,
+				"category": "wither"
+			},
+			{
+				"x": 6,
+				"y": 79,
+				"z": 25,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Multicolored",
+		"secret": 1,
+		"id": [
+			-543960045
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 25,
+				"y": 70,
+				"z": 4,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Redstone Warrior",
+		"secret": 3,
+		"id": [
+			217300640,
+			-380862700
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 24,
+				"y": 58,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 30,
+				"y": 83,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 58,
+				"y": 78,
+				"z": 29,
+				"category": "item"
+			},
+			{
+				"x": 4,
+				"y": 62,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 55,
+				"y": 78,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 31,
+				"y": 80,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 31,
+				"y": 81,
+				"z": 27,
+				"category": "break"
+			},
+			{
+				"x": 19,
+				"y": 60,
+				"z": 15,
+				"category": "break"
+			},
+			{
+				"x": 32,
+				"y": 76,
+				"z": 27,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Jumping Skulls",
+		"secret": 1,
+		"id": [
+			205151025
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 26,
+				"y": 62,
+				"z": 23,
+				"category": "chest"
+			}
+		]
+	},
+	{
+		"name": "Diagonal",
+		"secret": 4,
+		"id": [
+			516895741,
+			476976104,
+			-959823640
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 90,
+				"y": 77,
+				"z": 14,
+				"category": "chest"
+			},
+			{
+				"x": 69,
+				"y": 60,
+				"z": 29,
+				"category": "chest"
+			},
+			{
+				"x": 11,
+				"y": 60,
+				"z": 9,
+				"category": "chest"
+			},
+			{
+				"x": 32,
+				"y": 72,
+				"z": 5,
+				"category": "bat"
+			},
+			{
+				"x": 11,
+				"y": 68,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 11,
+				"y": 67,
+				"z": 12,
+				"category": "break"
+			},
+			{
+				"x": 70,
+				"y": 67,
+				"z": 25,
+				"category": "break"
+			},
+			{
+				"x": 70,
+				"y": 68,
+				"z": 25,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Three Floors",
+		"secret": 1,
+		"id": [
+			-1444508608
+		],
+		"type": "RARE",
+		"waypoints": []
+	},
+	{
+		"name": "Spider",
+		"secret": 9,
+		"id": [
+			-716030238,
+			-1647063650,
+			-40178107
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 28,
+				"y": 50,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 22,
+				"y": 28,
+				"z": 40,
+				"category": "chest"
+			},
+			{
+				"x": 49,
+				"y": 84,
+				"z": 36,
+				"category": "chest"
+			},
+			{
+				"x": 10,
+				"y": 83,
+				"z": 56,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 92,
+				"z": 31,
+				"category": "chest"
+			},
+			{
+				"x": 27,
+				"y": 84,
+				"z": 32,
+				"category": "chest"
+			},
+			{
+				"x": 55,
+				"y": 86,
+				"z": 35,
+				"category": "bat"
+			},
+			{
+				"x": 26,
+				"y": 91,
+				"z": 39,
+				"category": "item"
+			},
+			{
+				"x": 24,
+				"y": 92,
+				"z": 34,
+				"category": "item"
+			},
+			{
+				"x": 49,
+				"y": 83,
+				"z": 36,
+				"category": "aotv"
+			},
+			{
+				"x": 27,
+				"y": 93,
+				"z": 32,
+				"category": "lever"
+			},
+			{
+				"x": 27,
+				"y": 91,
+				"z": 39,
+				"category": "item"
+			},
+			{
+				"x": 12,
+				"y": 83,
+				"z": 53,
+				"category": "aotv"
+			},
+			{
+				"x": 13,
+				"y": 91,
+				"z": 39,
+				"category": "aotv"
+			},
+			{
+				"x": 26,
+				"y": 90,
+				"z": 40,
+				"category": "aotv"
+			},
+			{
+				"x": 13,
+				"y": 93,
+				"z": 36,
+				"category": "break"
+			},
+			{
+				"x": 13,
+				"y": 92,
+				"z": 36,
+				"category": "break"
+			},
+			{
+				"x": 26,
+				"y": 92,
+				"z": 37,
+				"category": "break"
+			},
+			{
+				"x": 26,
+				"y": 91,
+				"z": 37,
+				"category": "break"
+			},
+			{
+				"x": 25,
+				"y": 91,
+				"z": 34,
+				"category": "break"
+			},
+			{
+				"x": 26,
+				"y": 90,
+				"z": 34,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 45,
+				"z": 40,
+				"category": "break"
+			},
+			{
+				"x": 23,
+				"y": 50,
+				"z": 8,
+				"category": "break"
+			},
+			{
+				"x": 23,
+				"y": 49,
+				"z": 8,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Skull",
+		"secret": 2,
+		"id": [
+			-1554372511,
+			80464378
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 88,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 52,
+				"y": 91,
+				"z": 7,
+				"category": "chest"
+			},
+			{
+				"x": 51,
+				"y": 90,
+				"z": 5,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Pirate",
+		"secret": 6,
+		"id": [
+			884966227,
+			252263088,
+			2061161472
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 19,
+				"y": 60,
+				"z": 4,
+				"category": "wither"
+			},
+			{
+				"x": 17,
+				"y": 83,
+				"z": 60,
+				"category": "chest"
+			},
+			{
+				"x": 46,
+				"y": 84,
+				"z": 57,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 60,
+				"z": 46,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 63,
+				"z": 45,
+				"category": "bat"
+			},
+			{
+				"x": 4,
+				"y": 60,
+				"z": 58,
+				"category": "item"
+			},
+			{
+				"x": 15,
+				"y": 82,
+				"z": 19,
+				"category": "lever"
+			},
+			{
+				"x": 43,
+				"y": 77,
+				"z": 58,
+				"category": "aotv"
+			},
+			{
+				"x": 25,
+				"y": 59,
+				"z": 16,
+				"category": "aotv"
+			},
+			{
+				"x": 22,
+				"y": 60,
+				"z": 6,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 61,
+				"z": 6,
+				"category": "break"
+			},
+			{
+				"x": 13,
+				"y": 61,
+				"z": 45,
+				"category": "break"
+			},
+			{
+				"x": 13,
+				"y": 60,
+				"z": 45,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 81,
+				"z": 52,
+				"category": "aotv"
+			},
+			{
+				"x": 4,
+				"y": 68,
+				"z": 55,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Buttons",
+		"secret": 5,
+		"id": [
+			-493713078,
+			-1578136054,
+			1033549564,
+			112871973
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 57,
+				"y": 69,
+				"z": 60,
+				"category": "chest"
+			},
+			{
+				"x": 31,
+				"y": 73,
+				"z": 13,
+				"category": "chest"
+			},
+			{
+				"x": 2,
+				"y": 81,
+				"z": 50,
+				"category": "chest"
+			},
+			{
+				"x": 53,
+				"y": 55,
+				"z": 31,
+				"category": "chest"
+			},
+			{
+				"x": 56,
+				"y": 81,
+				"z": 2,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 83,
+				"z": 54,
+				"category": "aotv"
+			},
+			{
+				"x": 52,
+				"y": 70,
+				"z": 43,
+				"category": "aotv"
+			},
+			{
+				"x": 55,
+				"y": 79,
+				"z": 34,
+				"category": "aotv"
+			},
+			{
+				"x": 42,
+				"y": 81,
+				"z": 57,
+				"category": "lever"
+			},
+			{
+				"x": 58,
+				"y": 70,
+				"z": 36,
+				"category": "lever"
+			},
+			{
+				"x": 10,
+				"y": 81,
+				"z": 48,
+				"category": "break"
+			},
+			{
+				"x": 10,
+				"y": 80,
+				"z": 48,
+				"category": "break"
+			},
+			{
+				"x": 56,
+				"y": 79,
+				"z": 13,
+				"category": "break"
+			},
+			{
+				"x": 33,
+				"y": 75,
+				"z": 13,
+				"category": "break"
+			},
+			{
+				"x": 52,
+				"y": 69,
+				"z": 59,
+				"category": "break"
+			},
+			{
+				"x": 52,
+				"y": 70,
+				"z": 59,
+				"category": "break"
+			},
+			{
+				"x": 48,
+				"y": 68,
+				"z": 31,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Lower Blaze",
+		"secret": 1,
+		"id": [
+			-441650545,
+			911747293
+		],
+		"type": "PUZZLE",
+		"waypoints": [
+			{
+				"x": 2,
+				"y": 68,
+				"z": 27,
+				"category": "chest"
+			},
+			{
+				"x": 10,
+				"y": 68,
+				"z": 23,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Wizard",
+		"secret": 4,
+		"id": [
+			-1164862049,
+			222124420,
+			926568393
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 17,
+				"y": 92,
+				"z": 26,
+				"category": "chest"
+			},
+			{
+				"x": 90,
+				"y": 89,
+				"z": 24,
+				"category": "chest"
+			},
+			{
+				"x": 3,
+				"y": 76,
+				"z": 21,
+				"category": "item"
+			},
+			{
+				"x": 25,
+				"y": 53,
+				"z": 12,
+				"category": "bat"
+			},
+			{
+				"x": 63,
+				"y": 88,
+				"z": 18,
+				"category": "aotv"
+			},
+			{
+				"x": 26,
+				"y": 89,
+				"z": 14,
+				"category": "aotv"
+			},
+			{
+				"x": 42,
+				"y": 91,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 43,
+				"y": 92,
+				"z": 23,
+				"category": "break"
+			},
+			{
+				"x": 74,
+				"y": 90,
+				"z": 24,
+				"category": "break"
+			},
+			{
+				"x": 74,
+				"y": 89,
+				"z": 24,
+				"category": "break"
+			},
+			{
+				"x": 26,
+				"y": 68,
+				"z": 14,
+				"category": "break"
+			},
+			{
+				"x": 23,
+				"y": 91,
+				"z": 21,
+				"category": "break"
+			},
+			{
+				"x": 40,
+				"y": 90,
+				"z": 23,
+				"category": "aotv"
+			},
+			{
+				"x": 72,
+				"y": 88,
+				"z": 24,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Pipes",
+		"secret": 7,
+		"id": [
+			464805832,
+			1942538809,
+			-1208278490,
+			1917735700
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 107,
+				"y": 45,
+				"z": 15,
+				"category": "chest"
+			},
+			{
+				"x": 63,
+				"y": 55,
+				"z": 26,
+				"category": "chest"
+			},
+			{
+				"x": 119,
+				"y": 54,
+				"z": 5,
+				"category": "chest"
+			},
+			{
+				"x": 7,
+				"y": 42,
+				"z": 3,
+				"category": "chest"
+			},
+			{
+				"x": 117,
+				"y": 62,
+				"z": 26,
+				"category": "chest"
+			},
+			{
+				"x": 49,
+				"y": 32,
+				"z": 6,
+				"category": "item"
+			},
+			{
+				"x": 122,
+				"y": 57,
+				"z": 19,
+				"category": "bat"
+			},
+			{
+				"x": 14,
+				"y": 43,
+				"z": 5,
+				"category": "aotv"
+			},
+			{
+				"x": 108,
+				"y": 61,
+				"z": 26,
+				"category": "aotv"
+			},
+			{
+				"x": 52,
+				"y": 94,
+				"z": 15,
+				"category": "lever"
+			},
+			{
+				"x": 118,
+				"y": 60,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 13,
+				"y": 45,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 13,
+				"y": 44,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 13,
+				"y": 46,
+				"z": 5,
+				"category": "break"
+			},
+			{
+				"x": 49,
+				"y": 41,
+				"z": 6,
+				"category": "break"
+			}
+		]
+	},
+	{
+		"name": "Golden Oasis",
+		"secret": 1,
+		"id": [
+			178277726
+		],
+		"type": "MOBS",
+		"waypoints": [
+			{
+				"x": 12,
+				"y": 71,
+				"z": 8,
+				"category": "redstone"
+			},
+			{
+				"x": 12,
+				"y": 63,
+				"z": 23,
+				"category": "chest"
+			},
+			{
+				"x": 13,
+				"y": 63,
+				"z": 25,
+				"category": "chest"
+			},
+			{
+				"x": 29,
+				"y": 71,
+				"z": 25,
+				"category": "lever"
+			},
+			{
+				"x": 10,
+				"y": 71,
+				"z": 3,
+				"category": "redstoneblock"
+			},
+			{
+				"x": 14,
+				"y": 68,
+				"z": 24,
+				"category": "aotv"
+			}
+		]
+	},
+	{
+		"name": "Melon",
+		"secret": 7,
+		"id": [
+			-1164821574,
+			578838281,
+			-1740446783
+		],
+		"type": "MINIBOSS",
+		"waypoints": [
+			{
+				"x": 59,
+				"y": 69,
+				"z": 58,
+				"category": "chest"
+			},
+			{
+				"x": 41,
+				"y": 85,
+				"z": 56,
+				"category": "chest"
+			},
+			{
+				"x": 33,
+				"y": 80,
+				"z": 53,
+				"category": "chest"
+			},
+			{
+				"x": 15,
+				"y": 69,
+				"z": 35,
+				"category": "chest"
+			},
+			{
+				"x": 26,
+				"y": 79,
+				"z": 1,
+				"category": "chest"
+			},
+			{
+				"x": 5,
+				"y": 82,
+				"z": 4,
+				"category": "chest"
+			},
+			{
+				"x": 7,
+				"y": 76,
+				"z": 27,
+				"category": "bat"
+			},
+			{
+				"x": 21,
+				"y": 80,
+				"z": 3,
+				"category": "break"
+			},
+			{
+				"x": 23,
+				"y": 79,
+				"z": 3,
+				"category": "break"
+			},
+			{
+				"x": 22,
+				"y": 79,
+				"z": 3,
+				"category": "break"
+			},
+			{
+				"x": 21,
+				"y": 79,
+				"z": 3,
+				"category": "break"
+			},
+			{
+				"x": 16,
+				"y": 70,
+				"z": 20,
+				"category": "aotv"
+			},
+			{
+				"x": 40,
+				"y": 83,
+				"z": 56,
+				"category": "break"
+			},
+			{
+				"x": 40,
+				"y": 84,
+				"z": 56,
+				"category": "break"
+			}
+		]
+	}
+]
