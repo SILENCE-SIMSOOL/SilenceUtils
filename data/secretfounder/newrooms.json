@@ -1,11 +1,12 @@
 [
 	{
 		"name": "Water",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-333637832
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 17,
@@ -29,31 +30,34 @@
 	},
 	{
 		"name": "Shadow Assassin",
+		"type": "GOLD",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			397211721
 		],
-		"type": "GOLD",
 		"waypoints": []
 	},
 	{
 		"name": "Water Board",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			379499781,
 			-1229365170,
 			-589525429
 		],
-		"type": "PUZZLE",
 		"waypoints": []
 	},
 	{
 		"name": "Prison Cell",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			845343581
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 10,
@@ -65,21 +69,23 @@
 	},
 	{
 		"name": "Tomioka",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-1191537425
 		],
-		"type": "MOBS",
 		"waypoints": []
 	},
 	{
 		"name": "Purple Flags",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 5,
 		"id": [
 			1500789482,
 			664490773
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 32,
@@ -157,12 +163,13 @@
 	},
 	{
 		"name": "Redstone Key",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			684588480,
 			-1986945620
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 26,
@@ -210,12 +217,13 @@
 	},
 	{
 		"name": "Sarcophagus",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1167774036,
 			-771559429
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 15,
@@ -251,6 +259,8 @@
 	},
 	{
 		"name": "Mines",
+		"type": "MOBS",
+		"shape": "2x2",
 		"secret": 10,
 		"id": [
 			-42175953,
@@ -258,7 +268,6 @@
 			-1565557409,
 			-892257050
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 9,
@@ -402,21 +411,23 @@
 	},
 	{
 		"name": "Blood",
+		"type": "BLOOD",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			1898104308,
 			698844034
 		],
-		"type": "BLOOD",
 		"waypoints": []
 	},
 	{
 		"name": "Arrow Trap",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			313879976
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -434,30 +445,33 @@
 	},
 	{
 		"name": "Tombstone",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			535698739
 		],
-		"type": "RARE",
 		"waypoints": []
 	},
 	{
 		"name": "Bomb Defuse",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			86014075
 		],
-		"type": "PUZZLE",
 		"waypoints": []
 	},
 	{
 		"name": "Archway",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 3,
 		"id": [
 			259768244,
 			1440685825
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 1,
@@ -493,20 +507,22 @@
 	},
 	{
 		"name": "Three Weirdos",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-2056613688
 		],
-		"type": "PUZZLE",
 		"waypoints": []
 	},
 	{
 		"name": "Red Green",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1800029469
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 13,
@@ -548,13 +564,14 @@
 	},
 	{
 		"name": "Catwalk",
+		"type": "MINIBOSS",
+		"shape": "1x3",
 		"secret": 6,
 		"id": [
 			-1556782371,
 			-2024953154,
 			1179970013
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 24,
@@ -644,6 +661,8 @@
 	},
 	{
 		"name": "Supertall",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 6,
 		"id": [
 			-296996262,
@@ -651,7 +670,6 @@
 			-1760780706,
 			-1867603567
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 2,
@@ -747,12 +765,13 @@
 	},
 	{
 		"name": "Redstone Crypt",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			1446016334,
 			-889320918
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 9,
@@ -788,11 +807,12 @@
 	},
 	{
 		"name": "Mural",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-743021993
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 26,
@@ -804,11 +824,12 @@
 	},
 	{
 		"name": "Big Red Flag",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-807913351
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 26,
@@ -880,6 +901,8 @@
 	},
 	{
 		"name": "Cathedral",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 8,
 		"id": [
 			-1530782553,
@@ -887,7 +910,6 @@
 			950592972,
 			-508170344
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 19,
@@ -1001,20 +1023,21 @@
 	},
 	{
 		"name": "Hanging Vines",
+		"type": "RARE",
 		"secret": 1,
 		"id": [
 			467751445
 		],
-		"type": "RARE",
 		"waypoints": []
 	},
 	{
 		"name": "Drop",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1779237820
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 5,
@@ -1032,12 +1055,13 @@
 	},
 	{
 		"name": "Bridges",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 6,
 		"id": [
 			1024359556,
 			454887921
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 53,
@@ -1109,20 +1133,22 @@
 	},
 	{
 		"name": "Rare Overgrown",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1907291752
 		],
-		"type": "RARE",
 		"waypoints": []
 	},
 	{
 		"name": "Cobble Wall Pillar",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-170648742
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 28,
@@ -1146,6 +1172,8 @@
 	},
 	{
 		"name": "Museum",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 5,
 		"id": [
 			-1505871564,
@@ -1153,7 +1181,6 @@
 			898168212,
 			-95130049
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 31,
@@ -1237,12 +1264,13 @@
 	},
 	{
 		"name": "Pedestal",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 5,
 		"id": [
 			-1792508076,
 			1549240174
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 31,
@@ -1302,13 +1330,14 @@
 	},
 	{
 		"name": "Lava Ravine",
+		"type": "MOBS",
+		"shape": "L",
 		"secret": 6,
 		"id": [
 			1131013667,
 			2036450719,
 			-854539536
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 29,
@@ -1368,11 +1397,12 @@
 	},
 	{
 		"name": "Quad Lava",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			1865354448
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 5,
@@ -1396,6 +1426,8 @@
 	},
 	{
 		"name": "Waterfall",
+		"type": "MOBS",
+		"shape": "1x4",
 		"secret": 8,
 		"id": [
 			90256084,
@@ -1403,7 +1435,6 @@
 			-1682661340,
 			520419865
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 8,
@@ -1475,13 +1506,14 @@
 	},
 	{
 		"name": "Ice Fill",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-1871216735,
 			72131612,
 			-1404774853
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 16,
@@ -1499,30 +1531,33 @@
 	},
 	{
 		"name": "Dragon",
+		"type": "CHAMPION",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-1334473473
 		],
-		"type": "CHAMPION",
 		"waypoints": []
 	},
 	{
 		"name": "Quiz",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-1517679865,
 			127714189
 		],
-		"type": "PUZZLE",
 		"waypoints": []
 	},
 	{
 		"name": "Dueces",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-697416341
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 2,
@@ -1558,11 +1593,12 @@
 	},
 	{
 		"name": "Beams",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1764045332
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 7,
@@ -1586,11 +1622,12 @@
 	},
 	{
 		"name": "Lots Of Floors",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1112550874
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 25,
@@ -1632,11 +1669,12 @@
 	},
 	{
 		"name": "Andesite",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1701988142
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 1,
@@ -1654,11 +1692,12 @@
 	},
 	{
 		"name": "Overgrown Chains",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			95969553
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 26,
@@ -1682,6 +1721,8 @@
 	},
 	{
 		"name": "Stairs",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 4,
 		"id": [
 			157642096,
@@ -1689,7 +1730,6 @@
 			-265444784,
 			-2033694003
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 44,
@@ -1743,11 +1783,12 @@
 	},
 	{
 		"name": "Ice Path",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-145184586
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 15,
@@ -1759,13 +1800,14 @@
 	},
 	{
 		"name": "Layers",
+		"type": "MOBS",
+		"shape": "L",
 		"secret": 8,
 		"id": [
 			965792061,
 			-923498250,
 			161195688
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 25,
@@ -1873,11 +1915,12 @@
 	},
 	{
 		"name": "Overgrown",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-726297434
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 4,
@@ -1919,6 +1962,8 @@
 	},
 	{
 		"name": "Mossy",
+		"type": "MINIBOSS",
+		"shape": "1x4",
 		"secret": 4,
 		"id": [
 			-751626537,
@@ -1926,7 +1971,6 @@
 			1402530236,
 			-408036566
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 2,
@@ -1968,13 +2012,14 @@
 	},
 	{
 		"name": "Creeper Beams",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			1264110624,
 			866773091,
 			-1655263707
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 15,
@@ -1986,11 +2031,12 @@
 	},
 	{
 		"name": "Small Stairs",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-998001944
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 24,
@@ -2014,11 +2060,12 @@
 	},
 	{
 		"name": "Mushroom",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			1461632797
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 16,
@@ -2030,11 +2077,12 @@
 	},
 	{
 		"name": "Dip",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1373895553
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 18,
@@ -2070,6 +2118,8 @@
 	},
 	{
 		"name": "Flags",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 7,
 		"id": [
 			-55302423,
@@ -2077,7 +2127,6 @@
 			-2069105515,
 			908422074
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 37,
@@ -2155,13 +2204,14 @@
 	},
 	{
 		"name": "Slime",
+		"type": "MOBS",
+		"shape": "1x3",
 		"secret": 5,
 		"id": [
 			419670099,
 			136252599,
 			878407749
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 3,
@@ -2209,11 +2259,12 @@
 	},
 	{
 		"name": "Small Waterfall",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1188349447
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 3,
@@ -2237,11 +2288,12 @@
 	},
 	{
 		"name": "Double Diamond",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			1857926981
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 24,
@@ -2319,11 +2371,12 @@
 	},
 	{
 		"name": "Temple",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			1575914755
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 20,
@@ -2353,12 +2406,13 @@
 	},
 	{
 		"name": "Scaffolding",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-2146618657,
 			-2091078305
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 18,
@@ -2376,11 +2430,12 @@
 	},
 	{
 		"name": "Vinny 8 Ball",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			872815555
 		],
-		"type": "RARE",
 		"waypoints": [
 			{
 				"x": 26,
@@ -2392,6 +2447,8 @@
 	},
 	{
 		"name": "Pit",
+		"type": "MOBS",
+		"shape": "1x4",
 		"secret": 5,
 		"id": [
 			-1477466539,
@@ -2400,7 +2457,6 @@
 			968300381,
 			634229450
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 113,
@@ -2448,20 +2504,22 @@
 	},
 	{
 		"name": "Hall",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-442394410
 		],
-		"type": "MOBS",
 		"waypoints": []
 	},
 	{
 		"name": "Duncan",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-1999038851
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 13,
@@ -2479,13 +2537,14 @@
 	},
 	{
 		"name": "Deathmite",
+		"type": "MINIBOSS",
+		"shape": "1x3",
 		"secret": 6,
 		"id": [
 			706341009,
 			2089865315,
 			-414187054
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 12,
@@ -2551,6 +2610,8 @@
 	},
 	{
 		"name": "New Trap",
+		"type": "TRAP",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1471076910,
@@ -2558,7 +2619,6 @@
 			-686376510,
 			1851993785
 		],
-		"type": "TRAP",
 		"waypoints": [
 			{
 				"x": 21,
@@ -2624,13 +2684,14 @@
 	},
 	{
 		"name": "Pressure Plates",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 6,
 		"id": [
 			763731417,
 			-2105744124,
 			2023286596
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 4,
@@ -2696,20 +2757,22 @@
 	},
 	{
 		"name": "Lava Pit",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-695235565
 		],
-		"type": "RARE",
 		"waypoints": []
 	},
 	{
 		"name": "Trinity",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 4,
 		"id": [
 			302128578
 		],
-		"type": "RARE",
 		"waypoints": [
 			{
 				"x": 7,
@@ -2739,11 +2802,12 @@
 	},
 	{
 		"name": "Banners",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-1092023380
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 27,
@@ -2755,11 +2819,12 @@
 	},
 	{
 		"name": "Basement",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			1491050733
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 5,
@@ -2771,11 +2836,12 @@
 	},
 	{
 		"name": "Black Flag",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1779299819
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 27,
@@ -2799,11 +2865,11 @@
 	},
 	{
 		"name": "Mini Rail Track",
+		"type": "RARE",
 		"secret": 3,
 		"id": [
 			-701175845
 		],
-		"type": "RARE",
 		"waypoints": [
 			{
 				"x": 20,
@@ -2827,12 +2893,13 @@
 	},
 	{
 		"name": "Tic Tac Toe",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-738945309,
 			29612250
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 9,
@@ -2850,12 +2917,13 @@
 	},
 	{
 		"name": "Doors",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 5,
 		"id": [
 			-811830702,
 			551939185
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 5,
@@ -2915,11 +2983,12 @@
 	},
 	{
 		"name": "Knight",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-1519890056
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 6,
@@ -2943,11 +3012,12 @@
 	},
 	{
 		"name": "Slabs",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			568922940
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 22,
@@ -2965,11 +3035,12 @@
 	},
 	{
 		"name": "Cell",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			1560740373
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 10,
@@ -2981,6 +3052,8 @@
 	},
 	{
 		"name": "Hallway",
+		"type": "MINIBOSS",
+		"shape": "1x4",
 		"secret": 3,
 		"id": [
 			-1326659171,
@@ -2988,7 +3061,6 @@
 			-1454277723,
 			1020848351
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 28,
@@ -3066,13 +3138,14 @@
 	},
 	{
 		"name": "Chambers",
+		"type": "MOBS",
+		"shape": "L",
 		"secret": 5,
 		"id": [
 			-27291325,
 			-2119802509,
 			-546080393
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 53,
@@ -3150,13 +3223,14 @@
 	},
 	{
 		"name": "Withermancer",
+		"type": "MOBS",
+		"shape": "L",
 		"secret": 4,
 		"id": [
 			902780459,
 			1963543962,
 			1140917779
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 54,
@@ -3216,12 +3290,13 @@
 	},
 	{
 		"name": "Gold",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 1,
 		"id": [
 			992885012,
 			35550104
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -3275,6 +3350,8 @@
 	},
 	{
 		"name": "Atlas",
+		"type": "MOBS",
+		"shape": "2x2",
 		"secret": 6,
 		"id": [
 			-190201621,
@@ -3282,7 +3359,6 @@
 			740650704,
 			-2080722918
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 38,
@@ -3366,12 +3442,13 @@
 	},
 	{
 		"name": "Dome",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1468156116,
 			291108944
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 25,
@@ -3413,12 +3490,13 @@
 	},
 	{
 		"name": "Balcony",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 4,
 		"id": [
 			1765345183,
 			2133731337
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 27,
@@ -3448,6 +3526,8 @@
 	},
 	{
 		"name": "Boulder",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-1129249963,
@@ -3455,7 +3535,6 @@
 			1280589896,
 			-609854937
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 15,
@@ -3467,20 +3546,22 @@
 	},
 	{
 		"name": "Rare Pillars",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-609209015
 		],
-		"type": "RARE",
 		"waypoints": []
 	},
 	{
 		"name": "Ritual",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-610787478
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 15,
@@ -3510,12 +3591,13 @@
 	},
 	{
 		"name": "Carpets",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			238642395,
 			-76292695
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 15,
@@ -3527,12 +3609,13 @@
 	},
 	{
 		"name": "Crypt",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 5,
 		"id": [
 			1113194131,
 			1376295224
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 13,
@@ -3688,13 +3771,14 @@
 	},
 	{
 		"name": "Market",
+		"type": "MINIBOSS",
+		"shape": "L",
 		"secret": 5,
 		"id": [
 			945592478,
 			-1882970229,
 			300771790
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 16,
@@ -3766,11 +3850,12 @@
 	},
 	{
 		"name": "Blue Skulls",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-1410316771
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 27,
@@ -3788,6 +3873,8 @@
 	},
 	{
 		"name": "Grass Ruin",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 3,
 		"id": [
 			-1049958927,
@@ -3795,7 +3882,6 @@
 			2015882449,
 			-1847986179
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 3,
@@ -3856,13 +3942,14 @@
 	},
 	{
 		"name": "Criss Cross",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			650161016,
 			1002362494,
 			-1879625096
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 15,
@@ -3880,11 +3967,12 @@
 	},
 	{
 		"name": "Spikes",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			1484939648
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 4,
@@ -3908,6 +3996,8 @@
 	},
 	{
 		"name": "Rails",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 9,
 		"id": [
 			-746461328,
@@ -3915,7 +4005,6 @@
 			-1272603595,
 			-1882412922
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 27,
@@ -4065,11 +4154,12 @@
 	},
 	{
 		"name": "Sand Dragon",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			1781758146
 		],
-		"type": "RARE",
 		"waypoints": [
 			{
 				"x": 15,
@@ -4081,20 +4171,22 @@
 	},
 	{
 		"name": "King Midas",
+		"type": "GOLD",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-1916395486
 		],
-		"type": "GOLD",
 		"waypoints": []
 	},
 	{
 		"name": "Perch",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-444976906
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 15,
@@ -4112,6 +4204,8 @@
 	},
 	{
 		"name": "Red Blue",
+		"type": "MINIBOSS",
+		"shape": "1x3",
 		"secret": 4,
 		"id": [
 			794366741,
@@ -4119,7 +4213,6 @@
 			-362002608,
 			-608091458
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 57,
@@ -4173,12 +4266,13 @@
 	},
 	{
 		"name": "Mage",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 4,
 		"id": [
 			1475692888,
 			925853313
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 16,
@@ -4238,6 +4332,7 @@
 	},
 	{
 		"name": "Miniboss",
+		"type": "GOLD",
 		"secret": 0,
 		"id": [
 			652570347,
@@ -4245,16 +4340,16 @@
 			-1199831932,
 			-1637527174
 		],
-		"type": "GOLD",
 		"waypoints": []
 	},
 	{
 		"name": "End",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-531914593
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 15,
@@ -4302,6 +4397,8 @@
 	},
 	{
 		"name": "Gravel",
+		"type": "MINIBOSS",
+		"shape": "1x3",
 		"secret": 6,
 		"id": [
 			-1149900195,
@@ -4309,7 +4406,6 @@
 			1422441247,
 			244770880
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 35,
@@ -4387,13 +4483,14 @@
 	},
 	{
 		"name": "Altar",
+		"type": "MOBS",
+		"shape": "L",
 		"secret": 6,
 		"id": [
 			1591923028,
 			1958840063,
 			-1927723170
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -4483,11 +4580,12 @@
 	},
 	{
 		"name": "Mirror",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			76347246
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 3,
@@ -4499,20 +4597,22 @@
 	},
 	{
 		"name": "Fairy",
+		"type": "FAIRY",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-645035252
 		],
-		"type": "FAIRY",
 		"waypoints": []
 	},
 	{
 		"name": "Zodd",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-1403940419
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 7,
@@ -4524,12 +4624,13 @@
 	},
 	{
 		"name": "Steps",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			755816704,
 			-340486787
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -4541,11 +4642,12 @@
 	},
 	{
 		"name": "Cage",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-407233803
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 12,
@@ -4557,11 +4659,12 @@
 	},
 	{
 		"name": "Stone Window",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1740718028
 		],
-		"type": "RARE",
 		"waypoints": [
 			{
 				"x": 2,
@@ -4579,13 +4682,14 @@
 	},
 	{
 		"name": "Well",
+		"type": "MINIBOSS",
+		"shape": "L",
 		"secret": 7,
 		"id": [
 			629394370,
 			1261773246,
 			1276013917
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -4651,11 +4755,12 @@
 	},
 	{
 		"name": "Chains",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-448181487
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 27,
@@ -4679,11 +4784,12 @@
 	},
 	{
 		"name": "Cages",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-1164795630
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 28,
@@ -4719,12 +4825,13 @@
 	},
 	{
 		"name": "Grand Library",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 4,
 		"id": [
 			-1142842273,
 			648931278
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 6,
@@ -4796,11 +4903,12 @@
 	},
 	{
 		"name": "Sloth",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-566399217
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 8,
@@ -4812,11 +4920,12 @@
 	},
 	{
 		"name": "Granite",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-41110951
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -4840,11 +4949,12 @@
 	},
 	{
 		"name": "Staircase",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-151940807
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 28,
@@ -4880,11 +4990,12 @@
 	},
 	{
 		"name": "Leaves",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			643669164
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 14,
@@ -4908,22 +5019,24 @@
 	},
 	{
 		"name": "Entrance",
+		"type": "SPAWN",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			-16485885,
 			-47045487,
 			77375583
 		],
-		"type": "SPAWN",
 		"waypoints": []
 	},
 	{
 		"name": "Long Hall",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			587195362
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 18,
@@ -4977,11 +5090,12 @@
 	},
 	{
 		"name": "Raccoon",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 4,
 		"id": [
 			-1723880923
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 6,
@@ -5023,12 +5137,13 @@
 	},
 	{
 		"name": "Higher Blaze",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-1752027278,
 			-1477567187
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 2,
@@ -5046,12 +5161,12 @@
 	},
 	{
 		"name": "Silvers Sword",
+		"type": "MOBS",
 		"secret": 1,
 		"id": [
 			-224496952,
 			-1899702429
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 18,
@@ -5063,6 +5178,8 @@
 	},
 	{
 		"name": "Quartz Knight",
+		"type": "MINIBOSS",
+		"shape": "1x4",
 		"secret": 7,
 		"id": [
 			667192030,
@@ -5070,7 +5187,6 @@
 			-1420471034,
 			-215394360
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 6,
@@ -5154,11 +5270,12 @@
 	},
 	{
 		"name": "Teleport Maze",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			799715466
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 15,
@@ -5170,11 +5287,12 @@
 	},
 	{
 		"name": "Locked Away",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			706748439
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 26,
@@ -5186,11 +5304,12 @@
 	},
 	{
 		"name": "Logs",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 4,
 		"id": [
 			1783642819
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 25,
@@ -5244,13 +5363,14 @@
 	},
 	{
 		"name": "Dino Site",
+		"type": "MINIBOSS",
+		"shape": "L",
 		"secret": 4,
 		"id": [
 			-678116754,
 			-970680134,
 			1735273877
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 9,
@@ -5280,12 +5400,13 @@
 	},
 	{
 		"name": "Old Trap",
+		"type": "TRAP",
+		"shape": "1x1",
 		"secret": 4,
 		"id": [
 			1590699551,
 			-85564220
 		],
-		"type": "TRAP",
 		"waypoints": [
 			{
 				"x": 26,
@@ -5333,20 +5454,22 @@
 	},
 	{
 		"name": "Admin",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			518379920
 		],
-		"type": "MOBS",
 		"waypoints": []
 	},
 	{
 		"name": "Painting",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 2,
 		"id": [
 			-725718835
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 24,
@@ -5370,11 +5493,12 @@
 	},
 	{
 		"name": "Multicolored",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-543960045
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 25,
@@ -5386,12 +5510,13 @@
 	},
 	{
 		"name": "Redstone Warrior",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 3,
 		"id": [
 			217300640,
 			-380862700
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 24,
@@ -5451,11 +5576,12 @@
 	},
 	{
 		"name": "Jumping Skulls",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			205151025
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 26,
@@ -5467,13 +5593,14 @@
 	},
 	{
 		"name": "Diagonal",
+		"type": "MINIBOSS",
+		"shape": "1x3",
 		"secret": 4,
 		"id": [
 			516895741,
 			476976104,
 			-959823640
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 90,
@@ -5527,22 +5654,24 @@
 	},
 	{
 		"name": "Three Floors",
+		"type": "RARE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-1444508608
 		],
-		"type": "RARE",
 		"waypoints": []
 	},
 	{
 		"name": "Spider",
+		"type": "MINIBOSS",
+		"shape": "L",
 		"secret": 9,
 		"id": [
 			-716030238,
 			-1647063650,
 			-40178107
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 28,
@@ -5692,12 +5821,13 @@
 	},
 	{
 		"name": "Skull",
+		"type": "MOBS",
+		"shape": "1x2",
 		"secret": 2,
 		"id": [
 			-1554372511,
 			80464378
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 2,
@@ -5721,13 +5851,14 @@
 	},
 	{
 		"name": "Pirate",
+		"type": "MOBS",
+		"shape": "L",
 		"secret": 6,
 		"id": [
 			884966227,
 			252263088,
 			2061161472
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 19,
@@ -5823,6 +5954,8 @@
 	},
 	{
 		"name": "Buttons",
+		"type": "MINIBOSS",
+		"shape": "2x2",
 		"secret": 5,
 		"id": [
 			-493713078,
@@ -5830,7 +5963,6 @@
 			1033549564,
 			112871973
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 57,
@@ -5938,12 +6070,13 @@
 	},
 	{
 		"name": "Lower Blaze",
+		"type": "PUZZLE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-441650545,
 			911747293
 		],
-		"type": "PUZZLE",
 		"waypoints": [
 			{
 				"x": 2,
@@ -5961,13 +6094,14 @@
 	},
 	{
 		"name": "Wizard",
+		"type": "MOBS",
+		"shape": "1x3",
 		"secret": 4,
 		"id": [
 			-1164862049,
 			222124420,
 			926568393
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 17,
@@ -6057,6 +6191,8 @@
 	},
 	{
 		"name": "Pipes",
+		"type": "MOBS",
+		"shape": "1x4",
 		"secret": 7,
 		"id": [
 			464805832,
@@ -6064,7 +6200,6 @@
 			-1208278490,
 			1917735700
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 107,
@@ -6160,11 +6295,12 @@
 	},
 	{
 		"name": "Golden Oasis",
+		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			178277726
 		],
-		"type": "MOBS",
 		"waypoints": [
 			{
 				"x": 12,
@@ -6206,13 +6342,14 @@
 	},
 	{
 		"name": "Melon",
+		"type": "MINIBOSS",
+		"shape": "L",
 		"secret": 7,
 		"id": [
 			-1164821574,
 			578838281,
 			-1740446783
 		],
-		"type": "MINIBOSS",
 		"waypoints": [
 			{
 				"x": 59,
@@ -6299,5 +6436,36 @@
 				"category": "break"
 			}
 		]
+	},
+	{
+		"name": "Default",
+		"type": "CHAMPION",
+		"shape": "1x1",
+		"secret": 0,
+		"id": [
+			652570347,
+			1956609103
+		],
+		"waypoints": []
+	},
+	{
+		"name": "Rail Track",
+		"type": "RARE",
+		"shape": "1x1",
+		"secret": 3,
+		"id": [
+			-701175845
+		],
+		"waypoints": []
+	},
+	{
+		"name": "Silver Sword",
+		"type": "NORMAL",
+		"shape": "1x1",
+		"secret": 1,
+		"id": [
+			-224496952
+		],
+		"waypoints": []
 	}
 ]
