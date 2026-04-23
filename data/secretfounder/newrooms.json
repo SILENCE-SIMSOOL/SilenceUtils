@@ -4333,6 +4333,7 @@
 	{
 		"name": "Miniboss",
 		"type": "GOLD",
+		"shape": "1x1",
 		"secret": 0,
 		"id": [
 			652570347,
