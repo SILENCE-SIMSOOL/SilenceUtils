@@ -1024,6 +1024,7 @@
 	{
 		"name": "Hanging Vines",
 		"type": "RARE",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			467751445
@@ -2866,6 +2867,7 @@
 	{
 		"name": "Mini Rail Track",
 		"type": "RARE",
+		"shape": "1x1",
 		"secret": 3,
 		"id": [
 			-701175845
@@ -5163,6 +5165,7 @@
 	{
 		"name": "Silvers Sword",
 		"type": "MOBS",
+		"shape": "1x1",
 		"secret": 1,
 		"id": [
 			-224496952,
