@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Shadow Assassin",
-		"type": "GOLD",
+		"type": "CHAMPION",
 		"shape": "1x1",
 		"secret": 0,
 		"id": [
@@ -4172,7 +4172,7 @@
 	},
 	{
 		"name": "King Midas",
-		"type": "GOLD",
+		"type": "CHAMPION",
 		"shape": "1x1",
 		"secret": 0,
 		"id": [
@@ -4333,7 +4333,7 @@
 	},
 	{
 		"name": "Miniboss",
-		"type": "GOLD",
+		"type": "CHAMPION",
 		"shape": "1x1",
 		"secret": 0,
 		"id": [
