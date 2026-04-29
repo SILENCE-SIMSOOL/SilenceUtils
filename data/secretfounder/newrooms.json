@@ -6463,7 +6463,7 @@
 	},
 	{
 		"name": "Silver Sword",
-		"type": "NORMAL",
+		"type": "MOBS",
 		"shape": "1x1",
 		"secret": 1,
 		"id": [
