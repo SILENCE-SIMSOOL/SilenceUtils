@@ -5021,7 +5021,7 @@
 	},
 	{
 		"name": "Entrance",
-		"type": "SPAWN",
+		"type": "ENTRANCE",
 		"shape": "1x1",
 		"secret": 0,
 		"id": [
