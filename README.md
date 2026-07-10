@@ -22,99 +22,71 @@
 	</a>
 </p>
 
-## ❓ SILENCE UTILS 란
-**사일런스 유틸** 모드는 마인크래프트 **1.8.9 버전**을 지원하는 **포지 모드**입니다.  
-이 모드는 하이픽셀 스카이블럭 게임을 위해 만들어졌으며, 그중 던전을 중심으로 스카이블럭의 주요 게임들을 위주로 도움을 주기 위한 모드입니다.  
-스카이블럭을 제외하고도 마인크래프트 게임 성능 향상을 위한 최적화 기능, 간편 명령어, 오토 스프린트 기능 등 게임 플레이의 질을 향상시켜 줄 가벼운 기능들을 포함하고 있습니다.  
+## Vision of Silence Utils
+Silence Utils pursues three ultimate goals:
+1. **Consolidated Features:** Implement all useful and essential features within a single mod.
+2. **Lightweight & High Performance:** Keep the mod lightweight and performance-friendly to elevate the gameplay experience.
+3. **Focused Development:** Avoid unnecessary features to keep the mod streamlined and suitable for everyone.
 
-원래 사일런스 유틸은 **선택된 필자의 지인들에게만 공유**되는 **프라이베잇 한 모드**였습니다.  
-하지만 많은 분들의 요청으로 공개하기로 결정되었습니다.  
+Development of Silence Utils is heavily focused on Dungeons and tailored toward veteran players.
 
-사일런스 유틸은 **2022년 12월**에 처음 **제작**되었으며, 초창기에는 **필자가 사용하기 위해** 만들어졌습니다.  
-근래에 스카이블럭 모드들은 정말 다양해졌지만, 실질적으로 필요한 기능들을 제외한 **무겁고 필요없는 기능들을 잔뜩 담은 모드**들이 많습니다.  
-하지만 사일런스 유틸은 **실용적**이고 **기능적**이며 **고급 기능**들을 갖추고있습니다.  
-또한 모드 한 개로 **모든 기능을 대체**할 수 있다는 편의성도 갖추고 있습니다.  
-사일런스 유틸은 매우 효율적으로 동작하기 때문에 성능이 뛰어나 **프레임 향상**에 큰 도움을 줍니다.  
+## 📘 Other Valuable Mods
+Silence Utils does not implement features for specific themes or events. Here's why:
+- They offer limited general utility while adding significant weight and complexity.
+- Excellent dedicated mods for those specific themes already exist.
 
-## 🛫 모드가 추구하는 방향성
-위의 설명을 통해 알 수 있듯이 사일런스 유틸모드는 가능한 많은 **잡다한 기능들을 만들려고 노력하지 않습니다**.  
-모드를 제작할 때 **성능과 게임의 질**을 가장 우선시 생각하며 **이 기능이 정말 유용한 기능인가**, **유용함에 비해 성능을 너무 떨어트리진 않는가** 등을 중점적으로 봅니다.  
-이는 정말 많은 기능 요청들이 있었지만 제작할 수 없는 이유입니다.  
-또한 **던전 중심의 모드**이기 때문에 던전을 제외한 무거운 기능들은 만들지 않습니다.  
+Therefore, SILENCE recommends the following mods:
 
-이 게임은 저사양 게임이지만 스카이블럭 유저들은 매우 무겁고 많은 모드들을 사용하며 낮은 프레임으로 게임을 플레이합니다.  
-또한 특정 모드에 밖에 없는 몇 가지 기능 때문에 불필요한 기능이 많은 무거운 모드를 사용하게 됩니다.  
-그래서 이 끔찍한 성능저하를 막고 **성능**과 **기능**, **편의성**을 모두 갖춘 모드를 만들고 있습니다.  
+| Mod Name | Description | Notes |
+| :--- | :--- | :--- |
+| [SBO](https://github.com/SkyblockOverhaul/SBO) | Well-implemented features and community tools for the Diana Event. | Responds very quickly to Hypixel updates. |
+| [SkyHanni](https://github.com/hannibal002/SkyHanni) | Contains various useful features like Rift and Foraging. Great for SkyBlock leveling. | Based on NEU, inheriting the heavy, performance-degrading structure of the 1.8.9 era. However, it is still a solid choice for beginners due to the exclusive features it offers. |
+| [SkyCofl](https://github.com/Coflnet/SkyblockmodFabric) | Provides a powerful API for item pricing and market data. | |
 
-## 📘 가치가 있는 다른 모드들
-| 모드 이름                                                                                        | 기능 설명                                       | 기타사항                                          |
-|---------------------------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------|
-| [MeowMap](https://github.com/SILENCE-SIMSOOL/meow-map)                                            | 던전 맵 모드. 가벼우며 깔끔한 디자인             | |
-| [FixDungeonBreaker](https://github.com/SILENCE-SIMSOOL/FixDungeonBreaker)                         | 핑에 의한 느리게 캐지는 던전 브레이커를 고침.    | |
-| [Scrollable Tooltips](https://sk1er.club/mods/text_overflow_scroll)                               | 아이템 툴팁을 스크롤링 할 수 있음.               | |
-| [Chatting](https://modrinth.com/mod/chatting)                                                     | 채팅 관련 유용한 기능들.                         | |
-| [VanillaHUD](https://modrinth.com/mod/vanillahud)                                                 | HUD 요소들을 관리.                               | HUDCaching 과 호환의 문제가 있을 수 있으며 프레임을 조금 떨어트림. |
-| [Motion Blur](https://modrinth.com/mod/polyblur)                                                  | 모션 블러 처리.                                  | 프레임을 매우 떨어트림. |
-| [Old Animation](https://modrinth.com/mod/animations)                                              | 블럭힛 모션을 포함한 아이템 애니메이션 관리.      | |
+## ✨ First-in-class Features Created by Silence Utils
 
-| 모드 이름                                                                                         | 유용한 기능                                        | 기타 사항                                   |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------|
-| [Skyhanni](https://github.com/hannibal002/SkyHanni)                                               | 다이에나 이벤트와 리프트에서 유용한 기능들이 있음.   | 성능 저하가 매우 심함.                       |
+| Date | Feature / Mod Name | Description |
+| :--- | :--- | :--- |
+| Feb 15, 2024 | Dungeon Queue Ready | Starts the dungeon after checking the ready status of party members. |
+| Feb 18, 2024 | Dungeon Class Alert | Plays a notification sound and displays a title message based on your selected class. |
+| Feb 18, 2024 | Terminal Waypoint | Displays color-coded waypoints for each class in terminals. Also displays where to aim when using a Terminator on the 4th device, and visual boundaries separating Goldor's Door and the terminal. |
+| Feb 18, 2024 | Farming Trigger | Leverages overlapping keybinds introduced in 1.20 to bind left-click to the A and D keys, allowing farming without using a mouse. |
+| Mar 2, 2024 | GUI Icon (ArrowShop, Abiphone..) | Replaces default slot item rendering with custom icons to make items easily distinguishable. |
+| Mar 2, 2024 | PartyFinder Manager | Filters parties by tracking included and missing classes. |
+| Mar 19, 2024 | i4(Pre4) Status (DeviceStatus) | Indicates whether the 4th device has been cleared. (Later renamed to Device Status). |
+| Apr 23, 2024 | Fix Teleport | Parallels item usage to enable teleportation independent of latency. Inspired by the ZPEW ChatTriggers module, this was developed by researching calculation formulas for standard teleports like Hyperion and Aspect of the End. (No longer functional due to Hypixel updates). |
+| Apr 25, 2024 | Multiple Keybind | Assigns a chat message or command to execute when middle-clicking a SkyBlock item. |
+| Apr 28, 2024 | SlotBind | Unlike traditional SlotBind, this specifies the exact slot for SkyBlock items for versatile layouts. Items automatically return to their designated slots, making organization effortless. |
+| Aug 11, 2024 | SpiritLeap | Improves the SpiritLeap Screen designed by BetterMap with UI adjustments and new features. Leap to a specific class via keybinds, or perform blood rush easily using a dedicated keybind. Buttons are color-coded and display items for easier class identification. Pressing the map keybind opens a map overlay to quickly locate and leap to players. |
+| May 4, 2024 | GUI Click Fix | Optimizes GUI clicks using smarter methods. |
+| May 4, 2024 | MiningFix | Resolves client-side block breaking delays caused by latency. |
+| Mar 22, 2025 | Optimized Boulder Solver | Since the Boulder Puzzle can be triggered by clicking signs, this solver calculates and shows the absolute most optimized path. Its extremely fast pattern detection and solution computation provide the answer instantly upon entering the room, unlike other mods such as Skytils. |
+| Jun 23, 2025 | Skyblock Culling | Applies custom culling optimized for Skyblock to save hardware resources and significantly boost FPS. |
+| Sep 28, 2025 | Call & Dungeon Overlay | Simple UI overlay to execute the `/call` command or start a dungeon with a single click. |
+| Oct 20, 2024 | WardrobeScreen | Inspired by SkyHanni. Features larger, highly intuitive buttons for easier wardrobe navigation. Integrates legacy WardrobeControl keybinds to select slots and supports the popular "Swap Keybind" feature. |
+| Oct 25, 2025 | Melody Solver | Prevents clicks when they shouldn't happen. Allows safe spam clicking, helping high-ping players easily achieve 4-instant clicks. |
+| Oct 29, 2025 | Fix DungeonBreaker | Fixes the latency dependency when mining non-stone blocks in 1.8.9. For version 1.20+, it fixes a delay issue when starting to mine with another item. It also automatically protects blocks that shouldn't be broken, such as chests and redstone blocks. |
+| Nov 14, 2025 | Leap Message | Detects leap messages and reformats them with class names and colors for improved readability (e.g., `[A] Steve ➜ [M] SimSool`). |
+| Nov 20, 2025 | Clean Dungeon Message | Filters out unnecessary chat spam and restructures messages to keep the chat clean and readable. |
+| Dec 14, 2025 | 3x3 Necron Waypoint | Added waypoints showing the 3x3 positions the Healer needs to break during the Necron Phase. |
+| Nov 26, 2025 | Ability Keybind | Maps the Ctrl+Drop action to a single key, enabling dungeon abilities with a single keystroke. |
 
+## 📖 Terms of Service
+1. Users assume full responsibility for using this mod.
+2. Minimal user information may be collected for error reporting and diagnostics.
+3. The mod must not be used for malicious purposes.
 
+## 🙏 Credits & Contributors
+> Translation
+- _limu
 
-## ✨ 사일런스 유틸이 최초로 제작한 모드들
-해당 모드들은 **사일런스 유틸이 최초로 제작**한 모드들입니다.
+> Ideas & Assistance
+- [Catsino](https://github.com/HexPaw)
+- [yua](https://www.youtube.com/@whiteups)
+- [PLG4](https://www.youtube.com/@SEXYPLUG)
+- s._.un.
+- wbwi
 
-| 날짜             | 모드 이름                           |
-|------------------|--------------------------------------|
-| 2024년 2월 15일  | 던전 큐 Ready                        |
-| 2024년 2월 18일  | 터미널 클래스 웨이포인트             |
-| 2024년 2월 18일  | 파밍 서포터                          |
-| 2024년 3월 2일   | Arrow Shop Icon                      |
-| 2024년 3월 2일   | PartyFinder Manager                  |
-| 2024년 3월 2일   | Croesus Icon                         |
-| 2024년 3월 8일   | Dungeon Class 알림                   |
-| 2024년 3월 8일   | Crystal 알림                         |
-| 2024년 3월 19일  | i4(Pre4) 알림 및 상태체크            |
-| 2024년 4월 23일  | Fix Teleport                         |
-| 2024년 4월 25일  | Multiple Keybind                     |
-| 2024년 5월 4일   | Fix Gui 모드                         |
-| 2024년 5월 4일   | i4(Pre4) 위치 알림                   |
-| 2024년 5월 4일   | Fix Breaking                         |
-| 2024년 11월 17일 | Device 상태                          |
-| 2025년 3월 22일  | 최적의 경로 Boulder 솔버             |
-| 2025년 11월 3일  | Fix DungeonBreaker                   |
-
-## 📖 더 자세하게 알아보기
-자세한 기능 설명들은 [디스코드](https://discord.gg/2Zt8HDksJs) 방을 참고해주세요.  
-사일런스 유틸의 모드 기능들은 [여기에서](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/ModList.md) 확인하실 수 있습니다.  
-시크릿 파운더는 [여기에서](https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation/blob/main/docs/secretfounder/INFO.md) 확인하실 수 있습니다.  
-
-## 💸 프리미엄
-프리미엄은 제한된 유저들에게만 기회가 제공되며 결제를 통해 권한을 얻을 수 있습니다.  
-프리미엄 유저는 베타 버전 이용과 기능 추가를 요구할 수 있으며 모드 사용자들에게만 보이는 치장들을 이용할 수 있습니다.  
-
-## 📖 이용약관
-① 모드 사용에 대한 모든 책임은 사용자에게 있습니다.  
-② 모드를 제3자에게 공유하지 않습니다.  
-③ 사용자의 개인정보 정보를 일부 수집합니다. (수집 내용: 하드웨어 아이디, 오류 해결 및 환경 개선을 위한 보고)  
-
-## 🙏 제작에 도움을 주신 분들
-> 번역 작업
-- 함월(_limu)
-
-> 테스트 작업
-- 하힐(s._.un.)
-- 쥬자(wbwi)
-- [유아(yua)](https://www.youtube.com/@whiteups)
-- [휘람(Florline)](https://github.com/HexPaw)
-- [플러그(PLG4)](https://www.youtube.com/@SEXYPLUG)
-
-> 제작 도움 / 아이디어 제공
-- 하힐(s._.un.)
-- [유아(yua)](https://www.youtube.com/@whiteups)
-- [플러그(PLG4)](https://www.youtube.com/@SEXYPLUG)
-
-> 제작 참여
-- 라이트(_Light): 인벤토리 버튼 초기버전 제작
+> Development
+- [Daniel](https://github.com/Gentor-a11y): Co-developer
+- _Light: Initial version of the inventory button
