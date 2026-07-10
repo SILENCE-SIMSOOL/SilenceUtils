@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-	<a href="https://silencedev.kro.kr/" target="_blank">
-		<img alt="website" src="https://img.shields.io/badge/website-silencedev-2081e2?style=flat-square" />
-	</a>
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
 		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils?color=E0E0E0&style=flat-square" />
 	</a>
 	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
 		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils/total?color=8b4db6&style=flat-square" />
+	</a>
+	<a href="https://silencedev.kro.kr/" target="_blank">
+		<img alt="website" src="https://img.shields.io/badge/website-silencedev-2081e2?style=flat-square" />
 	</a>
 	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
 		<img alt="discord" src="https://img.shields.io/discord/1312525891225784421?color=5865F2&label=discord&style=flat-square" />
