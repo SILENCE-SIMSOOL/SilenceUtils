@@ -86,11 +86,15 @@ Originally, Silence Utils was developed as a private mod, and there are currentl
 However, the mod is completely unobfuscated. Since Minecraft version 26+, mappings are no longer required, meaning you can easily view the entire source code using any decompiler. If you suspect any malicious code (like a RAT), you are more than welcome to run it through any malware/RAT scanner of your choice.
 
 ## 📖 Terms of Service
-1. Users assume full responsibility for using this mod.
-2. Minimal user information may be collected for error reporting and diagnostics.
-3. The mod must not be used for malicious purposes.
+① Users assume full responsibility for using this mod.
+② Minimal user information may be collected for error reporting and diagnostics.
+③ The mod must not be used for malicious purposes.
 
 ## 🙏 Credits & Contributors
+> Development
+- [Daniel](https://github.com/Gentor-a11y): Co-developer
+- _Light: Initial version of the inventory button
+
 > Translation
 - _limu
 
@@ -100,7 +104,3 @@ However, the mod is completely unobfuscated. Since Minecraft version 26+, mappin
 - [PLG4](https://www.youtube.com/@SEXYPLUG)
 - s._.un.
 - wbwi
-
-> Development
-- [Daniel](https://github.com/Gentor-a11y): Co-developer
-- _Light: Initial version of the inventory button
