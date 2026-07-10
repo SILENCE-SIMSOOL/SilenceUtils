@@ -71,6 +71,12 @@ Therefore, SILENCE recommends the following mods:
 | Dec 14, 2025 | 3x3 Necron Waypoint | Added waypoints showing the 3x3 positions the Healer needs to break during the Necron Phase. |
 | Nov 26, 2025 | Ability Keybind | Maps the Ctrl+Drop action to a single key, enabling dungeon abilities with a single keystroke. |
 
+## ❓ FAQ
+### Why is Silence Utils not open-source?
+Originally, Silence Utils was developed as a private mod, and there are currently no plans to distribute it on public platforms like Modrinth.
+
+However, the mod is completely unobfuscated. Since Minecraft version 26+, mappings are no longer required, meaning you can easily view the entire source code using any decompiler. If you suspect any malicious code (like a RAT), you are more than welcome to run it through any malware/RAT scanner of your choice.
+
 ## 📖 Terms of Service
 1. Users assume full responsibility for using this mod.
 2. Minimal user information may be collected for error reporting and diagnostics.
