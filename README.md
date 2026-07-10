@@ -31,7 +31,7 @@ Silence Utils pursues three ultimate goals:
 Development of Silence Utils is heavily focused on Dungeons and tailored toward veteran players.
 
 ## 🔌 Dependencies
-Please make sure to use [LucentClient](https://silencedev.kro.kr/en/products/lucent-client).
+Please make sure to use [LucentClient](https://silencedev.kro.kr/en/products/lucent-client).  
 LucentClient includes all useful vanilla enhancements and optimization features.
 
 ## 📘 Other Valuable Mods
@@ -74,6 +74,7 @@ Therefore, SILENCE recommends the following mods:
 | Nov 20, 2025 | Clean Dungeon Message | Filters out unnecessary chat spam and restructures messages to keep the chat clean and readable. |
 | Dec 14, 2025 | 3x3 Necron Waypoint | Added waypoints showing the 3x3 positions the Healer needs to break during the Necron Phase. |
 | Nov 26, 2025 | Ability Keybind | Maps the Ctrl+Drop action to a single key, enabling dungeon abilities with a single keystroke. |
+| Jul 9, 2026 | Loadouts | Renders the Loadouts with a beautiful UI similar to WardrobeScreen, supporting keybinds and the Swap feature. |
 
 ## ❓ FAQ
 ### Why is Silence Utils not open-source?
