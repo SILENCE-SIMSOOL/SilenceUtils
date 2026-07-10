@@ -5,7 +5,8 @@
 <h1 align="center">Silence Utils</h1>
 
 <p align="center">
-	The ultimate SkyBlock all-in-one mod. This advanced mod packs an extensive feature set, combining exceptional quality-of-life enhancements with optimized performance.
+	The ultimate SkyBlock all-in-one mod.
+	This advanced mod packs an extensive feature set, combining exceptional quality-of-life enhancements with optimized performance.
 	Break free from the clutter of numerous mods and lag in SkyBlock.
 </p>
 
