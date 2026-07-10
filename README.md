@@ -1,24 +1,23 @@
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/SILENCE-SIMSOOL/SilenceUtils/main/docs/icon.png" alt="Silence Icon" width="128" height="128" />
+</h3>
+
+<h1 align="center">Silence Utils</h1>
+
 <p align="center">
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils">
-		<img src="resource/title.png" alt="SilenceUtils Documentation" width="1200">
-	</a>
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
-		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils-Documentation?color=E0E0E0&style=flat-square" />
-	</a>
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
-		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils-Documentation/total?color=8b4db6&style=flat-square" />
-	</a>
-	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
-		<img alt="discord" src="https://img.shields.io/discord/1312525891225784421?color=5865F2&label=discord&style=flat-square" />
-	</a>
+	The ultimate SkyBlock all-in-one mod. This advanced mod packs an extensive feature set, combining exceptional quality-of-life enhancements with optimized performance.
+	Break free from the clutter of numerous mods and lag in SkyBlock.
 </p>
 
 <p align="center">
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-Documentation">
-		<img src="resource/kr.png" alt="Korean" width="50">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
+		<img alt="release" src="https://img.shields.io/github/v/release/SILENCE-SIMSOOL/SilenceUtils?color=E0E0E0&style=flat-square" />
 	</a>
-	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils-User-Guide/tree/English">
-		<img src="resource/en.png" alt="English" width="64">
+	<a href="https://github.com/SILENCE-SIMSOOL/SilenceUtils/releases" target="_blank">
+		<img alt="downloads" src="https://img.shields.io/github/downloads/SILENCE-SIMSOOL/SilenceUtils/total?color=8b4db6&style=flat-square" />
+	</a>
+	<a href="https://discord.gg/2Zt8HDksJs" target="_blank">
+		<img alt="discord" src="https://img.shields.io/discord/1312525891225784421?color=5865F2&label=discord&style=flat-square" />
 	</a>
 </p>
 
