@@ -101,7 +101,7 @@ This mod was inspired by [Skytils](https://github.com/Skytils/SkytilsMod) and [D
 - _limu
 
 > Ideas & Assistance
-- [Catsino](https://github.com/HexPaw)
+- [Catsino](https://github.com/archC4t)
 - [yua](https://www.youtube.com/@whiteups)
 - [PLG4](https://www.youtube.com/@SEXYPLUG)
 - s._.un.
