@@ -37,7 +37,7 @@ Development of Silence Utils is heavily focused on Dungeons and tailored toward 
 Make sure to download and install the [LucentClient](https://silencedev.kro.kr/en/products/lucent-client) mod.  
 LucentClient includes all useful vanilla enhancements and optimization features.  
 
-You can open the config screen using the `/su` command.  
+Open the config screen using the `/su`.  
 
 ## 📘 Other Valuable Mods
 Silence Utils does not implement features for specific themes or events. Here's why:
