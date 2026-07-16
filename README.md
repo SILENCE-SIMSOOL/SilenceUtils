@@ -83,7 +83,7 @@ Therefore, SILENCE recommends the following mods:
 
 ## ❓ FAQ
 ### Why is Silence Utils not open-source?
-Originally, Silence Utils was developed as a private mod, and there are currently no plans to distribute it on public platforms like Modrinth.
+Originally, SilenceUtils was a private mod and was never publicly distributed. However, the Fabric version will be open source.
 
 However, the mod is completely unobfuscated. Since Minecraft version 26+, mappings are no longer required, meaning you can easily view the entire source code using any decompiler. If you suspect any malicious code (like a RAT), you are more than welcome to run it through any malware/RAT scanner of your choice.
 
