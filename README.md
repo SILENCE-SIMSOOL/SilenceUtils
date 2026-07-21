@@ -79,6 +79,7 @@ Therefore, SILENCE recommends the following mods:
 | Nov 20, 2025 | Clean Dungeon Message | Filters out unnecessary chat spam and restructures messages to keep the chat clean and readable. |
 | Dec 14, 2025 | 3x3 Necron Waypoint | Added waypoints showing the 3x3 positions the Healer needs to break during the Necron Phase. |
 | Nov 26, 2025 | Ability Keybind | Maps the Ctrl+Drop action to a single key, enabling dungeon abilities with a single keystroke. |
+| Mar 28, 2026 | Terminal Fix Latency | Fixes latency-related issues when clicking terminals. This is a fully legitimate feature and is completely different from macro features such as Queue Terminal Click. Learn more about how it works here. |
 | Jul 9, 2026 | Loadouts | Renders the Loadouts with a beautiful UI similar to WardrobeScreen, supporting keybinds and the Swap feature. |
 
 ## ❓ FAQ
