@@ -94,7 +94,7 @@ However, the mod is completely unobfuscated. Since Minecraft version 26+, mappin
 ③ The mod must not be used for malicious purposes.  
 
 ## 🙏 Credits & Contributors
-This mod was inspired by [Skytils](https://github.com/Skytils/SkytilsMod) and [Devonian](https://github.com/Synnerz/devonian).
+This mod was inspired by [Skytils](https://github.com/Skytils/SkytilsMod), [Devonian](https://github.com/Synnerz/devonian), [Skyblocker](https://github.com/SkyblockerMod/Skyblocker) and [Skyhanni](https://github.com/SkyHanniStudios/SkyHanni).
 
 > Development
 - [Daniel](https://github.com/Gentor-a11y): Co-developer
